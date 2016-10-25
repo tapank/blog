@@ -1,0 +1,11 @@
++++
+title = "Engineer"
+date = "2011-06-18"
++++
+
+> As an engineer, you have a depth of knowledge about your systems and projects
+that no managers can possibly have. With that knowledge comes the
+responsibility to _act_.
+
+-- [Uncle Bob](http://cleancoder.posterous.com/) in his new book [The Clean Coder](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+

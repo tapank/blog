@@ -1,0 +1,11 @@
++++
+title = "Cats"
+date = "2011-07-02"
++++
+
+> I find that trying to talk to my cats about anything is frustrating. As soon
+as they notice they're getting some attention, they'll come and brush against
+me and try to lure me to the kitchen where all the food is.
+
+-- [Rubber Ducking](http://c2.com/cgi/wiki?RubberDucking)
+

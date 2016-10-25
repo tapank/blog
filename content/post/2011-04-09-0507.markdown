@@ -1,0 +1,9 @@
++++
+title = "Why open source"
+date = "2011-04-09"
++++
+
+[Why open source? Here's why...](http://www.marco.org/4458987911)
+
+Every company has its own reason for open sourcing some and protecting some.
+

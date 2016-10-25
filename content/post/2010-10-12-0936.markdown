@@ -1,0 +1,10 @@
++++
+title = "Fame and riches"
+date = "2010-10-12"
++++
+
+> The path to fame and riches in the computer world is through what you do, not
+who you know.
+
+-- Ian Lance Taylor in a [blog post](http://www.airs.com/blog/archives/417)
+

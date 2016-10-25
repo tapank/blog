@@ -1,0 +1,10 @@
++++
+title = "Walls"
+date = "2010-08-24"
++++
+
+> The consequence of not putting any walls around your product is that both the
+good guys and the bad guys can do anything they want with it.
+
+-- [The Dirty Little Secret about Google Android](http://www.zdnet.com/blog/btl/the-dirty-little-secret-about-google-android/38260)
+

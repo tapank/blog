@@ -1,0 +1,10 @@
++++
+title = "Ideas and humans"
+date = "2010-09-06"
++++
+
+> Many humans have given their lives to preserve ideas, but no idea ever died
+to save a human.
+
+-- Scott Adams talks about ideas in a blog post called [Shape Shifters](http://dilbert.com/blog/entry/shape_shifters/)
+

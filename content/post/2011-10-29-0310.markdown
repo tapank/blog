@@ -1,0 +1,9 @@
++++
+title = "Limitations"
+date = "2011-10-29"
++++
+
+> Argue for﻿ your limitations and they will be yours to keep.
+
+-- [Interview with Richard Bach - YouTube](http://www.youtube.com/watch?v=7JjFn2kMrbM)
+

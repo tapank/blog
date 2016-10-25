@@ -1,0 +1,9 @@
++++
+title = "It depends"
+date = "2010-08-28"
++++
+
+> We'd rather be provocative than water everything down with "it depends…"
+
+-- [In a book from 37signals](http://gettingreal.37signals.com/ch01_Caveats_disclaimers_and_other_preemptive_strikes.php)
+

@@ -1,0 +1,11 @@
++++
+title = "Coffee"
+date = "2010-08-24"
++++
+
+> Some of us need regular amounts of coffee or other chemical enhancers to make
+us cognitively sharper. A newly published study suggests perhaps a brief bit
+of meditation would prepare us just as well.
+
+-- [Article](http://www.sciencedaily.com/releases/2010/04/100414184220.htm) in [Science Daily](http://www.sciencedaily.com/)
+

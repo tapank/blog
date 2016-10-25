@@ -1,0 +1,17 @@
++++
+title = "Dashboard in OS X"
+date = "2011-07-30"
++++
+
+Before [OS X Lion](http://en.wikipedia.org/wiki/Mac_OS_X_Lion), Dashboard was a nice thing to have. Just hit the shortcut key (usually F4) to bring up Dashboard to quickly take a peek at one or many widgets running there, and hit the key again to hide it. You are back to whatever you were doing before — does not matter which of the many desktops you were on.
+
+Come Lion, creating a new desktop for a full screen application is as easy as hitting the full screen button (on top right corner of any window). And, side sweep gesture with three or four fingers on the trackpad moves you between multiple desktops. The only drawback with this new ease of navigation is… when I want to go back to the first desktop (to launch a new program or to use any of the open apps on that desktop), I invariably sweep past the first desktop, landing on Dashboard. This is annoying because I expect scrolling to stop once I reach the first desktop because thats my “home desktop” for all practical purposes.
+
+There's a way out since I can live without Dashboard. Ran these two commands on terminal to disable it:
+
+```
+defaults write com.apple.dashboard mcx-disabled -boolean YES
+killall Dock
+```
+
+Jumping between desktops is now fun again.

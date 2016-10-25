@@ -1,0 +1,46 @@
++++
+title = "Process"
+date = "2015-09-20"
++++
+
+Author of "[I'm Sorry, But Agile Won't Fix Your Products][1]" has valid points but something more needs to be said. I am concerned that the onus of creativity is being relegated away from people, as if process is capable of thinking.
+
+It is important to note that Agile is one of many software development processes, and hence it could have been claimed that "Processes will not fix your Products," and the arguments in that article would still hold good. Anybody who has been on a team that delivered working software -- successful or not -- will agree that the most difficult part of product lifecycle is to decide *what* to build. This is a step that tests the toughest of souls and can make strong people cry. Once a decision has been made about *what* needs to be build, then its a race to the finish and process will help with navigate *how*. People may still make mistakes during construction phase, but those mistakes are easy to spot and are hence fixable. No software development process will help during product definition phase, and what makes it challenging is -- product owners need to answer existential questions, including:
+
+1. Why are we in business?
+1. What are we trying to accomplish?
+1. What are our core guiding principles?
+1. How will this product or increment help the business without violating any of the above?
+1. Are we doing this just because we can? Or, are we doing this because we should?
+
+These questions can be difficult to answer, yet must be asked irrespective of process.
+
+Once a decision of *what* has been made, it is time to ask *how*. This is where process steps in, and based on the nature of a product, time to market, nature of target audience, maturity and capacity of development team, etc., a team uses process to take the product to market. But before we decide which process to use, let us remind ourselves why we need process.
+
+**Who needs process?**
+
+One of notions about process is that you need it to help team members with little experience so they don't make rookie mistakes. This notion is not only incorrect, but also hurts a team that has bought into this notion. Ever seen a situation where a senior member of a team will demand that a newbie create a ticket even for a trivial code change, but they themselves will make such changes -- not only without following an agreed "process", but even without informing others in the team? Such a team now has two problems [An exercise for the reader to list the two problems].
+
+A process is needed for mature and experienced team members to synchronize and coordinate their work in order to extract maximum value from a team's effort. Without process, you will have multiple members in a team putting in their best work but the vector of each individual's effort is less than 100 percent along the dimension that a business wants to go. They will keep stepping on each other's foot and will project an inaccurate picture of state of affairs to others in a team, and even outside the team. This is why we need process, but no process can compensate for a lack of thinking that goes into product decisions.
+
+What about rookies in a team? Of course they too need to follow process, but more important, learn why every process step exists and matters. Encourage them to ask *why* a certain process is necessary, and be very happy when they challenge that a certain process is unnecessary. In absence of healthy scepticism for process, the team risks descending into process hell.
+
+Bottomline: a mature team will not only follow process, but constantly evolve it to ensure that the team becomes more efficient and effective with time.
+
+**Agile or agile?**
+
+"Agile", the noun, is the poster kid in the process world and it rose to fame when the [Agile Manifesto][5] was formed. The other "agile" is what the proponents wanted the development teams to be, where agile is an adjective and is a word to be used by a proud technician as such, "I work for an agile team that uses a home grown variation of Scrum and XP to deliver quality software."
+
+So, "Agile" is a well intentioned set of guidelines which were also a snapshot of what made sense at the time. Just like any process, Agile is starting to show signs of age. Unless a team is agile, they will find Agile to be limiting. Kent Beck (one of the signees of the manifesto and the inventor of JUnit) tried to [fix this way back in 2010][4], and recently Dave Thomas (another signee of the manifesto and the author of the Ruby pickaxe book) [said this][3] and he did not pull his punches.
+
+**Conclusion**
+
+A process will not fix your product. A process is a set of guidelines and is as good or bad as the people who use them. A process will not *do* anything -- that is left to the humans. Nothing will fix a product, except the humans involved. There is no escaping the cognitive load of product definition, and we, the humans, are the right 'tool' to take on this responsibility.
+
+And, how do you ship software? There is no [one right answer][2].
+
+[1]: http://firstround.com/review/im-sorry-but-agile-wont-fix-your-products/
+[2]: http://firstround.com/review/the-right-way-to-ship-software/
+[3]: http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
+[4]: https://www.youtube.com/watch?v=d4qldY0g_dI
+[5]: http://www.agilemanifesto.org/

@@ -1,0 +1,9 @@
++++
+title = "Learn"
+date = "2011-10-20"
++++
+
+> You are what you learn
+
+-- [Scott Adams Blog: Who Are You? 10/19/2011](http://dilbert.com/blog/entry/who_are_you/)
+

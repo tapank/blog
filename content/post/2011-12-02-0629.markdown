@@ -1,0 +1,11 @@
++++
+title = "Focus"
+date = "2011-12-02"
++++
+
+> The job of the average manager requires shift in focus every few minutes. The
+job of the average software developer requires that the developer not shift
+focus more often than every few hours.
+
+-- [Software Project Survival Guide](http://www.amazon.com/gp/aw/d/1572316217)
+

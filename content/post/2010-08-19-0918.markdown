@@ -1,0 +1,11 @@
++++
+title = "Competence"
+date = "2010-08-19"
++++
+
+> The miscalibration of the incompetent stems from an error about the self,
+whereas the miscalibration of the highly competent stems from an error about
+others.
+
+-- That explains the cause of [Dunning-Kruger effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+

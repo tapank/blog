@@ -1,0 +1,10 @@
++++
+title = "Questions"
+date = "2011-07-06"
++++
+
+> The questions we ask are more important than the answers we give, since the
+questions determine the potential range of answers.
+
+-- Anonymous
+

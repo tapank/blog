@@ -1,0 +1,11 @@
++++
+title = "Modularity"
+date = "2011-10-13"
++++
+
+> The modular Unix just keeps conforming to new applications. It helps that
+it’s open source but the open sourcing is a result of the modularity not the
+cause for it. So far, it looks like there is no stopping the revenge of Unix.
+
+-- [Unix’s Revenge | asymco](http://www.asymco.com/2010/09/29/unixs-revenge/)
+

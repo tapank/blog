@@ -1,0 +1,10 @@
++++
+title = "Automatic"
+date = "2011-05-07"
++++
+
+> If you find yourself going through your project on automatic, without
+thinking about what you’re doing, then _you aren’t thinking_.
+
+-- [Guru Meditation](http://www.pragprog.com/magazines/2011-05/guru-meditation)
+

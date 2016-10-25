@@ -1,0 +1,7 @@
++++
+title = "Great company"
+date = "2011-06-03"
++++
+
+> Everybody wants to work for a great company. Few want to make a company great.
+

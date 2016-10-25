@@ -1,0 +1,10 @@
++++
+title = "Rescue"
+date = "2012-06-16"
++++
+
+Atul Gawande [talks about][1] the difference between triumph and defeat.
+
+> So you will take risks, and you will have failures. But it’s what happens afterward that is defining. A failure often does not have to be a failure at all. However, you have to be ready for it—will you admit when things go wrong? Will you take steps to set them right?—because the difference between triumph and defeat, you’ll find, isn’t about willingness to take risks. It’s about mastery of rescue.  
+
+[1]:http://www.newyorker.com/online/blogs/newsdesk/2012/06/atul-gawande-failure-and-rescue.html

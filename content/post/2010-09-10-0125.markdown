@@ -1,0 +1,7 @@
++++
+title = "Tumblr widget for Mac"
+date = "2010-09-10"
++++
+
+Trying out the tumblr widget on my Macbook.
+

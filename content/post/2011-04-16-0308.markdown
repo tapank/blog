@@ -1,0 +1,9 @@
++++
+title = "Scala"
+date = "2011-04-16"
++++
+
+> Scala sets a new standard against which future languages will be measured.
+
+-- [Neal Gafter](http://www.gafter.com/~neal/) in foreword to [Programming in Scala](http://amzn.com/0981531644)
+

@@ -1,0 +1,10 @@
++++
+title = "Career"
+date = "2010-08-17"
++++
+
+> This is an industry that moves at a high velocity created by those who care
+to pay attention.
+
+-- Michael Lopp on [how to destroy your career](http://answers.oreilly.com/topic/1917-3-easy-ways-to-destroy-your-career/)
+

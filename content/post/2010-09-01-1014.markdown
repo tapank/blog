@@ -1,0 +1,8 @@
++++
+title = "Agile"
+date = "2010-09-01"
++++
+
+Here's an extreme [example of being Agile](http://37signals.com/svn/posts/2550
+-smiley-an-app-in-24-hours).
+

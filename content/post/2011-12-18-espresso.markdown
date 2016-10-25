@@ -1,0 +1,8 @@
++++
+title = "Espresso field guide"
+date = "2011-12-18"
++++
+
+![Espresso](/images/espresso.jpg "Espresso field guide")
+
+-- Source [orbitvisual.com](http://www.orbitvisual.com/)

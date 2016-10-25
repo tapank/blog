@@ -1,0 +1,24 @@
++++
+title = "We need more Scouts"
+date = "2015-04-03"
++++
+
+A typical software development shop in India has one permanent 'feature': an army of workers (a.k.a. housekeeping staff) whose sole responsiblity is to cleanup after employees. These are the people whose job is to collect empty coffee mugs or cups from cubicles, refill the coffee machine in the pantry, clean the tables in the pantry after the employees leave coffee or tea stains on them, or dispose the empty pizza boxes once the employees are done eating pizza. Even the chairs around the tables need to be put back in place once the employees who sat on those chairs leave them after pushing them back when getting off the said chairs. When the employees leave the meeting room, they leave the projector on, the lights on, leave the chairs scattered across the meeting room, leave empty coffee cups on the table, leave writing on the whiteboard, leave used tissue on the table, leave whiteboard markers anywhere but in the little tray meant for the markers, leave extra chairs in the room that they pulled from cubicles nearby because there werent enough chairs in the room etc. This shows that people are not paying attention to what they leave behind as a consequence of their actions.
+
+My point is, for some reason, we have been conditioned to believe that cleaning up is not our responisibility. It is someone else's job to cleanup after they are done doing whatever they were doing. When we see litter, the question we ask is "Why has someone not cleaned this up?", instead of "Why did someone litter, and how can we educate them to not not do it again?"
+
+While I understand it is much cheaper to pay someone else to do the dirty job (especially when the minimum hourly wages are so low), this comes at a price that we should know we invariably end up paying. For example, I cannot think of places where you can find some quiet and solitude. If a place is safe and clean, then its most likely riddled with an army of workers who keep this place safe and clean.
+
+The solution is for people to change their mindset by embracing [the boy scout rule][1]. This applies to programming as well as anything else we do. The rule goes: "Leave the campground cleaner than you found it." If you can maintain cleanliness of a place over a period of time, then you will do the same to your code, and most other things that you do in life.
+
+As a programmer, the lessons are:
+
+1. Leave the code more readable and maintainable after every change.
+1. Test your code even if someone else will test it for you later.
+1. When someone reports an issue, stop arguing and pay attention to what caused the person to report an issue, even if it is not a bug.
+1. Try to simplify the deployment steps whenever possible.
+1. Handoff to other functions once you are done. E.g. tell documentation person what needs to change/added.
+1. Finally, ensure that the end user of your application benefits from your change in some way. This is the sole purpose of making a code change.
+1. All of this is possible only if you stop expecting people to automatically cleanup after you.
+
+[1]: http://www.informit.com/articles/article.aspx?p=1235624&seqNum=6

@@ -1,0 +1,10 @@
++++
+title = "Grit"
+date = "2015-09-10"
++++
+
+DHH in a blog post titled [Grit is for cowboys][1]
+
+> Grit is a convenient trait for enticing others to comply with the uncomfortable or the uninteresting. It elevates the perseverance of such adversity to a virtue in and of itself. Just dangle that long-term goal in front of them, accuse them of lack of grit, and compliance will oft follow.
+
+[1]: https://signalvnoise.com/posts/3924-grit-is-for-cowboys

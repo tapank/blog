@@ -1,0 +1,9 @@
++++
+title = "Something"
+date = "2011-07-11"
++++
+
+> Be a fan of SOMEthing, or you will fall for ANYthing.
+
+-- A footnote at this [sports blog](http://americanmccarver.com/)
+

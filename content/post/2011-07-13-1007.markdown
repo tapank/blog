@@ -1,0 +1,10 @@
++++
+title = "Advice"
+date = "2011-07-13"
++++
+
+> The advice is often to “Go away and learn C, and come back when you’re done!”
+The aim of this book is to offer a different path.
+
+-- [Tim Isted](http://www.timisted.net/blog/about/) in [Beginning Mac Programming](http://pragprog.com/book/tibmac/beginning-mac-programming)
+

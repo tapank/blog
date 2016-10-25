@@ -1,0 +1,11 @@
++++
+title = "Mission statement"
+date = "2011-06-14"
++++
+
+> We don’t have investors to impress, so we don’t need a “mission statement.”
+We enjoy writing and shipping great products that address the needs of
+ourselves and our customers.
+
+-- [http://www.barebones.com/company/](http://www.barebones.com/company/)
+

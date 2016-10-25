@@ -1,0 +1,110 @@
++++
+title = "Uncommon switch-case construct causes java 7 compiler to crash"
+date = "2011-07-28"
++++
+
+[Java language specification 3.0](http://java.sun.com/docs/books/jls/download/langspec-3.0.pdf) defines a switch block as:
+
+> The body of a switch statement is known as a switch block. Any statement immediately contained by the switch block may be labeled with one or more case or default labels. These labels are said to be associated with the switch statement, as are the values of the constant expressions in the case labels.  
+
+
+One of the valid forms of constant expression is: Parenthesized expressions whose contained expression is a constant expression, and examples are:
+
+`case (3):`
+
+
+or
+
+
+`case (1 + 2):`
+
+
+Java 7 introduces support for strings in switch (part of [project coin](http://openjdk.java.net/projects/coin/)). Using the form of constant expression listed above, with strings in switch, causes javac to crash with a NullPointerException. This is a bug in java 7 compiler and I have reported this in Java bug database.
+
+Here’s a test program to reproduce the issue:
+
+```
+public class Test {
+    public static void main(String args[]) {
+        switch(args[0]) {
+            case("hello"): // causes javac to crash
+                System.out.println("hello!!");
+                break;
+            default:
+                System.out.println("hi!");
+        }
+    }
+}
+```
+Running javac Test.java results in:
+
+```
+An exception has occurred in the compiler (1.7.0).
+Please file a bug at the Java Developer Connection
+(http://java.sun.com/webapps/bugreport)  after checking
+the Bug Parade for duplicates. Include your program
+and the following diagnostic in your report.  Thank you.
+java.lang.NullPointerException
+        at com.sun.tools.javac.comp.Lower.visitStringSwitch(Lower.java:3456)
+        at com.sun.tools.javac.comp.Lower.visitSwitch(Lower.java:3357)
+        at com.sun.tools.javac.tree.JCTree$JCSwitch.accept(JCTree.java:959)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:58)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2160)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:70)
+        at com.sun.tools.javac.tree.TreeTranslator.visitBlock(TreeTranslator.java:160)
+        at com.sun.tools.javac.comp.Lower.visitBlock(Lower.java:3311)
+        at com.sun.tools.javac.tree.JCTree$JCBlock.accept(JCTree.java:781)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:58)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2160)
+        at com.sun.tools.javac.tree.TreeTranslator.visitMethodDef(TreeTranslator.java:144)
+        at com.sun.tools.javac.comp.Lower.visitMethodDefInternal(Lower.java:2619)
+        at com.sun.tools.javac.comp.Lower.visitMethodDef(Lower.java:2538)
+        at com.sun.tools.javac.tree.JCTree$JCMethodDecl.accept(JCTree.java:669)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:58)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2160)
+        at com.sun.tools.javac.comp.Lower.visitClassDef(Lower.java:2283)
+        at com.sun.tools.javac.tree.JCTree$JCClassDecl.accept(JCTree.java:591)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:58)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2160)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2180)
+        at com.sun.tools.javac.comp.Lower.translateTopLevelClass(Lower.java:3650)
+        at com.sun.tools.javac.main.JavaCompiler.desugar(JavaCompiler.java:1393)
+        at com.sun.tools.javac.main.JavaCompiler.desugar(JavaCompiler.java:1271)
+        at com.sun.tools.javac.main.JavaCompiler.compile2(JavaCompiler.java:870)
+        at com.sun.tools.javac.main.JavaCompiler.compile(JavaCompiler.java:829)
+        at com.sun.tools.javac.main.Main.compile(Main.java:417)
+        at com.sun.tools.javac.main.Main.compile(Main.java:331)
+        at com.sun.tools.javac.main.Main.compile(Main.java:322)
+        at com.sun.tools.javac.Main.compile(Main.java:76)
+        at com.sun.tools.javac.Main.main(Main.java:61)
+```
+Leaving out the opening or closing parenthesis does give a valid compilation error, indicating that parenthesis is valid with string literals in a constant expression.
+
+The build I am using is release candidate and will most likely ship with this bug:
+```
+C:\>java -version
+java version "1.7.0"
+Java(TM) SE Runtime Environment (build 1.7.0-b147)
+Java HotSpot(TM) Client VM (build 21.0-b17, mixed mode, sharing)
+```
+I have not tried this on a system other than my Windows 7 laptop, but this bug does not seem to be platform specific. In any case, here is some detail about my system:
+```
+NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 23 Stepping 6, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=1706
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+```
+The bug id is [7071246](http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7071246), but is not visible to the public yet. In an email, Oracle says this will be visible only after it is reviewed *and* does not pose a security concern.
+
+Though using parenthesis in case labels is very uncommon, if one does use it in the form explained above, it is impossible to tell from the error message what or where the issue is. An issue if you are compiling a code base with hundreds or thousands of java classes.
+
+[Update = "the bug is now posted on the java bug database in the public domain]"

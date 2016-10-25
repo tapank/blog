@@ -1,0 +1,11 @@
++++
+title = "Products"
+date = "2011-01-27"
++++
+
+[A tableful of products](http://www.asymco.com/2011/01/27/76-billion-a-year-
+from-a-tableful-of-products/)
+
+All the products Apple sells can fit on one average sized kitchen table and
+they generated $76 billion in sales last year.
+
