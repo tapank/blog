@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
+
+  
+  
+  <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+  
+
+  
+  <title>Code commit on day one</title>
+
+  
+  
+  <link rel="stylesheet" href="http://karecha.com/css/hugo-octopress.css">
+
+  
+  
+
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+  
+  <link href="http://karecha.com/favicon.png" rel="icon">
+
+  
+  
+  
+
+  
+
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <meta name="author" content="Tapan Karecha">
+
+  
+  <meta name="generator" content="Hugo 0.17" />
+
+  
+  
+
+</head>
+<body>
+
+
+<header role="banner"><hgroup>
+  
+  <h1><a href="http://karecha.com/">Notes to self</a></h1>
+    <h2>Not gold alone brought us hither</h2>
+</hgroup></header>
+
+
+<nav role="navigation">
+
+<ul class="main-navigation">
+  
+  
+    
+      <li><a href="http://karecha.com/" title="Home">Home</a></li>
+    
+  
+</ul>
+
+
+<ul class="subscription">
+  
+    
+        <a href="http://karecha.com/index.xml" target="_blank" type="application/rss+xml" title="RSS"><i class="fa fa-rss-square fa-lg"></i></a>
+    
+  
+
+</ul>
+
+
+<form action="https://www.google.com/search" method="get" target="_blank">
+  <fieldset role="search">
+  	<input class="search" type="text" name="q" results="0" placeholder="Search"/>
+    <input type="hidden" name="q" value="site:http://karecha.com/" />
+  </fieldset>
+</form>
+
+</nav>
+
+
+<div id="main">
+  <div id="content">
+    <div>
+      <article class="hentry" role="article">
+
+        
+        
+
+<header>
+    <p class="meta">Jan 21, 2012
+        
+        
+
+        
+    </p>
+    <h1 class="entry-title">
+         Code commit on day one 
+    </h1>
+</header>
+
+
+        <div class="entry-content">
+          
+          
+          
+          <p>As a software developer, what do you expect to accomplish on the first day on your job? Certainly not checking in code. But here is an example of a company where you would be expected to do <a href="http://www.scottporad.com/2010/11/01/cheezburger-network-doesnt-show-its-new-employees-the-bathroom-until-theyve-checked-in-code/" target="_blank">just that</a>.</p>
+
+<p>Ok, so why does this matter? In a small to mid sized team, say up 20 people, new engineers do not join your every other week. So why solve the problem of having a new engineer commit code on day one? The answer is: to make this happen, you will need to take a look at and fix/improve multiple things in your software development process; as a result, your team&rsquo;s productivity and effectiveness will improve.</p>
+
+<p>Here are a few things that are required to make this possible. This list is not comprehensive, but compelling enough for us to take action.</p>
+
+<p>###Logistics</p>
+
+<p>####Machine ready
+Give your new employee a computer, along with his login credentials and an email account, within 5 minutes of him reporting at work.</p>
+
+<p>####Software development tools
+Provide the location of the team&rsquo;s software tools repository so he can start setting up the development environment, e.g. IDE, source code control, etc.</p>
+
+<p>###Technical</p>
+
+<p>####Product&rsquo;s technical documentation
+<a href="http://en.wikipedia.org/wiki/Technical_documentation" target="_blank">Technical documentation</a> is any type of documentation that describes handling, functionality and architecture of a technical product or a product under development or use. For an engineer to be productive on day one, the technical documentation needs to be up to date and readable.</p>
+
+<p>####Compact code base
+Keep the code base clean and compact. It should be possible to checkout a branch (or clone a repository if you are using a distributed source code control like <a href="http://git-scm.com/" target="_blank">Git</a>) within minutes. This requires that the versioned files do not include derived artifacts or third party libraries. For example, if your application ships java, don&rsquo;t check in the java binaries into the source code control &ndash; archive it in a separate repository instead, from where the packaging script can retrieve it while creating an installer. Most java projects use Maven these days and the jdk binaries are stored in a Maven repository for such projects. Another example is the product documentation, which is usually authored and stored as xml and the end user documentation is generated from these xml files and transformed into pdfs, html, MS Word or other format. Do not version these derived files in your source code control because it bloats your repository without adding value.</p>
+
+<p>Bottom line: cloning a repository or checking out from a branch should not take more than a few minutes.</p>
+
+<p>####Code quality
+Code needs to be readable, should follow a consistent style, should contain necessary comments (too little comments or too many comments can both work against readability of code &ndash; a fine balance is needed). It should be possible to understand the code (with help of a mentor) on reading it once or twice. If most of the code does not make sense without somebody explaining it in detail, take that as a sign that the code needs to be improved or cleaned up.</p>
+
+<p>Maintain and follow a coding standard (example <a href="http://www.cwu.edu/~gellenbe/javastyle/" target="_blank">here</a>) or a code style guide. It is important for the readablity and consistency of your project&rsquo;s source code. The new engineer needs to adhere to this coding style starting with this first commit.</p>
+
+<p>####Unit test coverage
+Almost all of the code needs to be covered by <a href="http://en.wikipedia.org/wiki/XUnit" target="_blank">XUnit</a> tests. Without a healthy suite of XUnit based unit tests, checking in any new code (even by a senior member of the team) adds risk and every checkin needs to pass the test: &ldquo;Is this change worth the risk?&rdquo; To avoid this situation, a good unit test suite is a must. A few rules about unit tests (see more on <a href="http://www.agiledata.org/essays/tdd.html" target="_blank">Test Driven Development here</a>):</p>
+
+<ol>
+<li>The entire unit test suite is run as a part of the build every time</li>
+<li>The unit tests do not have any external dependency to ensure that the unit tests can stand on their own.</li>
+<li>Checkins not allowed if there is even one unit test failure</li>
+<li>Every code change that is checked-in accompanies supporting unit test(s).</li>
+</ol>
+
+<p>In absence of the above, the risk of allowing a new engineer to add or change code is simply too high, let alone allowing him to checkin code on day one.</p>
+
+<p>####System test coverage
+Automated system tests are the next level of checks after unit tests. A healthy automated test suite is required to ensure that changes in source code do not generate hours or days of testing to ensure regression has not happened due to the change. Also, if anything is broken, it should be detected as soon as possible. The automated system test suite needs to run at the end of the build and packaging tasks every time. System test failure should be treated seriously and issues found in this phase should be fixed within hours. The team should be in the habit of seeing the system tests pass every time. This can be many times a day or at least once a day as part of the nightly build.</p>
+
+<p>####Time to compile and run unit tests
+The team should have a collective goal to keep the time it takes to build the entire system, down to the smallest duration possible. If it takes the build (which includes code compilation and xunit test run) more than two minutes, take that as a sign to investigate what is taking so long. For example, if you have multiple unit tests which have tests that put the main thread to sleep because it is waiting for a result &ndash; that is a bad test. Either it needs to be reimplemented in a way where waiting is not required, or it is a system test that has been implemented as a unit test.</p>
+
+<p>The bottom line: compiling your entire project and running the unit tests should complete in a matter of minutes.</p>
+
+<p>###Conclusion
+Even if you don&rsquo;t have new engineers joining your team every week, meet the requirement that it will be possible for a new member of your team to contribute on day one and checkin a fix or a small feature. This will force you to review every aspect of your development process and improve it. Your entire team will benefit from spend more time improving the product than fixing defects. Your business will do better because it will be possible for the team to quickly turn in new features without impacting the quality of the product.</p>
+
+        </div>
+        
+
+<footer>
+  <p class="meta">
+    <span class="byline author vcard">Posted by <span class="fn">Tapan Karecha</span></span>
+    
+    <time>Jan 21, 2012</time>
+    
+    </span>
+  </p>
+
+  
+  
+
+  
+
+  <p class="meta">
+    
+        <a class="basic-alignment left" href="http://karecha.com/blog/2012/01/01/2011/" title="2011">2011</a>
+    
+
+    
+      <a class="basic-alignment right" href="http://karecha.com/blog/2012/02/03/what-is-your-story/" title="What is your story?">What is your story?</a>
+    
+  </p>
+  
+</footer>
+
+      </article>
+    </div>
+    
+
+<aside class="sidebar thirds">
+  <section class="first odd">
+
+    
+
+    <p>
+      
+    </p>
+  </section>
+
+
+
+  
+  <ul class="sidebar-nav">
+    <li class="sidebar-nav-item">
+      
+      
+      
+      
+       
+      
+      
+      
+      
+      
+
+    
+    
+    </li>
+  </ul>
+
+  
+
+  
+    
+      <section class="odd">
+        
+          <h1>Contact</h1>
+        
+        
+          <li>
+            <a href="http://linkedin.com/in/tapankarecha" title="LinkedIn" >LinkedIn</a>
+          </li>
+        
+          <li>
+            <a href="https://twitter.com/tapanjk/" title="Twitter" >Twitter</a>
+          </li>
+        
+      </section>
+    
+  
+
+  
+  
+  
+    
+      <section class="even">
+        <h1>Recent Posts</h1>
+        <ul id="recent_posts">
+          
+            <li class="post">
+              <a href="/blog/2016/01/03/advice-from-an-astronaut/">Advice from an astronaut</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2015/10/15/agile-is-the-new-waterfall/">Agile is the new waterfall</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2015/10/11/tab-width/">Tab width</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2015/09/20/process/">Process</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2015/09/17/tending-code/">Tending code</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2015/09/10/grit/">Grit</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2015/04/03/we-need-more-scouts/">We need more Scouts</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2014/11/13/break/">Break</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2014/03/17/deliberate-practice/">Deliberate practice</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2014/01/05/balance/">Balance</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2013/12/31/2013/">2013</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2013/11/23/on-being-a-novice/">On being a novice</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2013/10/06/start-with-peace-of-mind/">Start with peace of mind</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2013/10/06/two-kinds-of-books/">Two kinds of books</a>
+            </li>
+          
+            <li class="post">
+              <a href="/blog/2013/06/16/looking-forward/">Looking forward</a>
+            </li>
+          
+        </ul>
+      </section>
+    
+  
+
+</aside>
+
+  </div>
+</div>
+
+<footer role="contentinfo">
+  <p>Copyright &copy; 2016 Tapan Karecha - <a href="http://karecha.com/license/">License</a> -
+  <span class="credit">Powered by <a target="_blank" href="https://gohugo.io">Hugo</a> and <a target="_blank" href="https://github.com/parsiya/hugo-octopress/">Hugo-Octopress</a> theme.
+</p>
+
+</footer>
+
+
+<script>
+  var _gaq=[['_setAccount','google analytics'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+</body>
+</html>
+

@@ -1,9 +1,0 @@
-+++
-title = "Pasta"
-date = "2011-04-16"
-+++
-
-[Geometry of Pasta](http://www.geometryofpasta.co.uk/)
-
-Pasta recipes in a tastefully designed website
-

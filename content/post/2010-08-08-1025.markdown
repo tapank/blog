@@ -1,8 +1,0 @@
-+++
-title = "Hurd's exit"
-date = "2010-08-08"
-+++
-
-There may be more than meets the eye in [Hurd's exit](http://online.wsj.com/ar
-ticle/SB10001424052748704182304575415990715123362.html)
-

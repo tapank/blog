@@ -1,9 +1,0 @@
-+++
-title = "Talking"
-date = "2011-05-18"
-+++
-
-> The more we talk, the less appealing we become.
-
--- [Scott Adams in a blog post](http://dilbert.com/blog/entry/slowing_the_decline_in_your_personal_appeal/)
-

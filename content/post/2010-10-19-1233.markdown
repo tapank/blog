@@ -1,9 +1,0 @@
-+++
-title = "Leading"
-date = "2010-10-19"
-+++
-
-> You can’t lead in the abstract. You have to get skin in the game.
-
--- Scott Burken in a [blog post](http://www.scottberkun.com/blog/2010/ozzie-microsoft-and-change/).
-

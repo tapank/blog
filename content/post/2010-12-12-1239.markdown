@@ -1,8 +1,0 @@
-+++
-title = "The next ten years"
-date = "2010-12-12"
-+++
-
-This year, think of the [next ten years](http://howardlindzon.com/the-next-
-ten-years/), and not just the next year.
-

@@ -1,7 +1,0 @@
-+++
-title = "HTML5 test"
-date = "2010-09-23"
-+++
-
-The [HTML5 Test](http://www.html5test.com/) – how well does your browser support HTML5?
-

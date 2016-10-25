@@ -1,9 +1,0 @@
-+++
-title = "New possibilities"
-date = "2011-02-26"
-+++
-
-[Thunderbolt](http://www.apple.com/thunderbolt/)
-
-This opens new possiblities.
-
