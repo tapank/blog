@@ -6,8 +6,36 @@
     <description>Recent content on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pull request checklist</title>
+      <link>http://karecha.com/blog/2016/10/26/pull-request-checklist/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://karecha.com/blog/2016/10/26/pull-request-checklist/</guid>
+      <description>&lt;p&gt;Open source projects have styleguides, and &lt;a href=&#34;https://github.com/chain/chain/blob/main/docs/internal/styleguide.md&#34; target=&#34;_blank&#34;&gt;this one&lt;/a&gt; is one such example. What caught my attention is the code review checklist, though there are other nuggets in there.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Checklist&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Before you submit your patch for review, look at the diff. Consider running through a quick mental checklist of all the things discussed above before submitting your patch for review:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Did I write tests and update docs?&lt;/li&gt;
+&lt;li&gt;Can it be any clearer?&lt;/li&gt;
+&lt;li&gt;Can I delete more lines of code?&lt;/li&gt;
+&lt;li&gt;Does the diff overall look reasonable?&lt;/li&gt;
+&lt;li&gt;Is there any cruft like stray blank lines or debugging output or irrelevant trivial refactorings?&lt;/li&gt;
+&lt;li&gt;Should the change be broken into multiple meaningful pieces?&lt;/li&gt;
+&lt;li&gt;Is this change really necessary at all?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(You might be surprised how often the answer to that last one is “no”.)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Advice from an astronaut</title>
@@ -341,18 +369,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;I see value in both of the above, but time spent reading the second type feels like more bang for the buck.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Looking forward</title>
-      <link>http://karecha.com/blog/2013/06/16/looking-forward/</link>
-      <pubDate>Sun, 16 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://karecha.com/blog/2013/06/16/looking-forward/</guid>
-      <description>&lt;p&gt;One thing that keeps us going more than anything else is &amp;ndash; the hope that tomorrow is going to be better than today. This is true no matter what your today looks like. You may be going through the worst day of your life or today may be the best day of your life, but tomorrow needs to be something you look forward to. For example, &lt;a href=&#34;http://www.thedailybeast.com/articles/2012/08/14/london-athletes-face-post-olympic-blues.html&#34; target=&#34;_blank&#34;&gt;former Olympians struggle&lt;/a&gt; with post Olympic stress disorder because their best days seem to be behind them.&lt;/p&gt;
-
-&lt;p&gt;Give yourself something to look forward to. That is what keeps us going.&lt;/p&gt;
 </description>
     </item>
     
