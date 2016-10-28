@@ -1,0 +1,14 @@
++++
+title = "2016 10 28 teaching"
+draft = false
+date = "2016-10-28"
+
++++
+
+Teaching is most effective when done by a practitioner of the subject matter. That is why Bret Victor says this:
+
+> Real teaching is not about transferring "the material", as if knowledge were some sort of mass-produced commodity that ships from Amazon. Real teaching is about conveying a way of thinking. How can a teacher convey a way of thinking when he doesn't genuinely think that way?
+
+The entire [blog post][1] is worth a read -- and a re-read.
+
+[1]: http://worrydream.com/SomeThoughtsOnTeaching/
