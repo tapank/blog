@@ -1,5 +1,5 @@
 +++
-title = "2016 10 28 teaching"
+title = "Teaching"
 draft = false
 date = "2016-10-28"
 
