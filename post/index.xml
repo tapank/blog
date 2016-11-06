@@ -6,8 +6,27 @@
     <description>Recent content in Post-rsses on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get Unstuck</title>
+      <link>http://karecha.com/blog/2016/11/06/get-unstuck/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://karecha.com/blog/2016/11/06/get-unstuck/</guid>
+      <description>&lt;p&gt;When learning a new programming language, a new framework, or a new technology, there will be times when you will get stuck. When you are stuck, do the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RTFM&#34; target=&#34;_blank&#34;&gt;RTFM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.codinghorror.com/rubber-duck-problem-solving&#34; target=&#34;_blank&#34;&gt;Ask the rubber duck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wiktionary.org/wiki/STFW&#34; target=&#34;_blank&#34;&gt;STFW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ask a friend or colleague&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This order is important for maximizing learning.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Teaching</title>
@@ -354,20 +373,6 @@
 
 &lt;p&gt;Many of us became programmers because of a moment like that.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Start with peace of mind</title>
-      <link>http://karecha.com/blog/2013/10/06/start-with-peace-of-mind/</link>
-      <pubDate>Sun, 06 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://karecha.com/blog/2013/10/06/start-with-peace-of-mind/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&amp;ndash; Robert M. Pirsig&lt;/p&gt;
 </description>
     </item>
     
