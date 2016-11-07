@@ -6,8 +6,28 @@
     <description>Recent content in Post-rsses on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crocker&#39;s Rule</title>
+      <link>http://karecha.com/blog/2016/11/07/crockers-rule/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://karecha.com/blog/2016/11/07/crockers-rule/</guid>
+      <description>&lt;p&gt;Crocker&amp;rsquo;s rule:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Declaring yourself to be operating by &amp;ldquo;Crocker&amp;rsquo;s Rules&amp;rdquo; means that other people are allowed to optimize their messages for information, not for being nice to you.  Crocker&amp;rsquo;s Rules means that you have accepted full responsibility for the operation of your own mind - if you&amp;rsquo;re offended, it&amp;rsquo;s your fault.  Anyone is allowed to call you a moron and claim to be doing you a favor.  (Which, in point of fact, they would be.  One of the big problems with this culture is that everyone&amp;rsquo;s afraid to tell you you&amp;rsquo;re wrong, or they think they have to dance around it.)  Two people using Crocker&amp;rsquo;s Rules should be able to communicate all relevant information in the minimum amount of time, without paraphrasing or social formatting.  Obviously, don&amp;rsquo;t declare yourself to be operating by Crocker&amp;rsquo;s Rules unless you have that kind of mental discipline.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note that Crocker&amp;rsquo;s Rules does not mean you can insult people; it means that other people don&amp;rsquo;t have to worry about whether they are insulting you.&lt;/strong&gt;  Crocker&amp;rsquo;s Rules are a discipline, not a privilege.  Furthermore, taking advantage of Crocker&amp;rsquo;s Rules does not imply reciprocity.  How could it?  Crocker&amp;rsquo;s Rules are something you do for yourself, to maximize information received - not something you grit your teeth over and do as a favor.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Crocker&amp;rsquo;s Rules&amp;rdquo; are named after Lee Daniel Crocker.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The above originally appears &lt;a href=&#34;http://www.sl4.org/crocker.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Crocker&amp;rsquo;s wikipedia page is &lt;a href=&#34;https://en.wikipedia.org/wiki/Lee_Daniel_Crocker&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Get Unstuck</title>
@@ -357,22 +377,6 @@
 &lt;p&gt;If you have not made a solid plan for this new year, now is the time to do so. Just let your imagination run wild, and think of what you want to achieve by the end of the year. You will be surprised to see your plans and dreams come true. Just be sure what you ask is what you actually want, because there will be no going back.&lt;/p&gt;
 
 &lt;p&gt;Happy new year!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On being a novice</title>
-      <link>http://karecha.com/blog/2013/11/23/on-being-a-novice/</link>
-      <pubDate>Sat, 23 Nov 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://karecha.com/blog/2013/11/23/on-being-a-novice/</guid>
-      <description>&lt;p&gt;Uncle Bob in a blog post titled &lt;a href=&#34;http://blog.8thlight.com/uncle-bob/2013/11/19/HoardsOfNovices.html&#34; target=&#34;_blank&#34;&gt;Hoards of Novices&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Do you remember that first line of code you wrote when you were very young. Do you remember the thrill it gave you to see that line of code actually execute. Do you remember the feeling of power it gave you. You were the master. The machine was your slave, and you could make that machine do anything!&lt;/p&gt;
-
-&lt;p&gt;Many of us became programmers because of a moment like that.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
