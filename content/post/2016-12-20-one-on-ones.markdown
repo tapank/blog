@@ -5,6 +5,9 @@ date = "2016-12-20T11:37:16+05:30"
 
 +++
 
+Andy Grove explains how to have effective 1x1s in his classic
+management book [High Output Management][1].
+
 **Setup:**
 
 - Block regular time; tune frequency for individual
@@ -29,3 +32,5 @@ date = "2016-12-20T11:37:16+05:30"
 - Ask questions about career plans; do not neglect the personal
 - Ask strategic questions (e.g. are we focused on the right things?)
 - End with a note of appreciation and gratitude; words of affirmation mean a lot
+
+[1]:https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
