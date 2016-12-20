@@ -102,6 +102,35 @@
         
 
 <header>
+    <p class="meta">Oct 15, 2015
+        
+        
+
+        
+    </p>
+    <h1 class="entry-title">
+        <a href="http://karecha.com/blog/2015/10/15/agile-is-the-new-waterfall/">Agile is the new waterfall</a>
+    </h1>
+</header>
+
+
+        
+        <p><a href="https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d" target="_blank">Thought provoking analysis</a> of the state of Agile today.</p>
+
+<blockquote>
+<p>Unfortunately, with little or no documentation, now the developer is accountable for the outcome while having little or no authority to create a winning one. This responsibility without authority makes Agile even more toxic than Waterfall.</p>
+</blockquote>
+
+        
+
+    </article>
+    
+    <article>
+
+        
+        
+
+<header>
     <p class="meta">Oct 11, 2015
         
         
@@ -115,14 +144,19 @@
 
 
         
-          <p>After reading the following from the kernel.org coding styleguide, it is easy to see why not to write code with tabs converted to spaces, and why not to set tab width to anything less than eight.
- Tabs are 8 characters, and thus indentations are also 8 characters. There are heretic movements that try to make indentations 4 (or even 2!) characters deep, and that is akin to trying to define the value of PI to be 3.</p>
+        <p>After reading the following from the <a href="https://www.kernel.org/doc/Documentation/CodingStyle" target="_blank">kernel.org coding styleguide</a>, it is easy to see why not to write code with tabs converted to spaces, and why not to set tab width to anything less than eight.</p>
 
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2015/10/11/tab-width/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<blockquote>
+<p>Tabs are 8 characters, and thus indentations are also 8 characters.  There are heretic movements that try to make indentations 4 (or even 2!) characters deep, and that is akin to trying to define the value of PI to be 3.</p>
+
+<p>Rationale: The whole idea behind indentation is to clearly define where a block of control starts and ends.  Especially when you&rsquo;ve been looking at your screen for 20 straight hours, you&rsquo;ll find it a lot easier to see how the indentation works if you have large indentations.</p>
+
+<p>Now, some people will claim that having 8-character indentations makes the code move too far to the right, and makes it hard to read on a 80-character terminal screen.  The answer to that is that if you need more than 3 levels of indentation, you&rsquo;re screwed anyway, and should fix your program.</p>
+
+<p>In short, 8-char indents make things easier to read, and have the added benefit of warning you when you&rsquo;re nesting your functions too deep.  Heed that warning.</p>
+</blockquote>
+
+<p>Also, using tabs instead of spaces allows the reader to personalize visual depth of indentation, while spaces lock you into what the author chose. Hence, prefer tabs over spaces in your coding standards &ndash; and even if you don&rsquo;t &ndash; never mix the two!</p>
 
         
 
@@ -147,14 +181,43 @@
 
 
         
-          <p>Author of &ldquo;I&rsquo;m Sorry, But Agile Won&rsquo;t Fix Your Products&rdquo; has valid points but something more needs to be said. I am concerned that the onus of creativity is being relegated away from people, as if process is capable of thinking.
-It is important to note that Agile is one of many software development processes, and hence it could have been claimed that &ldquo;Processes will not fix your Products,&rdquo; and the arguments in that article would still hold good.</p>
+        <p>Author of &ldquo;<a href="http://firstround.com/review/im-sorry-but-agile-wont-fix-your-products/" target="_blank">I&rsquo;m Sorry, But Agile Won&rsquo;t Fix Your Products</a>&rdquo; has valid points but something more needs to be said. I am concerned that the onus of creativity is being relegated away from people, as if process is capable of thinking.</p>
 
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2015/09/20/process/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<p>It is important to note that Agile is one of many software development processes, and hence it could have been claimed that &ldquo;Processes will not fix your Products,&rdquo; and the arguments in that article would still hold good. Anybody who has been on a team that delivered working software &ndash; successful or not &ndash; will agree that the most difficult part of product lifecycle is to decide <em>what</em> to build. This is a step that tests the toughest of souls and can make strong people cry. Once a decision has been made about <em>what</em> needs to be build, then its a race to the finish and process will help with navigate <em>how</em>. People may still make mistakes during construction phase, but those mistakes are easy to spot and are hence fixable. No software development process will help during product definition phase, and what makes it challenging is &ndash; product owners need to answer existential questions, including:</p>
+
+<ol>
+<li>Why are we in business?</li>
+<li>What are we trying to accomplish?</li>
+<li>What are our core guiding principles?</li>
+<li>How will this product or increment help the business without violating any of the above?</li>
+<li>Are we doing this just because we can? Or, are we doing this because we should?</li>
+</ol>
+
+<p>These questions can be difficult to answer, yet must be asked irrespective of process.</p>
+
+<p>Once a decision of <em>what</em> has been made, it is time to ask <em>how</em>. This is where process steps in, and based on the nature of a product, time to market, nature of target audience, maturity and capacity of development team, etc., a team uses process to take the product to market. But before we decide which process to use, let us remind ourselves why we need process.</p>
+
+<p><strong>Who needs process?</strong></p>
+
+<p>One of notions about process is that you need it to help team members with little experience so they don&rsquo;t make rookie mistakes. This notion is not only incorrect, but also hurts a team that has bought into this notion. Ever seen a situation where a senior member of a team will demand that a newbie create a ticket even for a trivial code change, but they themselves will make such changes &ndash; not only without following an agreed &ldquo;process&rdquo;, but even without informing others in the team? Such a team now has two problems [An exercise for the reader to list the two problems].</p>
+
+<p>A process is needed for mature and experienced team members to synchronize and coordinate their work in order to extract maximum value from a team&rsquo;s effort. Without process, you will have multiple members in a team putting in their best work but the vector of each individual&rsquo;s effort is less than 100 percent along the dimension that a business wants to go. They will keep stepping on each other&rsquo;s foot and will project an inaccurate picture of state of affairs to others in a team, and even outside the team. This is why we need process, but no process can compensate for a lack of thinking that goes into product decisions.</p>
+
+<p>What about rookies in a team? Of course they too need to follow process, but more important, learn why every process step exists and matters. Encourage them to ask <em>why</em> a certain process is necessary, and be very happy when they challenge that a certain process is unnecessary. In absence of healthy scepticism for process, the team risks descending into process hell.</p>
+
+<p>Bottomline: a mature team will not only follow process, but constantly evolve it to ensure that the team becomes more efficient and effective with time.</p>
+
+<p><strong>Agile or agile?</strong></p>
+
+<p>&ldquo;Agile&rdquo;, the noun, is the poster kid in the process world and it rose to fame when the <a href="http://www.agilemanifesto.org/" target="_blank">Agile Manifesto</a> was formed. The other &ldquo;agile&rdquo; is what the proponents wanted the development teams to be, where agile is an adjective and is a word to be used by a proud technician as such, &ldquo;I work for an agile team that uses a home grown variation of Scrum and XP to deliver quality software.&rdquo;</p>
+
+<p>So, &ldquo;Agile&rdquo; is a well intentioned set of guidelines which were also a snapshot of what made sense at the time. Just like any process, Agile is starting to show signs of age. Unless a team is agile, they will find Agile to be limiting. Kent Beck (one of the signees of the manifesto and the inventor of JUnit) tried to <a href="https://www.youtube.com/watch?v=d4qldY0g_dI" target="_blank">fix this way back in 2010</a>, and recently Dave Thomas (another signee of the manifesto and the author of the Ruby pickaxe book) <a href="http://pragdave.me/blog/2014/03/04/time-to-kill-agile/" target="_blank">said this</a> and he did not pull his punches.</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>A process will not fix your product. A process is a set of guidelines and is as good or bad as the people who use them. A process will not <em>do</em> anything &ndash; that is left to the humans. Nothing will fix a product, except the humans involved. There is no escaping the cognitive load of product definition, and we, the humans, are the right &lsquo;tool&rsquo; to take on this responsibility.</p>
+
+<p>And, how do you ship software? There is no <a href="http://firstround.com/review/the-right-way-to-ship-software/" target="_blank">one right answer</a>.</p>
 
         
 
@@ -179,14 +242,11 @@ It is important to note that Agile is one of many software development processes
 
 
         
-          <p>Rachel Davies in a blog post titled Making Time To Tend Code
- Setting aside time to tend our code is essential for us to maintain fruitful software assets. Start by making technical tasks visible to your team. Prioritise these tasks so that the team works on the ones that will yield most benefit. At standup, consider as a team, what effort should be put on code tending tasks today. Keep track how much time you spend on code tending, this can help you strike the right balance against business facing features.</p>
+        <p>Rachel Davies in a blog post titled <a href="http://rachelcdavies.github.io/2015/04/30/time-to-tend-code.html" target="_blank">Making Time To Tend Code</a></p>
 
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2015/09/17/tending-code/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<blockquote>
+<p>Setting aside time to tend our code is essential for us to maintain fruitful software assets. Start by making technical tasks visible to your team. Prioritise these tasks so that the team works on the ones that will yield most benefit. At standup, consider as a team, what effort should be put on code tending tasks today. Keep track how much time you spend on code tending, this can help you strike the right balance against business facing features. Reflect together as a team on how code tending is going.</p>
+</blockquote>
 
         
 
@@ -211,11 +271,11 @@ It is important to note that Agile is one of many software development processes
 
 
         
-          <p>DHH in a blog post titled Grit is for cowboys
- Grit is a convenient trait for enticing others to comply with the uncomfortable or the uninteresting. It elevates the perseverance of such adversity to a virtue in and of itself. Just dangle that long-term goal in front of them, accuse them of lack of grit, and compliance will oft follow.
- </p>
+        <p>DHH in a blog post titled <a href="https://signalvnoise.com/posts/3924-grit-is-for-cowboys" target="_blank">Grit is for cowboys</a></p>
 
-          
+<blockquote>
+<p>Grit is a convenient trait for enticing others to comply with the uncomfortable or the uninteresting. It elevates the perseverance of such adversity to a virtue in and of itself. Just dangle that long-term goal in front of them, accuse them of lack of grit, and compliance will oft follow.</p>
+</blockquote>
 
         
 
@@ -240,44 +300,25 @@ It is important to note that Agile is one of many software development processes
 
 
         
-          <p>A typical software development shop in India has one permanent &lsquo;feature&rsquo;: an army of workers (a.k.a. housekeeping staff) whose sole responsiblity is to cleanup after employees. These are the people whose job is to collect empty coffee mugs or cups from cubicles, refill the coffee machine in the pantry, clean the tables in the pantry after the employees leave coffee or tea stains on them, or dispose the empty pizza boxes once the employees are done eating pizza.</p>
+        <p>A typical software development shop in India has one permanent &lsquo;feature&rsquo;: an army of workers (a.k.a. housekeeping staff) whose sole responsiblity is to cleanup after employees. These are the people whose job is to collect empty coffee mugs or cups from cubicles, refill the coffee machine in the pantry, clean the tables in the pantry after the employees leave coffee or tea stains on them, or dispose the empty pizza boxes once the employees are done eating pizza. Even the chairs around the tables need to be put back in place once the employees who sat on those chairs leave them after pushing them back when getting off the said chairs. When the employees leave the meeting room, they leave the projector on, the lights on, leave the chairs scattered across the meeting room, leave empty coffee cups on the table, leave writing on the whiteboard, leave used tissue on the table, leave whiteboard markers anywhere but in the little tray meant for the markers, leave extra chairs in the room that they pulled from cubicles nearby because there werent enough chairs in the room etc. This shows that people are not paying attention to what they leave behind as a consequence of their actions.</p>
 
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2015/04/03/we-need-more-scouts/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<p>My point is, for some reason, we have been conditioned to believe that cleaning up is not our responisibility. It is someone else&rsquo;s job to cleanup after they are done doing whatever they were doing. When we see litter, the question we ask is &ldquo;Why has someone not cleaned this up?&rdquo;, instead of &ldquo;Why did someone litter, and how can we educate them to not not do it again?&rdquo;</p>
 
-        
+<p>While I understand it is much cheaper to pay someone else to do the dirty job (especially when the minimum hourly wages are so low), this comes at a price that we should know we invariably end up paying. For example, I cannot think of places where you can find some quiet and solitude. If a place is safe and clean, then its most likely riddled with an army of workers who keep this place safe and clean.</p>
 
-    </article>
-    
-    <article>
+<p>The solution is for people to change their mindset by embracing <a href="http://www.informit.com/articles/article.aspx?p=1235624&amp;seqNum=6" target="_blank">the boy scout rule</a>. This applies to programming as well as anything else we do. The rule goes: &ldquo;Leave the campground cleaner than you found it.&rdquo; If you can maintain cleanliness of a place over a period of time, then you will do the same to your code, and most other things that you do in life.</p>
 
-        
-        
+<p>As a programmer, the lessons are:</p>
 
-<header>
-    <p class="meta">Nov 13, 2014
-        
-        
-
-        
-    </p>
-    <h1 class="entry-title">
-        <a href="http://karecha.com/blog/2014/11/13/break/">Break</a>
-    </h1>
-</header>
-
-
-        
-          <p>After 24 years of working at various jobs, I bid goodbye to by colleagues and began the first full time break of my career. This was not easy, especially because once I announced my decision about a month ago, my team and my colleagues made me feel very special. But this day had to come, and now I am no longer employed and intend to stay this way until I fix a few things.</p>
-
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2014/11/13/break/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<ol>
+<li>Leave the code more readable and maintainable after every change.</li>
+<li>Test your code even if someone else will test it for you later.</li>
+<li>When someone reports an issue, stop arguing and pay attention to what caused the person to report an issue, even if it is not a bug.</li>
+<li>Try to simplify the deployment steps whenever possible.</li>
+<li>Handoff to other functions once you are done. E.g. tell documentation person what needs to change/added.</li>
+<li>Finally, ensure that the end user of your application benefits from your change in some way. This is the sole purpose of making a code change.</li>
+<li>All of this is possible only if you stop expecting people to automatically cleanup after you.</li>
+</ol>
 
         
 
@@ -430,6 +471,10 @@ It is important to note that Agile is one of many software development processes
         <ul id="recent_posts">
           
             <li class="post">
+              <a href="/blog/2016/12/20/one-on-ones-howto/">One on ones (howto)</a>
+            </li>
+          
+            <li class="post">
               <a href="/blog/2016/11/07/crockers-rule/">Crocker&#39;s Rule</a>
             </li>
           
@@ -483,10 +528,6 @@ It is important to note that Agile is one of many software development processes
           
             <li class="post">
               <a href="/blog/2014/01/05/balance/">Balance</a>
-            </li>
-          
-            <li class="post">
-              <a href="/blog/2013/12/31/2013/">2013</a>
             </li>
           
         </ul>

@@ -102,6 +102,34 @@
         
 
 <header>
+    <p class="meta">Oct 10, 2011
+        
+        
+
+        
+    </p>
+    <h1 class="entry-title">
+        <a href="http://karecha.com/blog/2011/10/10/economy/">Economy</a>
+    </h1>
+</header>
+
+
+        
+        <p>&ldquo;If the economy were humming along and creating the right kind of jobs, folks
+would see wealth as an aspiration and not an enemy.&rdquo;</p>
+
+<p>&ndash; <a href="http://dilbert.com/blog/entry/the_leap_frog_system/" target="_blank">Scott Adams Blog: The Leap Frog System 10/10/2011</a></p>
+
+        
+
+    </article>
+    
+    <article>
+
+        
+        
+
+<header>
     <p class="meta">Aug 6, 2011
         
         
@@ -115,10 +143,12 @@
 
 
         
-          <p>Multithreaded programming, requiring synchronized access to shared, mutable state, is the assembly language of concurrency.
- &ndash; In the book Functional Programming for Java Developers</p>
+        <blockquote>
+<p>Multithreaded programming, requiring synchronized access to shared, mutable
+state, is the <em>assembly language of concurrency</em>.</p>
+</blockquote>
 
-          
+<p>&ndash; In the book <a href="http://oreilly.com/catalog/0636920021667" target="_blank">Functional Programming for Java Developers</a></p>
 
         
 
@@ -143,14 +173,13 @@
 
 
         
-          <p>Whatever you do for a living, you are skilled at using a toolset in order to get your job done. A surgeon uses surgical tools to perform surgery and these tools are provided by her employer. Think of any profession or job, the norm is: you bring your skills to work, but the tools to get the work done are provided by your employer.
-This is also true for software development industry.</p>
+        <p>Whatever you do for a living, you are skilled at using a toolset in order to get your job done. A surgeon uses surgical tools to perform surgery and these tools are provided by her employer. Think of any profession or job, the norm is: you bring your skills to work, but the tools to get the work done are provided by your employer.</p>
 
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2011/08/05/programmers-work-computer/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<p>This is also true for software development industry. If you are a programmer, your computer is chosen, procured and given to you by your employer. You probably have some choice in that you get to pick between a desktop computer or a laptop, but not much beyond that. Corporations make this choice for you purely based on cost. Whatever costs least in the medium to long run wins. Some factors are ignored in this cost analysis because they are hard to quantify: lost productivity due to sloppy performance of computer, lower employee morale due to frustrations arising from unreliability of their computer, etc.</p>
+
+<p>Why not let the programmer buy a computer for himself? Give him an annual budget and ask him to stay within that budget. If he wants to buy an average desktop and a laptop, its his choice. If he wants to buy a desktop with two LCDs, again his choice. Whatever he wants to buy within that budget, its up to him. Computers are not expensive enough for employers to bother about any more. Free that aspect of the programmer’s experience at work, and he will thank for you for doing that.</p>
+
+<p>Imposing tools on employees may make sense in industries where the toolsets are standardized to the extent that there is hardly any room for individuality and personal preference. This is certainly not the case in programming / software development industry and hence it does not make any sense to buy computers in bulk and shove one down the throat of every programmer in your organization.</p>
 
         
 
@@ -175,14 +204,17 @@ This is also true for software development industry.</p>
 
 
         
-          <p>Before OS X Lion, Dashboard was a nice thing to have. Just hit the shortcut key (usually F4) to bring up Dashboard to quickly take a peek at one or many widgets running there, and hit the key again to hide it. You are back to whatever you were doing before — does not matter which of the many desktops you were on.
-Come Lion, creating a new desktop for a full screen application is as easy as hitting the full screen button (on top right corner of any window).</p>
+        <p>Before <a href="http://en.wikipedia.org/wiki/Mac_OS_X_Lion" target="_blank">OS X Lion</a>, Dashboard was a nice thing to have. Just hit the shortcut key (usually F4) to bring up Dashboard to quickly take a peek at one or many widgets running there, and hit the key again to hide it. You are back to whatever you were doing before — does not matter which of the many desktops you were on.</p>
 
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2011/07/30/dashboard-in-os-x/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<p>Come Lion, creating a new desktop for a full screen application is as easy as hitting the full screen button (on top right corner of any window). And, side sweep gesture with three or four fingers on the trackpad moves you between multiple desktops. The only drawback with this new ease of navigation is… when I want to go back to the first desktop (to launch a new program or to use any of the open apps on that desktop), I invariably sweep past the first desktop, landing on Dashboard. This is annoying because I expect scrolling to stop once I reach the first desktop because thats my “home desktop” for all practical purposes.</p>
+
+<p>There&rsquo;s a way out since I can live without Dashboard. Ran these two commands on terminal to disable it:</p>
+
+<pre><code>defaults write com.apple.dashboard mcx-disabled -boolean YES
+killall Dock
+</code></pre>
+
+<p>Jumping between desktops is now fun again.</p>
 
         
 
@@ -207,15 +239,111 @@ Come Lion, creating a new desktop for a full screen application is as easy as hi
 
 
         
-          <p>Java language specification 3.0 defines a switch block as:
- The body of a switch statement is known as a switch block. Any statement immediately contained by the switch block may be labeled with one or more case or default labels. These labels are said to be associated with the switch statement, as are the values of the constant expressions in the case labels.
- One of the valid forms of constant expression is: Parenthesized expressions whose contained expression is a constant expression, and examples are:</p>
+        <p><a href="http://java.sun.com/docs/books/jls/download/langspec-3.0.pdf" target="_blank">Java language specification 3.0</a> defines a switch block as:</p>
 
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2011/07/28/uncommon-switch-case-construct-causes-java-7-compiler-to-crash/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<blockquote>
+<p>The body of a switch statement is known as a switch block. Any statement immediately contained by the switch block may be labeled with one or more case or default labels. These labels are said to be associated with the switch statement, as are the values of the constant expressions in the case labels.</p>
+</blockquote>
+
+<p>One of the valid forms of constant expression is: Parenthesized expressions whose contained expression is a constant expression, and examples are:</p>
+
+<p><code>case (3):</code></p>
+
+<p>or</p>
+
+<p><code>case (1 + 2):</code></p>
+
+<p>Java 7 introduces support for strings in switch (part of <a href="http://openjdk.java.net/projects/coin/" target="_blank">project coin</a>). Using the form of constant expression listed above, with strings in switch, causes javac to crash with a NullPointerException. This is a bug in java 7 compiler and I have reported this in Java bug database.</p>
+
+<p>Here’s a test program to reproduce the issue:</p>
+
+<pre><code>public class Test {
+    public static void main(String args[]) {
+        switch(args[0]) {
+            case(&quot;hello&quot;): // causes javac to crash
+                System.out.println(&quot;hello!!&quot;);
+                break;
+            default:
+                System.out.println(&quot;hi!&quot;);
+        }
+    }
+}
+</code></pre>
+
+<p>Running javac Test.java results in:</p>
+
+<pre><code>An exception has occurred in the compiler (1.7.0).
+Please file a bug at the Java Developer Connection
+(http://java.sun.com/webapps/bugreport)  after checking
+the Bug Parade for duplicates. Include your program
+and the following diagnostic in your report.  Thank you.
+java.lang.NullPointerException
+        at com.sun.tools.javac.comp.Lower.visitStringSwitch(Lower.java:3456)
+        at com.sun.tools.javac.comp.Lower.visitSwitch(Lower.java:3357)
+        at com.sun.tools.javac.tree.JCTree$JCSwitch.accept(JCTree.java:959)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:58)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2160)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:70)
+        at com.sun.tools.javac.tree.TreeTranslator.visitBlock(TreeTranslator.java:160)
+        at com.sun.tools.javac.comp.Lower.visitBlock(Lower.java:3311)
+        at com.sun.tools.javac.tree.JCTree$JCBlock.accept(JCTree.java:781)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:58)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2160)
+        at com.sun.tools.javac.tree.TreeTranslator.visitMethodDef(TreeTranslator.java:144)
+        at com.sun.tools.javac.comp.Lower.visitMethodDefInternal(Lower.java:2619)
+        at com.sun.tools.javac.comp.Lower.visitMethodDef(Lower.java:2538)
+        at com.sun.tools.javac.tree.JCTree$JCMethodDecl.accept(JCTree.java:669)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:58)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2160)
+        at com.sun.tools.javac.comp.Lower.visitClassDef(Lower.java:2283)
+        at com.sun.tools.javac.tree.JCTree$JCClassDecl.accept(JCTree.java:591)
+        at com.sun.tools.javac.tree.TreeTranslator.translate(TreeTranslator.java:58)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2160)
+        at com.sun.tools.javac.comp.Lower.translate(Lower.java:2180)
+        at com.sun.tools.javac.comp.Lower.translateTopLevelClass(Lower.java:3650)
+        at com.sun.tools.javac.main.JavaCompiler.desugar(JavaCompiler.java:1393)
+        at com.sun.tools.javac.main.JavaCompiler.desugar(JavaCompiler.java:1271)
+        at com.sun.tools.javac.main.JavaCompiler.compile2(JavaCompiler.java:870)
+        at com.sun.tools.javac.main.JavaCompiler.compile(JavaCompiler.java:829)
+        at com.sun.tools.javac.main.Main.compile(Main.java:417)
+        at com.sun.tools.javac.main.Main.compile(Main.java:331)
+        at com.sun.tools.javac.main.Main.compile(Main.java:322)
+        at com.sun.tools.javac.Main.compile(Main.java:76)
+        at com.sun.tools.javac.Main.main(Main.java:61)
+</code></pre>
+
+<p>Leaving out the opening or closing parenthesis does give a valid compilation error, indicating that parenthesis is valid with string literals in a constant expression.</p>
+
+<p>The build I am using is release candidate and will most likely ship with this bug:</p>
+
+<pre><code>C:\&gt;java -version
+java version &quot;1.7.0&quot;
+Java(TM) SE Runtime Environment (build 1.7.0-b147)
+Java HotSpot(TM) Client VM (build 21.0-b17, mixed mode, sharing)
+</code></pre>
+
+<p>I have not tried this on a system other than my Windows 7 laptop, but this bug does not seem to be platform specific. In any case, here is some detail about my system:</p>
+
+<pre><code>NUMBER_OF_PROCESSORS=2
+OS=Windows_NT
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 23 Stepping 6, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=1706
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+</code></pre>
+
+<p>The bug id is <a href="http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7071246" target="_blank">7071246</a>, but is not visible to the public yet. In an email, Oracle says this will be visible only after it is reviewed <em>and</em> does not pose a security concern.</p>
+
+<p>Though using parenthesis in case labels is very uncommon, if one does use it in the form explained above, it is impossible to tell from the error message what or where the issue is. An issue if you are compiling a code base with hundreds or thousands of java classes.</p>
+
+<p>[Update = &ldquo;the bug is now posted on the java bug database in the public domain]&rdquo;</p>
 
         
 
@@ -240,44 +368,31 @@ Come Lion, creating a new desktop for a full screen application is as easy as hi
 
 
         
-          <p>Scott Adams&rsquo; tricks for engineering your own happiness. Condensed from a blog post.
-Food - When you feel agitated, try eating some carbs.
-Exercise - Think of exercise as the difference between a good day and a bad day. That is reason enough to exercise.
-Goals - Have at least one project brewing at all times that has a non-zero chance of changing the planet, or making a billion dollars, or both.</p>
+        <p><a href="http://en.wikipedia.org/wiki/Scott_Adams" target="_blank">Scott Adams</a>&rsquo; tricks for
+engineering your own happiness. Condensed from a <a href="http://dilbert.com/blog/entry/happiness_engineering" target="_blank">blog
+post</a>.</p>
 
-          
-              <footer>
-                  <a href="http://karecha.com/blog/2011/07/17/tricks-for-engineering-your-own-happiness/" rel="full-article">continue reading &rarr;</a>
-              </footer>
-          
+<p><strong>Food</strong> - When you feel agitated, try eating some carbs.</p>
 
-        
+<p><strong>Exercise</strong> - Think of exercise as the difference between a good day and a bad day. That is reason enough to exercise.</p>
 
-    </article>
-    
-    <article>
+<p><strong>Goals</strong> - Have at least one project brewing at all times that has a non-zero chance of changing the planet, or making a billion dollars, or both. That is a good feeling to wake up to.</p>
 
-        
-        
+<p><strong>Meaning</strong> - First, achieve personal success. Once you reach a more comfortable level, be useful to others in order to find meaning and feel right in your own skin.</p>
 
-<header>
-    <p class="meta">Jul 15, 2011
-        
-        
+<p><strong>Positivity</strong> - Have an ongoing positive dialog with yourself. Do not incorporate negativity even in your humor. Saying positive things puts your mind into a positive state and attracts positive relationships and positive outcomes.</p>
 
-        
-    </p>
-    <h1 class="entry-title">
-        <a href="http://karecha.com/blog/2011/07/15/software-design/">Software design</a>
-    </h1>
-</header>
+<p><strong>A Little Bit of Danger</strong> - Make it a habit to try new things, even if those things scare you a bit.</p>
 
+<p><strong>Learn</strong> - Feed your brain. The more active your brain is, the more alive you will feel.</p>
 
-        
-          <p>one purpose of software design is to give yourself more of the system you can safely ignore when making any given change
- &ndash; Kent Beck via a tweet</p>
+<p><strong>Feel Success</strong> - Make it a habit to often do things you do well. It doesn&rsquo;t matter what that is but doing one thing well gives your ego armor to handle the little things that don&rsquo;t go quite so well.</p>
 
-          
+<p><strong>Relationships</strong> - Follow the other tips for happiness to attract the sort of relationships you want.</p>
+
+<p>Happiness can be engineered, and luck is a product of good design.</p>
+
+<p>&ndash; <a href="http://dilbert.com/blog/entry/happiness_engineering" target="_blank">Read the original blog post</a></p>
 
         
 
@@ -430,6 +545,10 @@ Goals - Have at least one project brewing at all times that has a non-zero chanc
         <ul id="recent_posts">
           
             <li class="post">
+              <a href="/blog/2016/12/20/one-on-ones-howto/">One on ones (howto)</a>
+            </li>
+          
+            <li class="post">
               <a href="/blog/2016/11/07/crockers-rule/">Crocker&#39;s Rule</a>
             </li>
           
@@ -483,10 +602,6 @@ Goals - Have at least one project brewing at all times that has a non-zero chanc
           
             <li class="post">
               <a href="/blog/2014/01/05/balance/">Balance</a>
-            </li>
-          
-            <li class="post">
-              <a href="/blog/2013/12/31/2013/">2013</a>
             </li>
           
         </ul>
