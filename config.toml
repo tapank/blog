@@ -67,7 +67,7 @@ post = "/blog/:year/:month/:day/:title/"
 	# navigationNewWindow = true
 
 	# If false, all of the post will appear on front page (and in pagination)
-	truncate = true
+	truncate = false
 
 	# Author's name (this will appear in metadata and under posts)
 	author = "Tapan Karecha"
