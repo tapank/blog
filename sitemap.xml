@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://karecha.com/</loc>
-    <lastmod>2016-12-20T11:37:16+05:30</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://karecha.com/blog/2016/12/20/one-on-ones-howto/</loc>
@@ -292,7 +288,7 @@
   </url>
   
   <url>
-    <loc>http://karecha.com/blog/2011/07/12/google&#43;--my-first-impressions/</loc>
+    <loc>http://karecha.com/blog/2011/07/12/google---my-first-impressions/</loc>
     <lastmod>2011-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -689,6 +685,28 @@
   <url>
     <loc>http://karecha.com/blog/2008/12/14/gotta-blog/</loc>
     <lastmod>2008-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karecha.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://karecha.com/</loc>
+    <lastmod>2016-12-20T11:37:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://karecha.com/post/</loc>
+    <lastmod>2016-12-20T11:37:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://karecha.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
