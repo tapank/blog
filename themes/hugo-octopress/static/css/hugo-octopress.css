@@ -85,8 +85,7 @@ video {
     font: inherit;
     font-size: 100%;
     vertical-align: baseline;
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
 
 }
 html {
@@ -104,7 +103,6 @@ caption,
 th,
 td {
     text-align: left;
-    font-weight: lighter;
     vertical-align: middle;
 }
 q,
@@ -169,6 +167,7 @@ a {
     transition: color 0.3s
 }
 html {
+    font-family: "Inconsolata";
     background: #252525 top left
 }
 body>div {
@@ -187,8 +186,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
 }
 .sans,
 body>header h2,
@@ -200,8 +198,7 @@ html .gist .gist-file .gist-meta,
 #blog-archives time,
 aside.sidebar section,
 body>footer {
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
 }
 .serif,
 body,
@@ -214,19 +211,16 @@ code,
 tt,
 p code,
 li code {
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
 }
 body>header h1 {
     font-size: 2.2em;
-    font-family: "Source Code Pro";
-    font-weight: lighter;
+    font-family: "Inconsolata";
     line-height: 1.2em;
     margin-bottom: 0.6667em
 }
 body>header h2 {
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
 }
 body {
     line-height: 1.5em;
@@ -253,7 +247,6 @@ h5,
 h6 {
     text-rendering: optimizelegibility;
     margin-bottom: 1em;
-    font-weight: lighter;
     margin-top: 1em;
 }
 h2,
@@ -386,7 +379,6 @@ big {
 }
 article blockquote {
     font-style: normal;
-		font-weight: lighter;
     position: relative;
     font-size: 1.0em;
     line-height: 1.5em;
@@ -794,7 +786,6 @@ body>header h2 {
     margin: .2em 0 0;
     font-size: 1em;
     color: #aaa;
-    font-weight: lighter
 }
 body>nav {
     position: relative;
@@ -819,8 +810,7 @@ body>nav form {
 body>nav form .search {
     padding: .3em .5em 0;
     font-size: .85em;
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
     line-height: 1.1em;
     width: 95%;
     -webkit-border-radius: 0.5em;
@@ -909,8 +899,7 @@ body>nav ul {
     }
     body>nav a {
         color: #6b6b6b;
-        font-family: "Source Code Pro";
-				font-weight: lighter;
+        font-family: "Inconsolata";
         text-shadow: #ebebeb 0 1px;
         float: left;
         text-decoration: none;
@@ -1183,8 +1172,7 @@ article>footer p.meta {
 }
 #content .blog-index article {
     padding-top: 2em;
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
 }
 #content .blog-index article header {
     background: none;
@@ -1429,8 +1417,7 @@ li pre code {
 .pre-code,
 html .gist .gist-file .gist-syntax .highlighttable pre,
 .highlighttable code {
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
     overflow: scroll;
     overflow-y: hidden;
     display: block;
@@ -1788,8 +1775,7 @@ figure.code figcaption { /* figcaption changes */
     -webkit-border-top-right-radius: 5px;
     border-top-right-radius: 5px;
     background: #aaa top repeat-x;
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
     border: 1px solid #565656;
     border-top-color: #cbcbcb;
     border-left-color: #a5a5a5;
@@ -1905,8 +1891,7 @@ figure.code figcaption a:hover {
         text-align: right;
         left: 0em;
         top: 3em; /* may need to change this to align the month/date on the tag/category (archive) pages with post name */
-        font-family: "Source Code Pro";
-				font-weight: lighter;
+        font-family: "Inconsolata";
     }
 
    /* #blog-archives .year {
@@ -2201,8 +2186,7 @@ a.label:visited {
 
 /* because we have changed the font-family of everything, we need to change it for the code inside pre to fit with line numbers */
 pre span {
-    font-family: "Source Code Pro";
-		font-weight: lighter;
+    font-family: "Inconsolata";
 }
 
 td.code {
