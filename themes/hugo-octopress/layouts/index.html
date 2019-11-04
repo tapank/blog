@@ -3,40 +3,17 @@
 <div id="main">
  <div id="content">
   <div class="blog-index">
+    <article>
+    <h1>Posts</h1>
     {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
     {{ range $paginator.Pages }}
-    <article>
-
-        {{ .Scratch.Set "isHome" true }}
-        {{ partial "post_header.html" . }}
-
-        {{ if eq .Site.Params.truncate false }}
-        {{ .Content }}
-        {{ else if .Description }}
-        {{ .Description }}
-          <footer>
-            <a href="{{ .Permalink }}" rel="full-article">{{ if isset .Site.Params "continueReadingText" }}{{ .Site.Params.continueReadingText }} &rarr;{{ else }}Read On &rarr;{{ end }}</a>
-          </footer>
-        {{ else }}
-          <p>{{ .Summary }}</p>
-
-          {{ if .Truncated }}
-              <footer>
-                  <a href="{{ .Permalink }}" rel="full-article">{{ if isset .Site.Params "continueReadingText" }}{{ .Site.Params.continueReadingText }} &rarr;{{ else }}Read On &rarr;{{ end }}</a>
-              </footer>
-          {{ end }}
-
-        {{ end }}
-
-    </article>
+    <br>{{ .Date.Format "2006 Jan 02" }}: <a href="{{ .Permalink }}">{{ .Title }}</a>
     {{ end }}
-    <!-- {{ template "_internal/pagination.html" . }} default pagination -->
-    {{ partial "pagination.html" . }}  <!-- use custom pagination -->
-
+    </article>
+    {{ partial "pagination.html" . }}
   </div>
-
-  {{ partial "sidebar.html" . }}    <!-- sidebar -->
+  {{ partial "sidebar.html" . }}
  </div>
 </div>
+<footer>&copy; Copyright 2014-2019 tapan [at] karecha [dot] com</footer>
 
-{{ partial "footer.html" . }}   <!-- footer -->
