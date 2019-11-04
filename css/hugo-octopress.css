@@ -85,11 +85,11 @@ video {
     font: inherit;
     font-size: 100%;
     vertical-align: baseline;
-    font-family: "monospace";
-
+    font-family: monospace;
 }
 html {
-    line-height: 1
+    line-height: 1;
+    font-family: monospace;
 }
 ol,
 ul {
@@ -167,7 +167,7 @@ a {
     transition: color 0.3s
 }
 html {
-    font-family: "monospace";
+    font-family: monospace;
     background: #252525 top left
 }
 body>div {
@@ -186,7 +186,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "monospace";
+    font-family: monospace;
 }
 .sans,
 body>header h2,
@@ -198,7 +198,7 @@ html .gist .gist-file .gist-meta,
 #blog-archives time,
 aside.sidebar section,
 body>footer {
-    font-family: "monospace";
+    font-family: monospace;
 }
 .serif,
 body,
@@ -211,16 +211,16 @@ code,
 tt,
 p code,
 li code {
-    font-family: "monospace";
+    font-family: monospace;
 }
 body>header h1 {
     font-size: 2.2em;
-    font-family: "monospace";
+    font-family: monospace;
     line-height: 1.2em;
     margin-bottom: 0.6667em
 }
 body>header h2 {
-    font-family: "monospace";
+    font-family: monospace;
 }
 body {
     line-height: 1.5em;
@@ -806,7 +806,7 @@ body>nav form {
 body>nav form .search {
     padding: .3em .5em 0;
     font-size: .85em;
-    font-family: "monospace";
+    font-family: monospace;
     line-height: 1.1em;
     width: 95%;
     -webkit-border-radius: 0.5em;
@@ -895,7 +895,7 @@ body>nav ul {
     }
     body>nav a {
         color: #6b6b6b;
-        font-family: "monospace";
+        font-family: monospace;
         text-shadow: #ebebeb 0 1px;
         float: left;
         text-decoration: none;
@@ -1168,7 +1168,7 @@ article>footer p.meta {
 }
 #content .blog-index article {
     padding-top: 2em;
-    font-family: "monospace";
+    font-family: monospace;
 }
 #content .blog-index article header {
     background: none;
@@ -1413,7 +1413,7 @@ li pre code {
 .pre-code,
 html .gist .gist-file .gist-syntax .highlighttable pre,
 .highlighttable code {
-    font-family: "monospace";
+    font-family: monospace;
     overflow: scroll;
     overflow-y: hidden;
     display: block;
@@ -1771,7 +1771,7 @@ figure.code figcaption { /* figcaption changes */
     -webkit-border-top-right-radius: 5px;
     border-top-right-radius: 5px;
     background: #aaa top repeat-x;
-    font-family: "monospace";
+    font-family: monospace;
     border: 1px solid #565656;
     border-top-color: #cbcbcb;
     border-left-color: #a5a5a5;
@@ -1887,7 +1887,7 @@ figure.code figcaption a:hover {
         text-align: right;
         left: 0em;
         top: 3em; /* may need to change this to align the month/date on the tag/category (archive) pages with post name */
-        font-family: "monospace";
+        font-family: monospace;
     }
 
    /* #blog-archives .year {
@@ -2182,7 +2182,7 @@ a.label:visited {
 
 /* because we have changed the font-family of everything, we need to change it for the code inside pre to fit with line numbers */
 pre span {
-    font-family: "monospace";
+    font-family: monospace;
 }
 
 td.code {
