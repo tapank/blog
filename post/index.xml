@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Notes to self</title>
-    <link>http://karecha.com/post/</link>
+    <link>https://karecha.com/post/</link>
     <description>Recent content in Posts on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Dec 2016 11:37:16 +0530</lastBuildDate>
     
-	<atom:link href="http://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>One on ones (howto)</title>
-      <link>http://karecha.com/blog/2016/12/20/one-on-ones-howto/</link>
+      <link>https://karecha.com/blog/2016/12/20/one-on-ones-howto/</link>
       <pubDate>Tue, 20 Dec 2016 11:37:16 +0530</pubDate>
       
-      <guid>http://karecha.com/blog/2016/12/20/one-on-ones-howto/</guid>
+      <guid>https://karecha.com/blog/2016/12/20/one-on-ones-howto/</guid>
       <description>Andy Grove explains how to have effective 1x1s in his classic management book High Output Management.
 Setup:
  Block regular time; tune frequency for individual Show up on time; don’t cancel at the last minute Prepare discussion points; ask him/her to do the same  Remember:
@@ -25,30 +25,30 @@ Setup:
     
     <item>
       <title>Crocker&#39;s Rule</title>
-      <link>http://karecha.com/blog/2016/11/07/crockers-rule/</link>
+      <link>https://karecha.com/blog/2016/11/07/crockers-rule/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2016/11/07/crockers-rule/</guid>
+      <guid>https://karecha.com/blog/2016/11/07/crockers-rule/</guid>
       <description>Crocker&amp;rsquo;s rule:
  Declaring yourself to be operating by &amp;ldquo;Crocker&amp;rsquo;s Rules&amp;rdquo; means that other people are allowed to optimize their messages for information, not for being nice to you. Crocker&amp;rsquo;s Rules means that you have accepted full responsibility for the operation of your own mind - if you&amp;rsquo;re offended, it&amp;rsquo;s your fault. Anyone is allowed to call you a moron and claim to be doing you a favor. (Which, in point of fact, they would be.</description>
     </item>
     
     <item>
       <title>Get Unstuck</title>
-      <link>http://karecha.com/blog/2016/11/06/get-unstuck/</link>
+      <link>https://karecha.com/blog/2016/11/06/get-unstuck/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2016/11/06/get-unstuck/</guid>
+      <guid>https://karecha.com/blog/2016/11/06/get-unstuck/</guid>
       <description>When learning a new programming language, a new framework, or a new technology, there will be times when you will get stuck. When you are stuck, do the following:
  RTFM Ask the rubber duck STFW Ask a friend or colleague  This order is important for maximizing learning.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://karecha.com/blog/2016/10/28/teaching/</link>
+      <link>https://karecha.com/blog/2016/10/28/teaching/</link>
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2016/10/28/teaching/</guid>
+      <guid>https://karecha.com/blog/2016/10/28/teaching/</guid>
       <description>Teaching is most effective when done by a practitioner of the subject matter. That is why Bret Victor says this:
  Real teaching is not about transferring &amp;ldquo;the material&amp;rdquo;, as if knowledge were some sort of mass-produced commodity that ships from Amazon. Real teaching is about conveying a way of thinking. How can a teacher convey a way of thinking when he doesn&amp;rsquo;t genuinely think that way?
  The entire blog post is worth a read &amp;ndash; and a re-read.</description>
@@ -56,10 +56,10 @@ Setup:
     
     <item>
       <title>Pull request checklist</title>
-      <link>http://karecha.com/blog/2016/10/26/pull-request-checklist/</link>
+      <link>https://karecha.com/blog/2016/10/26/pull-request-checklist/</link>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2016/10/26/pull-request-checklist/</guid>
+      <guid>https://karecha.com/blog/2016/10/26/pull-request-checklist/</guid>
       <description>Open source projects have styleguides, and this one is one such example. What caught my attention is the code review checklist, though there are other nuggets in there.
  Checklist
 Before you submit your patch for review, look at the diff. Consider running through a quick mental checklist of all the things discussed above before submitting your patch for review:
@@ -68,10 +68,10 @@ Before you submit your patch for review, look at the diff. Consider running thro
     
     <item>
       <title>Advice from an astronaut</title>
-      <link>http://karecha.com/blog/2016/01/03/advice-from-an-astronaut/</link>
+      <link>https://karecha.com/blog/2016/01/03/advice-from-an-astronaut/</link>
       <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2016/01/03/advice-from-an-astronaut/</guid>
+      <guid>https://karecha.com/blog/2016/01/03/advice-from-an-astronaut/</guid>
       <description>To the question: &amp;ldquo;What advice would you give a 13-year-old who wishes to become an astronaut in the future?&amp;rdquo;, the astronaut Chris Hadfield answered:
  3 things:
  keep your body in shape. You get strong at the gym and thin in the kitchen get an advanced technical education, one that challenges you, at least a Master&amp;rsquo;s degree make decisions, and stick to them. It&amp;rsquo;s a skill that gets better with practice.</description>
@@ -79,10 +79,10 @@ Before you submit your patch for review, look at the diff. Consider running thro
     
     <item>
       <title>Agile is the new waterfall</title>
-      <link>http://karecha.com/blog/2015/10/15/agile-is-the-new-waterfall/</link>
+      <link>https://karecha.com/blog/2015/10/15/agile-is-the-new-waterfall/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2015/10/15/agile-is-the-new-waterfall/</guid>
+      <guid>https://karecha.com/blog/2015/10/15/agile-is-the-new-waterfall/</guid>
       <description>Thought provoking analysis of the state of Agile today.
  Unfortunately, with little or no documentation, now the developer is accountable for the outcome while having little or no authority to create a winning one. This responsibility without authority makes Agile even more toxic than Waterfall.
  </description>
@@ -90,40 +90,40 @@ Before you submit your patch for review, look at the diff. Consider running thro
     
     <item>
       <title>Tab width</title>
-      <link>http://karecha.com/blog/2015/10/11/tab-width/</link>
+      <link>https://karecha.com/blog/2015/10/11/tab-width/</link>
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2015/10/11/tab-width/</guid>
+      <guid>https://karecha.com/blog/2015/10/11/tab-width/</guid>
       <description>After reading the following from the kernel.org coding styleguide, it is easy to see why not to write code with tabs converted to spaces, and why not to set tab width to anything less than eight.
  Tabs are 8 characters, and thus indentations are also 8 characters. There are heretic movements that try to make indentations 4 (or even 2!) characters deep, and that is akin to trying to define the value of PI to be 3.</description>
     </item>
     
     <item>
       <title>Process</title>
-      <link>http://karecha.com/blog/2015/09/20/process/</link>
+      <link>https://karecha.com/blog/2015/09/20/process/</link>
       <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2015/09/20/process/</guid>
+      <guid>https://karecha.com/blog/2015/09/20/process/</guid>
       <description>Author of &amp;ldquo;I&amp;rsquo;m Sorry, But Agile Won&amp;rsquo;t Fix Your Products&amp;rdquo; has valid points but something more needs to be said. I am concerned that the onus of creativity is being relegated away from people, as if process is capable of thinking.
 It is important to note that Agile is one of many software development processes, and hence it could have been claimed that &amp;ldquo;Processes will not fix your Products,&amp;rdquo; and the arguments in that article would still hold good.</description>
     </item>
     
     <item>
       <title>Tending code</title>
-      <link>http://karecha.com/blog/2015/09/17/tending-code/</link>
+      <link>https://karecha.com/blog/2015/09/17/tending-code/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2015/09/17/tending-code/</guid>
+      <guid>https://karecha.com/blog/2015/09/17/tending-code/</guid>
       <description>Rachel Davies in a blog post titled Making Time To Tend Code
  Setting aside time to tend our code is essential for us to maintain fruitful software assets. Start by making technical tasks visible to your team. Prioritise these tasks so that the team works on the ones that will yield most benefit. At standup, consider as a team, what effort should be put on code tending tasks today. Keep track how much time you spend on code tending, this can help you strike the right balance against business facing features.</description>
     </item>
     
     <item>
       <title>Grit</title>
-      <link>http://karecha.com/blog/2015/09/10/grit/</link>
+      <link>https://karecha.com/blog/2015/09/10/grit/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2015/09/10/grit/</guid>
+      <guid>https://karecha.com/blog/2015/09/10/grit/</guid>
       <description>DHH in a blog post titled Grit is for cowboys
  Grit is a convenient trait for enticing others to comply with the uncomfortable or the uninteresting. It elevates the perseverance of such adversity to a virtue in and of itself. Just dangle that long-term goal in front of them, accuse them of lack of grit, and compliance will oft follow.
  </description>
@@ -131,56 +131,56 @@ It is important to note that Agile is one of many software development processes
     
     <item>
       <title>We need more Scouts</title>
-      <link>http://karecha.com/blog/2015/04/03/we-need-more-scouts/</link>
+      <link>https://karecha.com/blog/2015/04/03/we-need-more-scouts/</link>
       <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2015/04/03/we-need-more-scouts/</guid>
+      <guid>https://karecha.com/blog/2015/04/03/we-need-more-scouts/</guid>
       <description>A typical software development shop in India has one permanent &amp;lsquo;feature&amp;rsquo;: an army of workers (a.k.a. housekeeping staff) whose sole responsiblity is to cleanup after employees. These are the people whose job is to collect empty coffee mugs or cups from cubicles, refill the coffee machine in the pantry, clean the tables in the pantry after the employees leave coffee or tea stains on them, or dispose the empty pizza boxes once the employees are done eating pizza.</description>
     </item>
     
     <item>
       <title>Break</title>
-      <link>http://karecha.com/blog/2014/11/13/break/</link>
+      <link>https://karecha.com/blog/2014/11/13/break/</link>
       <pubDate>Thu, 13 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2014/11/13/break/</guid>
+      <guid>https://karecha.com/blog/2014/11/13/break/</guid>
       <description>After 24 years of working at various jobs, I bid goodbye to by colleagues and began the first full time break of my career. This was not easy, especially because once I announced my decision about a month ago, my team and my colleagues made me feel very special. But this day had to come, and now I am no longer employed and intend to stay this way until I fix a few things.</description>
     </item>
     
     <item>
       <title>Deliberate practice</title>
-      <link>http://karecha.com/blog/2014/03/17/deliberate-practice/</link>
+      <link>https://karecha.com/blog/2014/03/17/deliberate-practice/</link>
       <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2014/03/17/deliberate-practice/</guid>
+      <guid>https://karecha.com/blog/2014/03/17/deliberate-practice/</guid>
       <description>Ruby Rogues podcast recently had an interesting discussion about how to learn [1]. At the center of the discussion was a wrong, but commonly held notion that talent is genetic. They discussed research about the role of deliberate practice in making of an elite performer. I think this knowledge broadly applies to a number of domains, including to those in knowledge industry. The main source of that information is from a research paper by Ericsson et.</description>
     </item>
     
     <item>
       <title>Balance</title>
-      <link>http://karecha.com/blog/2014/01/05/balance/</link>
+      <link>https://karecha.com/blog/2014/01/05/balance/</link>
       <pubDate>Sun, 05 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2014/01/05/balance/</guid>
+      <guid>https://karecha.com/blog/2014/01/05/balance/</guid>
       <description>A life lesson I learned last year is by watching others go about doing their jobs. It is about effectiveness &amp;ndash; and striking a balance between short term and longer term effectiveness. The lesson is: do not give up long term effectiveness in favor of short term efficiencies.
 When we look back, it is easy to tell if the balance was right but not as easy when the choice lies in front of us.</description>
     </item>
     
     <item>
       <title>2013</title>
-      <link>http://karecha.com/blog/2013/12/31/2013/</link>
+      <link>https://karecha.com/blog/2013/12/31/2013/</link>
       <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2013/12/31/2013/</guid>
+      <guid>https://karecha.com/blog/2013/12/31/2013/</guid>
       <description>What a year 2013 has been. I quit my job at the company that I worked at for 13 years. Here &amp;ndash; with my current employer &amp;ndash; I have learned a lot in these ten months. I have seen what I think makes a technology company successful. I have met people who I think are very smart. I have also seen what I think makes smart people make choices that may not be aligned with the grain of a company&amp;rsquo;s culture.</description>
     </item>
     
     <item>
       <title>On being a novice</title>
-      <link>http://karecha.com/blog/2013/11/23/on-being-a-novice/</link>
+      <link>https://karecha.com/blog/2013/11/23/on-being-a-novice/</link>
       <pubDate>Sat, 23 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2013/11/23/on-being-a-novice/</guid>
+      <guid>https://karecha.com/blog/2013/11/23/on-being-a-novice/</guid>
       <description>Uncle Bob in a blog post titled Hoards of Novices
  Do you remember that first line of code you wrote when you were very young. Do you remember the thrill it gave you to see that line of code actually execute. Do you remember the feeling of power it gave you. You were the master. The machine was your slave, and you could make that machine do anything!
 Many of us became programmers because of a moment like that.</description>
@@ -188,77 +188,77 @@ Many of us became programmers because of a moment like that.</description>
     
     <item>
       <title>Start with peace of mind</title>
-      <link>http://karecha.com/blog/2013/10/06/start-with-peace-of-mind/</link>
+      <link>https://karecha.com/blog/2013/10/06/start-with-peace-of-mind/</link>
       <pubDate>Sun, 06 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2013/10/06/start-with-peace-of-mind/</guid>
+      <guid>https://karecha.com/blog/2013/10/06/start-with-peace-of-mind/</guid>
       <description>Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.
  &amp;ndash; Robert M. Pirsig</description>
     </item>
     
     <item>
       <title>Two kinds of books</title>
-      <link>http://karecha.com/blog/2013/10/06/two-kinds-of-books/</link>
+      <link>https://karecha.com/blog/2013/10/06/two-kinds-of-books/</link>
       <pubDate>Sun, 06 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2013/10/06/two-kinds-of-books/</guid>
+      <guid>https://karecha.com/blog/2013/10/06/two-kinds-of-books/</guid>
       <description>There are two kinds of [selfhelp] books:
  Those that tell you why you are the way you are, and that its ok to be the way you are; and Those that tell you how to become what you want to become.  I see value in both of the above, but time spent reading the second type feels like more bang for the buck.</description>
     </item>
     
     <item>
       <title>Looking forward</title>
-      <link>http://karecha.com/blog/2013/06/16/looking-forward/</link>
+      <link>https://karecha.com/blog/2013/06/16/looking-forward/</link>
       <pubDate>Sun, 16 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2013/06/16/looking-forward/</guid>
+      <guid>https://karecha.com/blog/2013/06/16/looking-forward/</guid>
       <description>One thing that keeps us going more than anything else is &amp;ndash; the hope that tomorrow is going to be better than today. This is true no matter what your today looks like. You may be going through the worst day of your life or today may be the best day of your life, but tomorrow needs to be something you look forward to. For example, former Olympians struggle with post Olympic stress disorder because their best days seem to be behind them.</description>
     </item>
     
     <item>
       <title>Craftsmen build tools</title>
-      <link>http://karecha.com/blog/2013/05/14/craftsmen-build-tools/</link>
+      <link>https://karecha.com/blog/2013/05/14/craftsmen-build-tools/</link>
       <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2013/05/14/craftsmen-build-tools/</guid>
+      <guid>https://karecha.com/blog/2013/05/14/craftsmen-build-tools/</guid>
       <description>One of the tell tale signs of craftsmen is their natural afinity for building or improving tools. While this may sound unnatural to others, a craftsman does not have to think about this; it comes to him naturally &amp;ndash; improving existing tools or building new tools.
 When I am interviewing a candidate for a job, I always ask this question: &amp;ldquo;Tell me about the tools you have built or improved to make you more effective at your job.</description>
     </item>
     
     <item>
       <title>Getting back on track</title>
-      <link>http://karecha.com/blog/2013/04/01/getting-back-on-track/</link>
+      <link>https://karecha.com/blog/2013/04/01/getting-back-on-track/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2013/04/01/getting-back-on-track/</guid>
+      <guid>https://karecha.com/blog/2013/04/01/getting-back-on-track/</guid>
       <description>Moving to a new job and a new city threw me off track in many ways. Now, I think things are falling back in place and I may soon be on track. This means, some of the things that I did outside of work &amp;ndash; and had become used to &amp;ndash; will again become possible.
 Just being able to post a few words on my blog feels great.</description>
     </item>
     
     <item>
       <title>On writing</title>
-      <link>http://karecha.com/blog/2012/11/03/on-writing/</link>
+      <link>https://karecha.com/blog/2012/11/03/on-writing/</link>
       <pubDate>Sat, 03 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/11/03/on-writing/</guid>
+      <guid>https://karecha.com/blog/2012/11/03/on-writing/</guid>
       <description>I have started reading &amp;ldquo;On writing well&amp;rdquo; by William Zinsser and just from reading chapter 1, I can see what makes this book tick. It is a sequel to the seminal work on this subject &amp;ndash; &amp;ldquo;Elements of style&amp;rdquo; by Strunk and White. I have enjoyed reading &amp;ldquo;Elements of style&amp;rdquo; so much that it left me with a longing for more on the topic; and &amp;ldquo;On writing well&amp;rdquo; satisfies that craving.</description>
     </item>
     
     <item>
       <title>Ideas</title>
-      <link>http://karecha.com/blog/2012/09/30/ideas/</link>
+      <link>https://karecha.com/blog/2012/09/30/ideas/</link>
       <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/09/30/ideas/</guid>
+      <guid>https://karecha.com/blog/2012/09/30/ideas/</guid>
       <description>Ideas are what lead to new things. The two different stages in this process of creating something new are &amp;ndash; the idea and the implementation. So first, there needs to be an idea &amp;ndash; that moment of inspiration when a thought is born which promises to be a seed to doing or creating something new or different, possibly even useful (lucky you if it is useful because most ideas are useless).</description>
     </item>
     
     <item>
       <title>Feature backlog</title>
-      <link>http://karecha.com/blog/2012/07/15/feature-backlog/</link>
+      <link>https://karecha.com/blog/2012/07/15/feature-backlog/</link>
       <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/07/15/feature-backlog/</guid>
+      <guid>https://karecha.com/blog/2012/07/15/feature-backlog/</guid>
       <description>Joel Spolsky blogs about software development and points out wasteful inventories.
 In the post, he makes an interesting observation about feature backlog:
  Every product attracts new feature ideas, and you can’t implement ideas as fast as you can think them up, so you write them down, and this list is called the feature backlog. A lot of the ideas on the backlog are bad ideas, and you merely wrote them down to avoid hurting the feelings of the people who thought them up.</description>
@@ -266,57 +266,57 @@ In the post, he makes an interesting observation about feature backlog:
     
     <item>
       <title>Rescue</title>
-      <link>http://karecha.com/blog/2012/06/16/rescue/</link>
+      <link>https://karecha.com/blog/2012/06/16/rescue/</link>
       <pubDate>Sat, 16 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/06/16/rescue/</guid>
+      <guid>https://karecha.com/blog/2012/06/16/rescue/</guid>
       <description>Atul Gawande talks about the difference between triumph and defeat.
  So you will take risks, and you will have failures. But it’s what happens afterward that is defining. A failure often does not have to be a failure at all. However, you have to be ready for it—will you admit when things go wrong? Will you take steps to set them right?—because the difference between triumph and defeat, you’ll find, isn’t about willingness to take risks.</description>
     </item>
     
     <item>
       <title>Mirror</title>
-      <link>http://karecha.com/blog/2012/05/29/mirror/</link>
+      <link>https://karecha.com/blog/2012/05/29/mirror/</link>
       <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/05/29/mirror/</guid>
+      <guid>https://karecha.com/blog/2012/05/29/mirror/</guid>
       <description>Looking at the profile pictures of people on Facebook and Twitter, I see a pattern. From what I have seen so far, the profile pictures fall into one of the following categories:
  Picture of self from the past when they looked much younger/better Current picture of self Picture of a celebrity No picture  I dont know what to make of the last two, but I have been type 1 until recently, and am trying to move to type 2.</description>
     </item>
     
     <item>
       <title>Autosave</title>
-      <link>http://karecha.com/blog/2012/05/27/autosave/</link>
+      <link>https://karecha.com/blog/2012/05/27/autosave/</link>
       <pubDate>Sun, 27 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/05/27/autosave/</guid>
+      <guid>https://karecha.com/blog/2012/05/27/autosave/</guid>
       <description>My laptop battery has now reached a point where it cannot hold even for a second, and that requires the machine to be connected to the mains all the time. This works as long as it works, until there is a power failure. This happened recently and it was a reminder that things that we now take for granted were different only a few years ago. In those days, we were reminded to save our work frequently and for those unlucky ones who lost an hour or more of work, we would laugh at their plight.</description>
     </item>
     
     <item>
       <title>Test post from Xubuntu</title>
-      <link>http://karecha.com/blog/2012/05/26/test-post-from-xubuntu/</link>
+      <link>https://karecha.com/blog/2012/05/26/test-post-from-xubuntu/</link>
       <pubDate>Sat, 26 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/05/26/test-post-from-xubuntu/</guid>
+      <guid>https://karecha.com/blog/2012/05/26/test-post-from-xubuntu/</guid>
       <description>This is my first post from the Linux system since I moved from Windows to Linux on my work computer. If you are seeing this post, the setup is now complete. But I have to say what a pain it is to get the Octopress setup right, if you are not a ruby developer. But there is no point in complaining too much because Octopress in general is very likable.</description>
     </item>
     
     <item>
       <title>Going Linux</title>
-      <link>http://karecha.com/blog/2012/03/23/going-linux/</link>
+      <link>https://karecha.com/blog/2012/03/23/going-linux/</link>
       <pubDate>Fri, 23 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/03/23/going-linux/</guid>
+      <guid>https://karecha.com/blog/2012/03/23/going-linux/</guid>
       <description>I recently switched from Windows 7 to Xubuntu at work and am very happy that I did. To be clear, this is not to compare Windows with Linux, but just that as a software engineer I find Linux (with Xfce for desktop management) more fun than any other OS I have used so far.</description>
     </item>
     
     <item>
       <title>App users</title>
-      <link>http://karecha.com/blog/2012/02/26/app-users/</link>
+      <link>https://karecha.com/blog/2012/02/26/app-users/</link>
       <pubDate>Sun, 26 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/02/26/app-users/</guid>
+      <guid>https://karecha.com/blog/2012/02/26/app-users/</guid>
       <description>The chances of success for an application increases when the following set of people are happy:
 ###Administrators
 Administrators want to easily &amp;hellip;
@@ -327,217 +327,217 @@ Policy deciders want to &amp;hellip;
     
     <item>
       <title>What is your story?</title>
-      <link>http://karecha.com/blog/2012/02/03/what-is-your-story/</link>
+      <link>https://karecha.com/blog/2012/02/03/what-is-your-story/</link>
       <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/02/03/what-is-your-story/</guid>
+      <guid>https://karecha.com/blog/2012/02/03/what-is-your-story/</guid>
       <description>It was late one night in Vienna when I was walking the streets with a colleague &amp;ndash; hopping from one pub to the next &amp;ndash; trying out different beers in this beautiful European city. We were there attending a technical conference, and there was nothing much to do after dark except make the most of this time exploring the hosting city. As we walked the streets late into the night, we talked about various things ranging from work, to hobby, to technology in general, and so on.</description>
     </item>
     
     <item>
       <title>Code commit on day one</title>
-      <link>http://karecha.com/blog/2012/01/21/code-commit-on-day-one/</link>
+      <link>https://karecha.com/blog/2012/01/21/code-commit-on-day-one/</link>
       <pubDate>Sat, 21 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/01/21/code-commit-on-day-one/</guid>
+      <guid>https://karecha.com/blog/2012/01/21/code-commit-on-day-one/</guid>
       <description>As a software developer, what do you expect to accomplish on the first day on your job? Certainly not checking in code. But here is an example of a company where you would be expected to do just that.
 Ok, so why does this matter? In a small to mid sized team, say up 20 people, new engineers do not join your every other week. So why solve the problem of having a new engineer commit code on day one?</description>
     </item>
     
     <item>
       <title>2011</title>
-      <link>http://karecha.com/blog/2012/01/01/2011/</link>
+      <link>https://karecha.com/blog/2012/01/01/2011/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/01/01/2011/</guid>
+      <guid>https://karecha.com/blog/2012/01/01/2011/</guid>
       <description>Here are my highlights for the year 2011. Just want to put this on record while I am still reflecting on the year that was. After this, I will once again turn around and look straight ahead.
  I&amp;rsquo;ve been using MacBook for over a year and found my fondness for it grow. Even with continued use, the fascination has not worn off a bit. More I use my MacBook, more I like it.</description>
     </item>
     
     <item>
       <title>Business as usual</title>
-      <link>http://karecha.com/blog/2012/01/01/business-as-usual/</link>
+      <link>https://karecha.com/blog/2012/01/01/business-as-usual/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2012/01/01/business-as-usual/</guid>
+      <guid>https://karecha.com/blog/2012/01/01/business-as-usual/</guid>
       <description>As a year ends, and yet another begins, the following is a good reminder:
  The thing is, we still live in a world that&amp;rsquo;s filled with opportunity. In fact, we have more than an opportunity &amp;ndash; we have an obligation. An obligation to spend our time doing great things. To find ideas that matter and to share them. To push ourselves and the people around us to demonstrate gratitude, insight, and inspiration.</description>
     </item>
     
     <item>
       <title>Espresso field guide</title>
-      <link>http://karecha.com/blog/2011/12/18/espresso-field-guide/</link>
+      <link>https://karecha.com/blog/2011/12/18/espresso-field-guide/</link>
       <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/12/18/espresso-field-guide/</guid>
+      <guid>https://karecha.com/blog/2011/12/18/espresso-field-guide/</guid>
       <description>&amp;ndash; Source orbitvisual.com</description>
     </item>
     
     <item>
       <title>Moved</title>
-      <link>http://karecha.com/blog/2011/12/17/moved/</link>
+      <link>https://karecha.com/blog/2011/12/17/moved/</link>
       <pubDate>Sat, 17 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/12/17/moved/</guid>
+      <guid>https://karecha.com/blog/2011/12/17/moved/</guid>
       <description>This blog was hosted on wordpress until today. Starting with this post, the new home is github pages. Also, my online scrap book, i.e. my tumblog, has also moved here to github pages and is merged with my blog. This makes it easier to maintain the two streams as one. I was paying wordpress for using my personal domain name for the blog, but github allows this for free.
 Another change with this move is that I am using Octopress to manage my blog posts.</description>
     </item>
     
     <item>
       <title>Making a mark</title>
-      <link>http://karecha.com/blog/2011/12/14/making-a-mark/</link>
+      <link>https://karecha.com/blog/2011/12/14/making-a-mark/</link>
       <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/12/14/making-a-mark/</guid>
+      <guid>https://karecha.com/blog/2011/12/14/making-a-mark/</guid>
       <description>Paul Graham: &amp;gt; Graffiti happens at the intersection of ambition and incompetence: people want to make their mark on the world, but have no other way to do it than literally making a mark on the world.
 Trolls</description>
     </item>
     
     <item>
       <title>Focus</title>
-      <link>http://karecha.com/blog/2011/12/02/focus/</link>
+      <link>https://karecha.com/blog/2011/12/02/focus/</link>
       <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/12/02/focus/</guid>
+      <guid>https://karecha.com/blog/2011/12/02/focus/</guid>
       <description>The job of the average manager requires shift in focus every few minutes. The job of the average software developer requires that the developer not shift focus more often than every few hours.
  &amp;ndash; Software Project Survival Guide</description>
     </item>
     
     <item>
       <title>Great company</title>
-      <link>http://karecha.com/blog/2011/11/30/great-company/</link>
+      <link>https://karecha.com/blog/2011/11/30/great-company/</link>
       <pubDate>Wed, 30 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/11/30/great-company/</guid>
+      <guid>https://karecha.com/blog/2011/11/30/great-company/</guid>
       <description>Everybody wants to work for a great company. Few want to make a company great.</description>
     </item>
     
     <item>
       <title>Tablet market</title>
-      <link>http://karecha.com/blog/2011/11/28/tablet-market/</link>
+      <link>https://karecha.com/blog/2011/11/28/tablet-market/</link>
       <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/11/28/tablet-market/</guid>
+      <guid>https://karecha.com/blog/2011/11/28/tablet-market/</guid>
       <description>PC manufacturers are utterly failing in the tablet market.
  &amp;ndash; Daring Fireball, Fun with Numbers</description>
     </item>
     
     <item>
       <title>Job security</title>
-      <link>http://karecha.com/blog/2011/11/26/job-security/</link>
+      <link>https://karecha.com/blog/2011/11/26/job-security/</link>
       <pubDate>Sat, 26 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/11/26/job-security/</guid>
+      <guid>https://karecha.com/blog/2011/11/26/job-security/</guid>
       <description>Engineers mystify what they do, as a form of job security. Eventually people figure it out.
  &amp;ndash; EC2 for Poets</description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>http://karecha.com/blog/2011/11/06/food/</link>
+      <link>https://karecha.com/blog/2011/11/06/food/</link>
       <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/11/06/food/</guid>
+      <guid>https://karecha.com/blog/2011/11/06/food/</guid>
       <description>Eat food. Not too much. Mostly plants.
  &amp;ndash; http://www.amazon.com/Food-Rules-Eaters-Michael-Pollan/dp/014311638X</description>
     </item>
     
     <item>
       <title>Interesting lives</title>
-      <link>http://karecha.com/blog/2011/11/04/interesting-lives/</link>
+      <link>https://karecha.com/blog/2011/11/04/interesting-lives/</link>
       <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/11/04/interesting-lives/</guid>
+      <guid>https://karecha.com/blog/2011/11/04/interesting-lives/</guid>
       <description>Have you ever noticed that our friends&amp;rsquo; friends have much more interesting lives than our friends?
  &amp;ndash; From the book: Made to Stick</description>
     </item>
     
     <item>
       <title>Limitations</title>
-      <link>http://karecha.com/blog/2011/10/29/limitations/</link>
+      <link>https://karecha.com/blog/2011/10/29/limitations/</link>
       <pubDate>Sat, 29 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/10/29/limitations/</guid>
+      <guid>https://karecha.com/blog/2011/10/29/limitations/</guid>
       <description>Argue for﻿ your limitations and they will be yours to keep.
  &amp;ndash; Interview with Richard Bach - YouTube</description>
     </item>
     
     <item>
       <title>Learn</title>
-      <link>http://karecha.com/blog/2011/10/20/learn/</link>
+      <link>https://karecha.com/blog/2011/10/20/learn/</link>
       <pubDate>Thu, 20 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/10/20/learn/</guid>
+      <guid>https://karecha.com/blog/2011/10/20/learn/</guid>
       <description>You are what you learn
  &amp;ndash; Scott Adams Blog: Who Are You? 10/19/2011</description>
     </item>
     
     <item>
       <title>Modularity</title>
-      <link>http://karecha.com/blog/2011/10/13/modularity/</link>
+      <link>https://karecha.com/blog/2011/10/13/modularity/</link>
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/10/13/modularity/</guid>
+      <guid>https://karecha.com/blog/2011/10/13/modularity/</guid>
       <description>The modular Unix just keeps conforming to new applications. It helps that it’s open source but the open sourcing is a result of the modularity not the cause for it. So far, it looks like there is no stopping the revenge of Unix.
  &amp;ndash; Unix’s Revenge | asymco</description>
     </item>
     
     <item>
       <title>Broken system</title>
-      <link>http://karecha.com/blog/2011/10/10/broken-system/</link>
+      <link>https://karecha.com/blog/2011/10/10/broken-system/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/10/10/broken-system/</guid>
+      <guid>https://karecha.com/blog/2011/10/10/broken-system/</guid>
       <description>When I see a broken system, I see an opportunity to build something new and better that can leap frog the performance of competing governments.
  &amp;ndash; Scott Adams Blog: The Leap Frog System 10/10/2011</description>
     </item>
     
     <item>
       <title>Economy</title>
-      <link>http://karecha.com/blog/2011/10/10/economy/</link>
+      <link>https://karecha.com/blog/2011/10/10/economy/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/10/10/economy/</guid>
+      <guid>https://karecha.com/blog/2011/10/10/economy/</guid>
       <description>&amp;ldquo;If the economy were humming along and creating the right kind of jobs, folks would see wealth as an aspiration and not an enemy.&amp;rdquo;
 &amp;ndash; Scott Adams Blog: The Leap Frog System 10/10/2011</description>
     </item>
     
     <item>
       <title>Concurrency</title>
-      <link>http://karecha.com/blog/2011/08/06/concurrency/</link>
+      <link>https://karecha.com/blog/2011/08/06/concurrency/</link>
       <pubDate>Sat, 06 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/08/06/concurrency/</guid>
+      <guid>https://karecha.com/blog/2011/08/06/concurrency/</guid>
       <description>Multithreaded programming, requiring synchronized access to shared, mutable state, is the assembly language of concurrency.
  &amp;ndash; In the book Functional Programming for Java Developers</description>
     </item>
     
     <item>
       <title>Programmer’s work computer</title>
-      <link>http://karecha.com/blog/2011/08/05/programmers-work-computer/</link>
+      <link>https://karecha.com/blog/2011/08/05/programmers-work-computer/</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/08/05/programmers-work-computer/</guid>
+      <guid>https://karecha.com/blog/2011/08/05/programmers-work-computer/</guid>
       <description>Whatever you do for a living, you are skilled at using a toolset in order to get your job done. A surgeon uses surgical tools to perform surgery and these tools are provided by her employer. Think of any profession or job, the norm is: you bring your skills to work, but the tools to get the work done are provided by your employer.
 This is also true for software development industry.</description>
     </item>
     
     <item>
       <title>Dashboard in OS X</title>
-      <link>http://karecha.com/blog/2011/07/30/dashboard-in-os-x/</link>
+      <link>https://karecha.com/blog/2011/07/30/dashboard-in-os-x/</link>
       <pubDate>Sat, 30 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/30/dashboard-in-os-x/</guid>
+      <guid>https://karecha.com/blog/2011/07/30/dashboard-in-os-x/</guid>
       <description>Before OS X Lion, Dashboard was a nice thing to have. Just hit the shortcut key (usually F4) to bring up Dashboard to quickly take a peek at one or many widgets running there, and hit the key again to hide it. You are back to whatever you were doing before — does not matter which of the many desktops you were on.
 Come Lion, creating a new desktop for a full screen application is as easy as hitting the full screen button (on top right corner of any window).</description>
     </item>
     
     <item>
       <title>Uncommon switch-case construct causes java 7 compiler to crash</title>
-      <link>http://karecha.com/blog/2011/07/28/uncommon-switch-case-construct-causes-java-7-compiler-to-crash/</link>
+      <link>https://karecha.com/blog/2011/07/28/uncommon-switch-case-construct-causes-java-7-compiler-to-crash/</link>
       <pubDate>Thu, 28 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/28/uncommon-switch-case-construct-causes-java-7-compiler-to-crash/</guid>
+      <guid>https://karecha.com/blog/2011/07/28/uncommon-switch-case-construct-causes-java-7-compiler-to-crash/</guid>
       <description>Java language specification 3.0 defines a switch block as:
  The body of a switch statement is known as a switch block. Any statement immediately contained by the switch block may be labeled with one or more case or default labels. These labels are said to be associated with the switch statement, as are the values of the constant expressions in the case labels.
  One of the valid forms of constant expression is: Parenthesized expressions whose contained expression is a constant expression, and examples are:</description>
@@ -545,10 +545,10 @@ Come Lion, creating a new desktop for a full screen application is as easy as hi
     
     <item>
       <title>Tricks for engineering your own happiness</title>
-      <link>http://karecha.com/blog/2011/07/17/tricks-for-engineering-your-own-happiness/</link>
+      <link>https://karecha.com/blog/2011/07/17/tricks-for-engineering-your-own-happiness/</link>
       <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/17/tricks-for-engineering-your-own-happiness/</guid>
+      <guid>https://karecha.com/blog/2011/07/17/tricks-for-engineering-your-own-happiness/</guid>
       <description>Scott Adams&amp;rsquo; tricks for engineering your own happiness. Condensed from a blog post.
 Food - When you feel agitated, try eating some carbs.
 Exercise - Think of exercise as the difference between a good day and a bad day. That is reason enough to exercise.
@@ -557,187 +557,187 @@ Goals - Have at least one project brewing at all times that has a non-zero chanc
     
     <item>
       <title>Software design</title>
-      <link>http://karecha.com/blog/2011/07/15/software-design/</link>
+      <link>https://karecha.com/blog/2011/07/15/software-design/</link>
       <pubDate>Fri, 15 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/15/software-design/</guid>
+      <guid>https://karecha.com/blog/2011/07/15/software-design/</guid>
       <description>one purpose of software design is to give yourself more of the system you can safely ignore when making any given change
  &amp;ndash; Kent Beck via a tweet</description>
     </item>
     
     <item>
       <title>Advice</title>
-      <link>http://karecha.com/blog/2011/07/13/advice/</link>
+      <link>https://karecha.com/blog/2011/07/13/advice/</link>
       <pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/13/advice/</guid>
+      <guid>https://karecha.com/blog/2011/07/13/advice/</guid>
       <description>The advice is often to “Go away and learn C, and come back when you’re done!” The aim of this book is to offer a different path.
  &amp;ndash; Tim Isted in Beginning Mac Programming</description>
     </item>
     
     <item>
       <title>Anything</title>
-      <link>http://karecha.com/blog/2011/07/13/anything/</link>
+      <link>https://karecha.com/blog/2011/07/13/anything/</link>
       <pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/13/anything/</guid>
+      <guid>https://karecha.com/blog/2011/07/13/anything/</guid>
       <description>As soon as you say you will take anything, you will really take anything.
  &amp;ndash; Merlin Mann in Back to Work Episode 24</description>
     </item>
     
     <item>
       <title>Google&#43; : My first impressions</title>
-      <link>http://karecha.com/blog/2011/07/12/google---my-first-impressions/</link>
+      <link>https://karecha.com/blog/2011/07/12/google---my-first-impressions/</link>
       <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/12/google---my-first-impressions/</guid>
+      <guid>https://karecha.com/blog/2011/07/12/google---my-first-impressions/</guid>
       <description>After using Google+ for a day, here are my first impressions.
 The good parts:  Google+ connections are modeled on Twitter. A ‘handshake’ is not necessary for two people to connect. Just follow people on Google+ without having them to first approve the connection by accepting a ‘friend request’. Quick and easy way to define an audience for each post. If a post is marked as public, everybody can read that post — even those who do not have a Google+ account.</description>
     </item>
     
     <item>
       <title>Something</title>
-      <link>http://karecha.com/blog/2011/07/11/something/</link>
+      <link>https://karecha.com/blog/2011/07/11/something/</link>
       <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/11/something/</guid>
+      <guid>https://karecha.com/blog/2011/07/11/something/</guid>
       <description>Be a fan of SOMEthing, or you will fall for ANYthing.
  &amp;ndash; A footnote at this sports blog</description>
     </item>
     
     <item>
       <title>Negotiation</title>
-      <link>http://karecha.com/blog/2011/07/10/negotiation/</link>
+      <link>https://karecha.com/blog/2011/07/10/negotiation/</link>
       <pubDate>Sun, 10 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/10/negotiation/</guid>
+      <guid>https://karecha.com/blog/2011/07/10/negotiation/</guid>
       <description>Negotiation isn’t just a cost because nobody knows what they need.
  &amp;ndash; On negotiation by Kent Beck</description>
     </item>
     
     <item>
       <title>Questions</title>
-      <link>http://karecha.com/blog/2011/07/06/questions/</link>
+      <link>https://karecha.com/blog/2011/07/06/questions/</link>
       <pubDate>Wed, 06 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/06/questions/</guid>
+      <guid>https://karecha.com/blog/2011/07/06/questions/</guid>
       <description>The questions we ask are more important than the answers we give, since the questions determine the potential range of answers.
  &amp;ndash; Anonymous</description>
     </item>
     
     <item>
       <title>More is not better</title>
-      <link>http://karecha.com/blog/2011/07/03/more-is-not-better/</link>
+      <link>https://karecha.com/blog/2011/07/03/more-is-not-better/</link>
       <pubDate>Sun, 03 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/03/more-is-not-better/</guid>
+      <guid>https://karecha.com/blog/2011/07/03/more-is-not-better/</guid>
       <description>More is not better. Indeed, your greatest challenge will be resisting the temptation to do more.
  &amp;ndash; Tim Ferriss in The 4 Hour Body</description>
     </item>
     
     <item>
       <title>Cats</title>
-      <link>http://karecha.com/blog/2011/07/02/cats/</link>
+      <link>https://karecha.com/blog/2011/07/02/cats/</link>
       <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/02/cats/</guid>
+      <guid>https://karecha.com/blog/2011/07/02/cats/</guid>
       <description>I find that trying to talk to my cats about anything is frustrating. As soon as they notice they&amp;rsquo;re getting some attention, they&amp;rsquo;ll come and brush against me and try to lure me to the kitchen where all the food is.
  &amp;ndash; Rubber Ducking</description>
     </item>
     
     <item>
       <title>Solution</title>
-      <link>http://karecha.com/blog/2011/07/02/solution/</link>
+      <link>https://karecha.com/blog/2011/07/02/solution/</link>
       <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/07/02/solution/</guid>
+      <guid>https://karecha.com/blog/2011/07/02/solution/</guid>
       <description>Once a problem is described in sufficient detail, its solution is obvious.
  &amp;ndash; Kent Beck (see Rubber Ducking at c2.com)</description>
     </item>
     
     <item>
       <title>Engineer</title>
-      <link>http://karecha.com/blog/2011/06/18/engineer/</link>
+      <link>https://karecha.com/blog/2011/06/18/engineer/</link>
       <pubDate>Sat, 18 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/06/18/engineer/</guid>
+      <guid>https://karecha.com/blog/2011/06/18/engineer/</guid>
       <description>As an engineer, you have a depth of knowledge about your systems and projects that no managers can possibly have. With that knowledge comes the responsibility to act.
  &amp;ndash; Uncle Bob in his new book The Clean Coder</description>
     </item>
     
     <item>
       <title>15 minutes a day</title>
-      <link>http://karecha.com/blog/2011/06/17/15-minutes-a-day/</link>
+      <link>https://karecha.com/blog/2011/06/17/15-minutes-a-day/</link>
       <pubDate>Fri, 17 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/06/17/15-minutes-a-day/</guid>
+      <guid>https://karecha.com/blog/2011/06/17/15-minutes-a-day/</guid>
       <description>Getting started on something new can be challenging. While it is surprising, it is true, that one would find it difficult to get started on a project of their own choosing. Typical examples of new projects are: exercise, new business, new job, new skill, quitting a bad habit, etc. Why would it be difficult to embark upon a journey that you actually want to begin? The strongest reasons are the fear of unknown, and the fear of failure.</description>
     </item>
     
     <item>
       <title>Industry awards</title>
-      <link>http://karecha.com/blog/2011/06/15/industry-awards/</link>
+      <link>https://karecha.com/blog/2011/06/15/industry-awards/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/06/15/industry-awards/</guid>
+      <guid>https://karecha.com/blog/2011/06/15/industry-awards/</guid>
       <description>Businesses covet industry awards for multiple reasons. These help boost visibility of the company or the award winning product to different audiences, for instance:
  Existing and potential customers; and Potential employees  Upon receiving an award, it is perfectly normal and even desirable to turn to any of the above and make sure they are aware of this award. It is a moment of pride, and should be relished as such.</description>
     </item>
     
     <item>
       <title>Mission statement</title>
-      <link>http://karecha.com/blog/2011/06/14/mission-statement/</link>
+      <link>https://karecha.com/blog/2011/06/14/mission-statement/</link>
       <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/06/14/mission-statement/</guid>
+      <guid>https://karecha.com/blog/2011/06/14/mission-statement/</guid>
       <description>We don’t have investors to impress, so we don’t need a “mission statement.” We enjoy writing and shipping great products that address the needs of ourselves and our customers.
  &amp;ndash; http://www.barebones.com/company/</description>
     </item>
     
     <item>
       <title>7 rules for making more happiness</title>
-      <link>http://karecha.com/blog/2011/06/04/7-rules-for-making-more-happiness/</link>
+      <link>https://karecha.com/blog/2011/06/04/7-rules-for-making-more-happiness/</link>
       <pubDate>Sat, 04 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/06/04/7-rules-for-making-more-happiness/</guid>
+      <guid>https://karecha.com/blog/2011/06/04/7-rules-for-making-more-happiness/</guid>
       <description> Thinking about ideas and content freely - with the deadline far away  Traveling to new places Using a wide variety of tools and techniques Working on projects that matter to me Having things come back from the printer done well Getting feedback from people who see our work Designing a project that feels partly brand new and partly familiar   </description>
     </item>
     
     <item>
       <title>Great company</title>
-      <link>http://karecha.com/blog/2011/06/03/great-company/</link>
+      <link>https://karecha.com/blog/2011/06/03/great-company/</link>
       <pubDate>Fri, 03 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/06/03/great-company/</guid>
+      <guid>https://karecha.com/blog/2011/06/03/great-company/</guid>
       <description> Everybody wants to work for a great company. Few want to make a company great.
  </description>
     </item>
     
     <item>
       <title>Who do you work for?</title>
-      <link>http://karecha.com/blog/2011/06/03/who-do-you-work-for/</link>
+      <link>https://karecha.com/blog/2011/06/03/who-do-you-work-for/</link>
       <pubDate>Fri, 03 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/06/03/who-do-you-work-for/</guid>
+      <guid>https://karecha.com/blog/2011/06/03/who-do-you-work-for/</guid>
       <description>Who do you work for? The company that employs you, or the business within the company that you are part of, or the team that you belong to, or the technology that you work on, or any of the people in the management chain all the way up to CEO of your company? The answer to this question is never straightforward and changes from time to time, and from situation to situation.</description>
     </item>
     
     <item>
       <title>Talking</title>
-      <link>http://karecha.com/blog/2011/05/18/talking/</link>
+      <link>https://karecha.com/blog/2011/05/18/talking/</link>
       <pubDate>Wed, 18 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/05/18/talking/</guid>
+      <guid>https://karecha.com/blog/2011/05/18/talking/</guid>
       <description>The more we talk, the less appealing we become.
  &amp;ndash; Scott Adams in a blog post</description>
     </item>
     
     <item>
       <title>Snark</title>
-      <link>http://karecha.com/blog/2011/05/16/snark/</link>
+      <link>https://karecha.com/blog/2011/05/16/snark/</link>
       <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/05/16/snark/</guid>
+      <guid>https://karecha.com/blog/2011/05/16/snark/</guid>
       <description> Just the place for a Snark! I have said it twice:
 That alone should encourage the crew.
 Just the place for a Snark! I have said it thrice:
@@ -747,50 +747,50 @@ What I tell you three times is true.
     
     <item>
       <title>Process</title>
-      <link>http://karecha.com/blog/2011/05/13/process/</link>
+      <link>https://karecha.com/blog/2011/05/13/process/</link>
       <pubDate>Fri, 13 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/05/13/process/</guid>
+      <guid>https://karecha.com/blog/2011/05/13/process/</guid>
       <description> Laying down a process is the easy part. Applying that process to a project is the hard part.
  </description>
     </item>
     
     <item>
       <title>Automatic</title>
-      <link>http://karecha.com/blog/2011/05/07/automatic/</link>
+      <link>https://karecha.com/blog/2011/05/07/automatic/</link>
       <pubDate>Sat, 07 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/05/07/automatic/</guid>
+      <guid>https://karecha.com/blog/2011/05/07/automatic/</guid>
       <description>If you find yourself going through your project on automatic, without thinking about what you’re doing, then you aren’t thinking.
  &amp;ndash; Guru Meditation</description>
     </item>
     
     <item>
       <title>Extraordinary</title>
-      <link>http://karecha.com/blog/2011/05/07/extraordinary/</link>
+      <link>https://karecha.com/blog/2011/05/07/extraordinary/</link>
       <pubDate>Sat, 07 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/05/07/extraordinary/</guid>
+      <guid>https://karecha.com/blog/2011/05/07/extraordinary/</guid>
       <description>Extraordinary claims require extraordinary evidence.
  &amp;ndash; Processes | asymco</description>
     </item>
     
     <item>
       <title>Support</title>
-      <link>http://karecha.com/blog/2011/04/30/support/</link>
+      <link>https://karecha.com/blog/2011/04/30/support/</link>
       <pubDate>Sat, 30 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/30/support/</guid>
+      <guid>https://karecha.com/blog/2011/04/30/support/</guid>
       <description>Seeking &amp;ldquo;support&amp;rdquo; is Resistance at its most seductive.
  &amp;ndash; Robert McKee in the Forward to the book The War of Art: Break Through the Blocks and Win Your Inner Creative Battles</description>
     </item>
     
     <item>
       <title>Perception of time</title>
-      <link>http://karecha.com/blog/2011/04/24/perception-of-time/</link>
+      <link>https://karecha.com/blog/2011/04/24/perception-of-time/</link>
       <pubDate>Sun, 24 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/24/perception-of-time/</guid>
+      <guid>https://karecha.com/blog/2011/04/24/perception-of-time/</guid>
       <description>On perception of time
 Why time seems to pass faster as we get older
  The more detailed the memory, the longer the moment seems to last. “This explains why we think that time speeds up when we grow older,” Eagleman said—why childhood summers seem to go on forever, while old age slips by while we’re dozing. The more familiar the world becomes, the less information your brain writes down, and the more quickly time seems to pass.</description>
@@ -798,10 +798,10 @@ Why time seems to pass faster as we get older
     
     <item>
       <title>State of mind</title>
-      <link>http://karecha.com/blog/2011/04/24/state-of-mind/</link>
+      <link>https://karecha.com/blog/2011/04/24/state-of-mind/</link>
       <pubDate>Sun, 24 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/24/state-of-mind/</guid>
+      <guid>https://karecha.com/blog/2011/04/24/state-of-mind/</guid>
       <description>A new era is only a new state of mind
 Its hard for companies to let go of their past successes
  What makes a company successful with innovation long term is to always keep innovating. Often coming up with the next big thing means damaging the old thing. That’s hard to do for many companies so they don’t do it and somebody else does. This is why great companies end up as formerly-great companies.</description>
@@ -809,10 +809,10 @@ Its hard for companies to let go of their past successes
     
     <item>
       <title>Stand up</title>
-      <link>http://karecha.com/blog/2011/04/23/stand-up/</link>
+      <link>https://karecha.com/blog/2011/04/23/stand-up/</link>
       <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/23/stand-up/</guid>
+      <guid>https://karecha.com/blog/2011/04/23/stand-up/</guid>
       <description>Stand up while you read this!
 The writing on the wall is clear
  It doesn’t matter if you go running every morning, or you’re a regular at the gym. If you spend most of the rest of the day sitting — in your car, your office chair, on your sofa at home — you are putting yourself at increased risk of obesity, diabetes, heart disease, a variety of cancers and an early death.</description>
@@ -820,10 +820,10 @@ The writing on the wall is clear
     
     <item>
       <title>Uptime</title>
-      <link>http://karecha.com/blog/2011/04/21/uptime/</link>
+      <link>https://karecha.com/blog/2011/04/21/uptime/</link>
       <pubDate>Thu, 21 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/21/uptime/</guid>
+      <guid>https://karecha.com/blog/2011/04/21/uptime/</guid>
       <description>Amazon EC2 having issues
  It might be easy to say, “Don’t host on EC2 because things like this happen.” But there’s no such thing as perfect uptime.
  </description>
@@ -831,10 +831,10 @@ The writing on the wall is clear
     
     <item>
       <title>Trump</title>
-      <link>http://karecha.com/blog/2011/04/20/trump/</link>
+      <link>https://karecha.com/blog/2011/04/20/trump/</link>
       <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/20/trump/</guid>
+      <guid>https://karecha.com/blog/2011/04/20/trump/</guid>
       <description>Scott Adams on Donald Trump
 I never thought of Donald Trump this way
  Granted, many people are turned off by Trump’s pomposity. He knows that. But he also knows that success doesn’t come from bland acceptance by the entire world. It comes from the ability to inspire the few. He’s nailing that part. I just spent my morning writing about him.
@@ -843,89 +843,89 @@ I never thought of Donald Trump this way
     
     <item>
       <title>Pasta</title>
-      <link>http://karecha.com/blog/2011/04/16/pasta/</link>
+      <link>https://karecha.com/blog/2011/04/16/pasta/</link>
       <pubDate>Sat, 16 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/16/pasta/</guid>
+      <guid>https://karecha.com/blog/2011/04/16/pasta/</guid>
       <description>Geometry of Pasta
 Pasta recipes in a tastefully designed website</description>
     </item>
     
     <item>
       <title>Scala</title>
-      <link>http://karecha.com/blog/2011/04/16/scala/</link>
+      <link>https://karecha.com/blog/2011/04/16/scala/</link>
       <pubDate>Sat, 16 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/16/scala/</guid>
+      <guid>https://karecha.com/blog/2011/04/16/scala/</guid>
       <description>Scala sets a new standard against which future languages will be measured.
  &amp;ndash; Neal Gafter in foreword to Programming in Scala</description>
     </item>
     
     <item>
       <title>Why open source</title>
-      <link>http://karecha.com/blog/2011/04/09/why-open-source/</link>
+      <link>https://karecha.com/blog/2011/04/09/why-open-source/</link>
       <pubDate>Sat, 09 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/09/why-open-source/</guid>
+      <guid>https://karecha.com/blog/2011/04/09/why-open-source/</guid>
       <description>Why open source? Here&amp;rsquo;s why&amp;hellip;
 Every company has its own reason for open sourcing some and protecting some.</description>
     </item>
     
     <item>
       <title>Ideas</title>
-      <link>http://karecha.com/blog/2011/04/04/ideas/</link>
+      <link>https://karecha.com/blog/2011/04/04/ideas/</link>
       <pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/04/04/ideas/</guid>
+      <guid>https://karecha.com/blog/2011/04/04/ideas/</guid>
       <description>All ideas suck, because they are just ideas. They’re worth nothing.
  &amp;ndash; Wil Shipley in Success, and Farming Vs. Mining</description>
     </item>
     
     <item>
       <title>Happiness</title>
-      <link>http://karecha.com/blog/2011/03/17/happiness/</link>
+      <link>https://karecha.com/blog/2011/03/17/happiness/</link>
       <pubDate>Thu, 17 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/03/17/happiness/</guid>
+      <guid>https://karecha.com/blog/2011/03/17/happiness/</guid>
       <description>Happiness Can Be Engineered
  &amp;ndash; Scott Adams Blog: Happiness Engineering 03/17/2011</description>
     </item>
     
     <item>
       <title>New possibilities</title>
-      <link>http://karecha.com/blog/2011/02/26/new-possibilities/</link>
+      <link>https://karecha.com/blog/2011/02/26/new-possibilities/</link>
       <pubDate>Sat, 26 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/02/26/new-possibilities/</guid>
+      <guid>https://karecha.com/blog/2011/02/26/new-possibilities/</guid>
       <description>Thunderbolt
 This opens new possiblities.</description>
     </item>
     
     <item>
       <title>Product release</title>
-      <link>http://karecha.com/blog/2011/02/25/product-release/</link>
+      <link>https://karecha.com/blog/2011/02/25/product-release/</link>
       <pubDate>Fri, 25 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/02/25/product-release/</guid>
+      <guid>https://karecha.com/blog/2011/02/25/product-release/</guid>
       <description>The team is working on an upcoming product release. Long days and late nights. Sometimes weekends too. There is so much to do, but so little time! What&amp;rsquo;s more — the test team is finding bugs as if there is no tomorrow. This is the time when developers are thinking about so many things that could have been done differently. &amp;lsquo;Maybe we should have thought through a few things before&amp;rsquo;, they say.</description>
     </item>
     
     <item>
       <title>Memo</title>
-      <link>http://karecha.com/blog/2011/02/09/memo/</link>
+      <link>https://karecha.com/blog/2011/02/09/memo/</link>
       <pubDate>Wed, 09 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/02/09/memo/</guid>
+      <guid>https://karecha.com/blog/2011/02/09/memo/</guid>
       <description>That makes it one of the most exciting and interesting CEO memos we&amp;rsquo;ve ever seen.
  &amp;ndash; Engadget on Nokia CEO&amp;rsquo;s Memo</description>
     </item>
     
     <item>
       <title>Interview</title>
-      <link>http://karecha.com/blog/2011/01/31/interview/</link>
+      <link>https://karecha.com/blog/2011/01/31/interview/</link>
       <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/01/31/interview/</guid>
+      <guid>https://karecha.com/blog/2011/01/31/interview/</guid>
       <description>Jobs Interview [1985] - Newsweek
  I can be very intense in my convictions. And I don&amp;rsquo;t know; all in all, I kind of like myself and I&amp;rsquo;m not that anxious to change.
 &amp;ndash; Steve Jobs
@@ -934,125 +934,125 @@ This opens new possiblities.</description>
     
     <item>
       <title>Tax</title>
-      <link>http://karecha.com/blog/2011/01/29/tax/</link>
+      <link>https://karecha.com/blog/2011/01/29/tax/</link>
       <pubDate>Sat, 29 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/01/29/tax/</guid>
+      <guid>https://karecha.com/blog/2011/01/29/tax/</guid>
       <description>How to Tax the Rich
 Only crazy people imagine that bad ideas can suddenly become good if you keep trying them.</description>
     </item>
     
     <item>
       <title>Products</title>
-      <link>http://karecha.com/blog/2011/01/27/products/</link>
+      <link>https://karecha.com/blog/2011/01/27/products/</link>
       <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2011/01/27/products/</guid>
+      <guid>https://karecha.com/blog/2011/01/27/products/</guid>
       <description>A tableful of products
 All the products Apple sells can fit on one average sized kitchen table and they generated $76 billion in sales last year.</description>
     </item>
     
     <item>
       <title>The next ten years</title>
-      <link>http://karecha.com/blog/2010/12/12/the-next-ten-years/</link>
+      <link>https://karecha.com/blog/2010/12/12/the-next-ten-years/</link>
       <pubDate>Sun, 12 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/12/12/the-next-ten-years/</guid>
+      <guid>https://karecha.com/blog/2010/12/12/the-next-ten-years/</guid>
       <description>This year, think of the next ten years, and not just the next year.</description>
     </item>
     
     <item>
       <title>Leading</title>
-      <link>http://karecha.com/blog/2010/10/19/leading/</link>
+      <link>https://karecha.com/blog/2010/10/19/leading/</link>
       <pubDate>Tue, 19 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/10/19/leading/</guid>
+      <guid>https://karecha.com/blog/2010/10/19/leading/</guid>
       <description>You can’t lead in the abstract. You have to get skin in the game.
  &amp;ndash; Scott Burken in a blog post.</description>
     </item>
     
     <item>
       <title>Fame and riches</title>
-      <link>http://karecha.com/blog/2010/10/12/fame-and-riches/</link>
+      <link>https://karecha.com/blog/2010/10/12/fame-and-riches/</link>
       <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/10/12/fame-and-riches/</guid>
+      <guid>https://karecha.com/blog/2010/10/12/fame-and-riches/</guid>
       <description>The path to fame and riches in the computer world is through what you do, not who you know.
  &amp;ndash; Ian Lance Taylor in a blog post</description>
     </item>
     
     <item>
       <title>Testing</title>
-      <link>http://karecha.com/blog/2010/09/24/testing/</link>
+      <link>https://karecha.com/blog/2010/09/24/testing/</link>
       <pubDate>Fri, 24 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/24/testing/</guid>
+      <guid>https://karecha.com/blog/2010/09/24/testing/</guid>
       <description>Just because there is something we need to do, and there is something else that we can measure, we should not start to think that the thing we can measure will tell us what we need to do.
  &amp;ndash; School Testing by Ian Lance Taylor</description>
     </item>
     
     <item>
       <title>HTML5 test</title>
-      <link>http://karecha.com/blog/2010/09/23/html5-test/</link>
+      <link>https://karecha.com/blog/2010/09/23/html5-test/</link>
       <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/23/html5-test/</guid>
+      <guid>https://karecha.com/blog/2010/09/23/html5-test/</guid>
       <description>The HTML5 Test – how well does your browser support HTML5?</description>
     </item>
     
     <item>
       <title>Hiring: the best candidate v/s good enough</title>
-      <link>http://karecha.com/blog/2010/09/21/hiring-the-best-candidate-v/s-good-enough/</link>
+      <link>https://karecha.com/blog/2010/09/21/hiring-the-best-candidate-v/s-good-enough/</link>
       <pubDate>Tue, 21 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/21/hiring-the-best-candidate-v/s-good-enough/</guid>
+      <guid>https://karecha.com/blog/2010/09/21/hiring-the-best-candidate-v/s-good-enough/</guid>
       <description>In a manager’s life, hiring and [depending on which part of the world you live in,] firing are necessary evils. You never quite enjoy doing any of these, but you have to do it anyway. Firing is always difficult, irrespective of whether it is driven by business reasons or by performance reasons. But hiring can be difficult too especially if you are doing it a lot because it tends to quickly become mundane and boring after you have spoken to a few candidates.</description>
     </item>
     
     <item>
       <title>Code formatting</title>
-      <link>http://karecha.com/blog/2010/09/19/code-formatting/</link>
+      <link>https://karecha.com/blog/2010/09/19/code-formatting/</link>
       <pubDate>Sun, 19 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/19/code-formatting/</guid>
+      <guid>https://karecha.com/blog/2010/09/19/code-formatting/</guid>
       <description>One interesting detail about Google’s new programming language Go is the code formatting tool called gofmt that is bundled right into the Go developer kit. It shows the extent to which the creators of the language care about code formatting. Programmers who are not bothered by poor code formatting will find this tool unnecessary, but most programmers are likely to be bothered by lack of good formatting.
 Most programming languages, especially the popular ones, do have utilities that help format code, but it is rare to see this being part of the developer kit from the creators of the language.</description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>http://karecha.com/blog/2010/09/17/life/</link>
+      <link>https://karecha.com/blog/2010/09/17/life/</link>
       <pubDate>Fri, 17 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/17/life/</guid>
+      <guid>https://karecha.com/blog/2010/09/17/life/</guid>
       <description>This is your life</description>
     </item>
     
     <item>
       <title>Tumblr widget for Mac</title>
-      <link>http://karecha.com/blog/2010/09/10/tumblr-widget-for-mac/</link>
+      <link>https://karecha.com/blog/2010/09/10/tumblr-widget-for-mac/</link>
       <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/10/tumblr-widget-for-mac/</guid>
+      <guid>https://karecha.com/blog/2010/09/10/tumblr-widget-for-mac/</guid>
       <description>Trying out the tumblr widget on my Macbook.</description>
     </item>
     
     <item>
       <title>Ideas and humans</title>
-      <link>http://karecha.com/blog/2010/09/06/ideas-and-humans/</link>
+      <link>https://karecha.com/blog/2010/09/06/ideas-and-humans/</link>
       <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/06/ideas-and-humans/</guid>
+      <guid>https://karecha.com/blog/2010/09/06/ideas-and-humans/</guid>
       <description>Many humans have given their lives to preserve ideas, but no idea ever died to save a human.
  &amp;ndash; Scott Adams talks about ideas in a blog post called Shape Shifters</description>
     </item>
     
     <item>
       <title>Guzzler</title>
-      <link>http://karecha.com/blog/2010/09/04/guzzler/</link>
+      <link>https://karecha.com/blog/2010/09/04/guzzler/</link>
       <pubDate>Sat, 04 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/04/guzzler/</guid>
+      <guid>https://karecha.com/blog/2010/09/04/guzzler/</guid>
       <description>My Google Reader Trends (Gosh, what a time guzzler!)
  From your 52 subscriptions, over the last 30 days you read 848 items, clicked 103 items, starred 0 items, shared 0 items, and emailed 1 items.
 Since October 10, 2005 you have read a total of 23,550 items.
@@ -1061,251 +1061,251 @@ Since October 10, 2005 you have read a total of 23,550 items.
     
     <item>
       <title>Meetings</title>
-      <link>http://karecha.com/blog/2010/09/04/meetings/</link>
+      <link>https://karecha.com/blog/2010/09/04/meetings/</link>
       <pubDate>Sat, 04 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/04/meetings/</guid>
+      <guid>https://karecha.com/blog/2010/09/04/meetings/</guid>
       <description>It&amp;rsquo;s also unfortunate that meetings are typically scheduled like TV shows. You set aside thirty minutes or an hour because that&amp;rsquo;s how scheduling software works.
  &amp;ndash; From the book REWORK</description>
     </item>
     
     <item>
       <title>Agile</title>
-      <link>http://karecha.com/blog/2010/09/01/agile/</link>
+      <link>https://karecha.com/blog/2010/09/01/agile/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/09/01/agile/</guid>
+      <guid>https://karecha.com/blog/2010/09/01/agile/</guid>
       <description>Here&amp;rsquo;s an extreme example of being Agile.</description>
     </item>
     
     <item>
       <title>Argument against functional spec</title>
-      <link>http://karecha.com/blog/2010/08/30/argument-against-functional-spec/</link>
+      <link>https://karecha.com/blog/2010/08/30/argument-against-functional-spec/</link>
       <pubDate>Mon, 30 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/30/argument-against-functional-spec/</guid>
+      <guid>https://karecha.com/blog/2010/08/30/argument-against-functional-spec/</guid>
       <description>A feature is signed off and agreed on. Even if you realize during development that it&amp;rsquo;s a bad idea, you&amp;rsquo;re stuck with it. Specs don&amp;rsquo;t deal with the reality that once you start building something, everything changes.
  From Getting Real</description>
     </item>
     
     <item>
       <title>Product personality</title>
-      <link>http://karecha.com/blog/2010/08/30/product-personality/</link>
+      <link>https://karecha.com/blog/2010/08/30/product-personality/</link>
       <pubDate>Mon, 30 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/30/product-personality/</guid>
+      <guid>https://karecha.com/blog/2010/08/30/product-personality/</guid>
       <description>Your product has a voice — and it&amp;rsquo;s talking to your customers 24 hours a day.
 From Getting Real</description>
     </item>
     
     <item>
       <title>It depends</title>
-      <link>http://karecha.com/blog/2010/08/28/it-depends/</link>
+      <link>https://karecha.com/blog/2010/08/28/it-depends/</link>
       <pubDate>Sat, 28 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/28/it-depends/</guid>
+      <guid>https://karecha.com/blog/2010/08/28/it-depends/</guid>
       <description>We&amp;rsquo;d rather be provocative than water everything down with &amp;ldquo;it depends…&amp;rdquo;
  &amp;ndash; In a book from 37signals</description>
     </item>
     
     <item>
       <title>Time and budget</title>
-      <link>http://karecha.com/blog/2010/08/28/time-and-budget/</link>
+      <link>https://karecha.com/blog/2010/08/28/time-and-budget/</link>
       <pubDate>Sat, 28 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/28/time-and-budget/</guid>
+      <guid>https://karecha.com/blog/2010/08/28/time-and-budget/</guid>
       <description>If you can&amp;rsquo;t fit everything in within the time and budget allotted then don&amp;rsquo;t expand the time and budget. Instead, pull back the scope. There&amp;rsquo;s always time to add stuff later — later is eternal, now is fleeting.
  &amp;ndash; Fix Time and Budget, Flex Scope by 37signals</description>
     </item>
     
     <item>
       <title>Documentation</title>
-      <link>http://karecha.com/blog/2010/08/27/documentation/</link>
+      <link>https://karecha.com/blog/2010/08/27/documentation/</link>
       <pubDate>Fri, 27 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/27/documentation/</guid>
+      <guid>https://karecha.com/blog/2010/08/27/documentation/</guid>
       <description>I can&amp;rsquo;t complain about the documentation here - it says exactly what it will do. It&amp;rsquo;s just not obvious that you need to worry about it, until you run into such a problem.
  &amp;ndash; Post by Jon Skeet on a flaw in Java Collections API</description>
     </item>
     
     <item>
       <title>Coffee</title>
-      <link>http://karecha.com/blog/2010/08/24/coffee/</link>
+      <link>https://karecha.com/blog/2010/08/24/coffee/</link>
       <pubDate>Tue, 24 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/24/coffee/</guid>
+      <guid>https://karecha.com/blog/2010/08/24/coffee/</guid>
       <description>Some of us need regular amounts of coffee or other chemical enhancers to make us cognitively sharper. A newly published study suggests perhaps a brief bit of meditation would prepare us just as well.
  &amp;ndash; Article in Science Daily</description>
     </item>
     
     <item>
       <title>Software development</title>
-      <link>http://karecha.com/blog/2010/08/24/software-development/</link>
+      <link>https://karecha.com/blog/2010/08/24/software-development/</link>
       <pubDate>Tue, 24 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/24/software-development/</guid>
+      <guid>https://karecha.com/blog/2010/08/24/software-development/</guid>
       <description>Begining a career in software development
 Sage advice for beginers in the field of software development.</description>
     </item>
     
     <item>
       <title>Walls</title>
-      <link>http://karecha.com/blog/2010/08/24/walls/</link>
+      <link>https://karecha.com/blog/2010/08/24/walls/</link>
       <pubDate>Tue, 24 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/24/walls/</guid>
+      <guid>https://karecha.com/blog/2010/08/24/walls/</guid>
       <description>The consequence of not putting any walls around your product is that both the good guys and the bad guys can do anything they want with it.
  &amp;ndash; The Dirty Little Secret about Google Android</description>
     </item>
     
     <item>
       <title>Career in software development: Building a foundation</title>
-      <link>http://karecha.com/blog/2010/08/22/career-in-software-development-building-a-foundation/</link>
+      <link>https://karecha.com/blog/2010/08/22/career-in-software-development-building-a-foundation/</link>
       <pubDate>Sun, 22 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/22/career-in-software-development-building-a-foundation/</guid>
+      <guid>https://karecha.com/blog/2010/08/22/career-in-software-development-building-a-foundation/</guid>
       <description>One frequently asked question from programmers at the starting point of thier career as software developers is: I have a college degree and am ready to find a job or have just landed my first job. What are the skills I need in order to be succesfull on the job and in order to advance my career in this field? Here’s a list that is an attempt to answer this question.</description>
     </item>
     
     <item>
       <title>Competence</title>
-      <link>http://karecha.com/blog/2010/08/19/competence/</link>
+      <link>https://karecha.com/blog/2010/08/19/competence/</link>
       <pubDate>Thu, 19 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/19/competence/</guid>
+      <guid>https://karecha.com/blog/2010/08/19/competence/</guid>
       <description>The miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others.
  &amp;ndash; That explains the cause of Dunning-Kruger effect</description>
     </item>
     
     <item>
       <title>GVim</title>
-      <link>http://karecha.com/blog/2010/08/18/gvim/</link>
+      <link>https://karecha.com/blog/2010/08/18/gvim/</link>
       <pubDate>Wed, 18 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/18/gvim/</guid>
+      <guid>https://karecha.com/blog/2010/08/18/gvim/</guid>
       <description>gvim 7.3 released!!!</description>
     </item>
     
     <item>
       <title>iPod</title>
-      <link>http://karecha.com/blog/2010/08/18/ipod/</link>
+      <link>https://karecha.com/blog/2010/08/18/ipod/</link>
       <pubDate>Wed, 18 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/18/ipod/</guid>
+      <guid>https://karecha.com/blog/2010/08/18/ipod/</guid>
       <description>Can you hear me?
 Blaming iPod again.</description>
     </item>
     
     <item>
       <title>Career</title>
-      <link>http://karecha.com/blog/2010/08/17/career/</link>
+      <link>https://karecha.com/blog/2010/08/17/career/</link>
       <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/17/career/</guid>
+      <guid>https://karecha.com/blog/2010/08/17/career/</guid>
       <description>This is an industry that moves at a high velocity created by those who care to pay attention.
  &amp;ndash; Michael Lopp on how to destroy your career</description>
     </item>
     
     <item>
       <title>Network diagram</title>
-      <link>http://karecha.com/blog/2010/08/17/network-diagram/</link>
+      <link>https://karecha.com/blog/2010/08/17/network-diagram/</link>
       <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/17/network-diagram/</guid>
+      <guid>https://karecha.com/blog/2010/08/17/network-diagram/</guid>
       <description>Network diagram of the world &amp;ndash; sort of</description>
     </item>
     
     <item>
       <title>Tumblr issues</title>
-      <link>http://karecha.com/blog/2010/08/17/tumblr-issues/</link>
+      <link>https://karecha.com/blog/2010/08/17/tumblr-issues/</link>
       <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/17/tumblr-issues/</guid>
+      <guid>https://karecha.com/blog/2010/08/17/tumblr-issues/</guid>
       <description>Tumblr is acting up. Looks like the site is undergoing maintenance which is making it flaky. This should pass…</description>
     </item>
     
     <item>
       <title>Red flag</title>
-      <link>http://karecha.com/blog/2010/08/13/red-flag/</link>
+      <link>https://karecha.com/blog/2010/08/13/red-flag/</link>
       <pubDate>Fri, 13 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/13/red-flag/</guid>
+      <guid>https://karecha.com/blog/2010/08/13/red-flag/</guid>
       <description>Be wary of any idea that requires a long explanation. That&amp;rsquo;s a red flag. And be twice as wary of anything that can be explained in four words or less. That&amp;rsquo;s a red flag too.
  &amp;ndash; Scott Adams in a blog post</description>
     </item>
     
     <item>
       <title>Vocabulary</title>
-      <link>http://karecha.com/blog/2010/08/13/vocabulary/</link>
+      <link>https://karecha.com/blog/2010/08/13/vocabulary/</link>
       <pubDate>Fri, 13 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/13/vocabulary/</guid>
+      <guid>https://karecha.com/blog/2010/08/13/vocabulary/</guid>
       <description>I have a theory that the rational side of your brain is only as strong as your language skills. You assume that a person who is logical can, as a result of that logical facility, write a clear and persuasive sentence. But I think causation works the other way. I think language creates logic. The stronger your language skills are, the better your logic becomes. You can never be more rational than your vocabulary allows.</description>
     </item>
     
     <item>
       <title>Hurd&#39;s exit</title>
-      <link>http://karecha.com/blog/2010/08/08/hurds-exit/</link>
+      <link>https://karecha.com/blog/2010/08/08/hurds-exit/</link>
       <pubDate>Sun, 08 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/08/hurds-exit/</guid>
+      <guid>https://karecha.com/blog/2010/08/08/hurds-exit/</guid>
       <description>There may be more than meets the eye in Hurd&amp;rsquo;s exit</description>
     </item>
     
     <item>
       <title>Journals and notebooks</title>
-      <link>http://karecha.com/blog/2010/08/08/journals-and-notebooks/</link>
+      <link>https://karecha.com/blog/2010/08/08/journals-and-notebooks/</link>
       <pubDate>Sun, 08 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/08/08/journals-and-notebooks/</guid>
+      <guid>https://karecha.com/blog/2010/08/08/journals-and-notebooks/</guid>
       <description>Lately, I&amp;rsquo;ve been taking notes like never before … and hold your breath … in physical note books! I can see some of the benefits already, and these are nothing new. One is (the good old cliche): never forget anything. Another: by writing down somehting, I see its easier to remember that thing even without having to look it up. Looks like the pause that is necessary to note something down in a physical notebook is also sufficient to write that down in the brain&amp;rsquo;s memory.</description>
     </item>
     
     <item>
       <title>Slacker</title>
-      <link>http://karecha.com/blog/2010/07/11/slacker/</link>
+      <link>https://karecha.com/blog/2010/07/11/slacker/</link>
       <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/07/11/slacker/</guid>
+      <guid>https://karecha.com/blog/2010/07/11/slacker/</guid>
       <description>Thursday, Friday, Saturday and Sunday, I have not worked out. Let me admit, I&amp;rsquo;ve been slacking. This attitude needs to change, and change it will.
 Keep watching.</description>
     </item>
     
     <item>
       <title>Aching bones</title>
-      <link>http://karecha.com/blog/2010/07/07/aching-bones/</link>
+      <link>https://karecha.com/blog/2010/07/07/aching-bones/</link>
       <pubDate>Wed, 07 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/07/07/aching-bones/</guid>
+      <guid>https://karecha.com/blog/2010/07/07/aching-bones/</guid>
       <description>Last evening, I was scheduled to run for 30 minutes. I hit the gym to do my bit, and started off on the treadmill, with the timer set to 30 minutes. Due to popularity of the treadmills and at the same time, lack of a good number (there are only 3 at the gym), the use of this machine is restricted to 20 mintunes at a time. I did not want to raise eyebrows by violating that rule, and therefore, I got off the machine at 20 minutes and started running out of the gym and hit the road.</description>
     </item>
     
     <item>
       <title>Started on new plan</title>
-      <link>http://karecha.com/blog/2010/07/06/started-on-new-plan/</link>
+      <link>https://karecha.com/blog/2010/07/06/started-on-new-plan/</link>
       <pubDate>Tue, 06 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/07/06/started-on-new-plan/</guid>
+      <guid>https://karecha.com/blog/2010/07/06/started-on-new-plan/</guid>
       <description>Yesterday evening, I started on the new plan. It was a walk day, and I went out for a 45 mintute walk. I have to admit, the experience was not that great. Pollution was severe, even with low traffic due to all India bandh, and I can only image how bad the pollution will be on a normal work day.
 I have two options: 1. stick to indoor activities in the gym, or 2.</description>
     </item>
     
     <item>
       <title>Lore of running</title>
-      <link>http://karecha.com/blog/2010/06/05/lore-of-running/</link>
+      <link>https://karecha.com/blog/2010/06/05/lore-of-running/</link>
       <pubDate>Sat, 05 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/06/05/lore-of-running/</guid>
+      <guid>https://karecha.com/blog/2010/06/05/lore-of-running/</guid>
       <description>Tim Noakes&amp;rsquo; Lore of Running is turning out to be a very good read. Tim&amp;rsquo;s narrative is convincing and it would be a waste to not follow his advice on running, at least as a beginner. After running on and off during the last decade, I am now ready to take running seriously.
 First off, I now have a plan in place. So far, I have chalked out some outlines of the plan.</description>
     </item>
     
     <item>
       <title>The aftermath</title>
-      <link>http://karecha.com/blog/2010/01/21/the-aftermath/</link>
+      <link>https://karecha.com/blog/2010/01/21/the-aftermath/</link>
       <pubDate>Thu, 21 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2010/01/21/the-aftermath/</guid>
+      <guid>https://karecha.com/blog/2010/01/21/the-aftermath/</guid>
       <description>Ian Taylor notes in his blog post about the rise of Cargo Cult Programming:
 In today’s increasingly complex world of programming, when so much code involves integrating libraries in various ways, I expect that cargo cult programming is on the rise.
 He is talking in context of developing open source software, but this applies to proprietary software development as well. In a commercial software development enterprise, cargo cult is less likely to be noticed or pointed out because peer review is no longer deemed necessary as there is so much to do with so few people to go around.</description>
@@ -1313,66 +1313,66 @@ He is talking in context of developing open source software, but this applies to
     
     <item>
       <title>My little world</title>
-      <link>http://karecha.com/blog/2009/04/11/my-little-world/</link>
+      <link>https://karecha.com/blog/2009/04/11/my-little-world/</link>
       <pubDate>Sat, 11 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2009/04/11/my-little-world/</guid>
+      <guid>https://karecha.com/blog/2009/04/11/my-little-world/</guid>
       <description>I love living in my own little world, which is made up of my little computer (Acer Aspire One) and allows me to go find refuge in a different world for whatever time I can spare every day. Its not just about the form factor of this little machine — which is impressive, by the way — but its more of what’s on this machine.
 If you are not familiar with this little laptop, which is categorized as a netbook in general computer parlance, it is a 8.</description>
     </item>
     
     <item>
       <title>LTE – Start imagining the consequences of 100 MBps</title>
-      <link>http://karecha.com/blog/2009/02/16/lte--start-imagining-the-consequences-of-100-mbps/</link>
+      <link>https://karecha.com/blog/2009/02/16/lte--start-imagining-the-consequences-of-100-mbps/</link>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2009/02/16/lte--start-imagining-the-consequences-of-100-mbps/</guid>
+      <guid>https://karecha.com/blog/2009/02/16/lte--start-imagining-the-consequences-of-100-mbps/</guid>
       <description>LTE (Long Term Evolution), the most popular pet project from 3GPP promises to deliver data speeds upto 100 MBps. And this is in not-so-distant future even by the standards of internet time. They say the first commercial deployments should go live in 2010 and LTE will be mainstream by 2012.
 Now, let me start imagining the consequences of having such data speeds available on a wireless medium, when the norm now (in early 2009) is data speeds in the range of a few Kbps on most networks in most places.</description>
     </item>
     
     <item>
       <title>Forming a habit in 21 days</title>
-      <link>http://karecha.com/blog/2009/02/14/forming-a-habit-in-21-days/</link>
+      <link>https://karecha.com/blog/2009/02/14/forming-a-habit-in-21-days/</link>
       <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2009/02/14/forming-a-habit-in-21-days/</guid>
+      <guid>https://karecha.com/blog/2009/02/14/forming-a-habit-in-21-days/</guid>
       <description>I&amp;rsquo;ve read references to the researched fact that it takes 21 days to form a new habit. This also applies to breaking an old habit and it can be argued that breaking an old habit is — depending on how you look at it — the same as forming a new habit. Nevertheless, I thought of trying this out and decided to form a habit of running in 21 days.</description>
     </item>
     
     <item>
       <title>Told you so</title>
-      <link>http://karecha.com/blog/2009/01/07/told-you-so/</link>
+      <link>https://karecha.com/blog/2009/01/07/told-you-so/</link>
       <pubDate>Wed, 07 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2009/01/07/told-you-so/</guid>
+      <guid>https://karecha.com/blog/2009/01/07/told-you-so/</guid>
       <description>Yesterday I talked about the future of publishing and said plagiarism will be detected early and often due to the possibility of searching the internet, including searching in eBooks. Today, New York Times ran an article which talks about just one such incident where plagiarism has been detected and the guilty has admitted having done that. Though the article does not refer to a &amp;lsquo;book search&amp;rsquo; that made it possible, I am guessing that is the case.</description>
     </item>
     
     <item>
       <title>Future of publishing</title>
-      <link>http://karecha.com/blog/2009/01/06/future-of-publishing/</link>
+      <link>https://karecha.com/blog/2009/01/06/future-of-publishing/</link>
       <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2009/01/06/future-of-publishing/</guid>
+      <guid>https://karecha.com/blog/2009/01/06/future-of-publishing/</guid>
       <description>Books used to be precious commodities when there were only printed copies of them. Even the authors had only one or two carbon copies of the original manuscript which they painstakingly created by typing on paper sheets with carbon papers sandwiched in between those pages. I guess the criteria to determine the number of carbon copies would have been authors’ age and the strength of his fingers because the harder he can type, the more copies he can create.</description>
     </item>
     
     <item>
       <title>Audio books</title>
-      <link>http://karecha.com/blog/2008/12/27/audio-books/</link>
+      <link>https://karecha.com/blog/2008/12/27/audio-books/</link>
       <pubDate>Sat, 27 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2008/12/27/audio-books/</guid>
+      <guid>https://karecha.com/blog/2008/12/27/audio-books/</guid>
       <description>The pleasure of reading — nothing can beat that. The comparison is with the alternative, i.e. listening, which is gaining popularity. I have been listening to podcasts for a while now and I do enjoy the experience. However, when it comes to listing to audio books, thats quite a different thing. After trying to listen to an audio book, I gave up after the first two chapters, and after that trial I did not try doing that again.</description>
     </item>
     
     <item>
       <title>Gotta blog</title>
-      <link>http://karecha.com/blog/2008/12/14/gotta-blog/</link>
+      <link>https://karecha.com/blog/2008/12/14/gotta-blog/</link>
       <pubDate>Sun, 14 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://karecha.com/blog/2008/12/14/gotta-blog/</guid>
+      <guid>https://karecha.com/blog/2008/12/14/gotta-blog/</guid>
       <description>Ok, I am set for blogging and I am doing this for — I don&amp;rsquo;t know how many times — now. Since I keep coming back to the idea of starting a blog, this is my one more effort. Lets see how this goes. For now, all I say is: I shall blog. Thats it for today. Wait for more messages in the near future.</description>
     </item>
     
