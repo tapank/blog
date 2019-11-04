@@ -30,7 +30,7 @@ post = "/blog/:year/:month/:day/:title/"
 	# Sidebar header - passed to markdownify so you can write markdown here
 	# sidebarHeader = "Recent Posts"
 
-	sidebarMenuEnabled = true
+	sidebarMenuEnabled = false
 	sidebarMenuHeader = "Contact"
 
 	# --- End sidebar options ---
@@ -47,9 +47,6 @@ post = "/blog/:year/:month/:day/:title/"
 
 	# This text appears in the site header under website title
 	subtitle = "Not gold alone brought us hither"
-
-	# Used in the search engine
-	# searchEngineURL = "https://www.google.com/search"
 
 	# Text of the "Continue Reading" label. &rarr; == right arrow, but it gets messed up in the string so we will add it to index.html manually
 	continueReadingText = "continue reading"

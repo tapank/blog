@@ -685,7 +685,6 @@ body.sidebar-footer .toggle-sidebar {
     }
     #content {
         overflow: visible;
-        margin-right: 240px;
         position: relative
     }
     .no-sidebar #content {
@@ -751,9 +750,6 @@ body.sidebar-footer .toggle-sidebar {
 @media only screen and (min-width: 992px) {
     body>header {
         font-size: 1.3em
-    }
-    #content {
-        margin-right: 320px; /* increase this by X where X is the increase in width of aside.sidebar a few line down */
     }
     #content>div,
     #content>article {
