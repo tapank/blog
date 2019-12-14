@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://karecha.com/blog/2019/12/14/priorities/</loc>
+    <lastmod>2019-12-14T20:43:16+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://karecha.com/blog/2019/11/27/the-zen-of-weight-lifting/</loc>
     <lastmod>2019-11-27T17:40:27+05:30</lastmod>
   </url>
@@ -714,13 +719,13 @@
   
   <url>
     <loc>https://karecha.com/</loc>
-    <lastmod>2019-11-27T17:40:27+05:30</lastmod>
+    <lastmod>2019-12-14T20:43:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://karecha.com/post/</loc>
-    <lastmod>2019-11-27T17:40:27+05:30</lastmod>
+    <lastmod>2019-12-14T20:43:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
