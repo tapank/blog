@@ -2,7 +2,7 @@ baseurl = "https://karecha.com"
 disablePathToLower = false
 languageCode = "en-us"
 title = "Notes to self"
-theme = "hugo-octopress"
+theme = "smol"
 
 # Number of blog posts displayed in each page
 paginate = 25

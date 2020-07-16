@@ -1,9 +1,0 @@
-<!-- This file contains the header/title for each post -->
-
-<header>
-    <p class="meta">{{ .Date.Format "Jan 2, 2006" }}
-    </p>
-    <h1 class="entry-title">
-        {{ if ($.Scratch.Get "isHome") }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ else }} {{ .Title }} {{ end }}
-    </h1>
-</header>
