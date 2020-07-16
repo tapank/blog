@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://karecha.com/</loc>
+    <lastmod>2020-07-07T19:37:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karecha.com/post/</loc>
+    <lastmod>2020-07-07T19:37:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karecha.com/blog/2020/07/07/trying-a-run-streak/</loc>
+    <lastmod>2020-07-07T19:37:35+05:30</lastmod>
+  </url>
   
   <url>
     <loc>https://karecha.com/blog/2020/03/10/avoiding-offence/</loc>
@@ -323,7 +338,7 @@
   </url>
   
   <url>
-    <loc>https://karecha.com/blog/2011/07/12/google---my-first-impressions/</loc>
+    <loc>https://karecha.com/blog/2011/07/12/google-my-first-impressions/</loc>
     <lastmod>2011-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -693,7 +708,7 @@
   </url>
   
   <url>
-    <loc>https://karecha.com/blog/2009/02/16/lte--start-imagining-the-consequences-of-100-mbps/</loc>
+    <loc>https://karecha.com/blog/2009/02/16/lte-start-imagining-the-consequences-of-100-mbps/</loc>
     <lastmod>2009-02-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -724,24 +739,10 @@
   
   <url>
     <loc>https://karecha.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://karecha.com/</loc>
-    <lastmod>2020-03-10T11:22:14+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://karecha.com/post/</loc>
-    <lastmod>2020-03-10T11:22:14+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://karecha.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

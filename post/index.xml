@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Notes to self</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2020 11:22:14 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 19:37:35 +0530</lastBuildDate>
     
 	<atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Trying a run streak</title>
+      <link>https://karecha.com/blog/2020/07/07/trying-a-run-streak/</link>
+      <pubDate>Tue, 07 Jul 2020 19:37:35 +0530</pubDate>
+      
+      <guid>https://karecha.com/blog/2020/07/07/trying-a-run-streak/</guid>
+      <description>A benefit of doing something every day is that it allows me to discover my limits, that line that I should not cross often. It is possible to push myself when performing an activity once in a while, but cannot do it every day. So, instead of 2 to 3 runs a week, I am trying out running daily (well, almost). Have cut down the daily distance but gradually, a rythm is setting in.</description>
+    </item>
     
     <item>
       <title>Avoiding Offence</title>
@@ -129,8 +138,8 @@ Setup:
       <guid>https://karecha.com/blog/2016/10/26/pull-request-checklist/</guid>
       <description>Open source projects have styleguides, and this one is one such example. What caught my attention is the code review checklist, though there are other nuggets in there.
  Checklist
-Before you submit your patch for review, look at the diff. Consider running through a quick mental checklist of all the things discussed above before submitting your patch for review:
- Did I write tests and update docs? Can it be any clearer?</description>
+  Before you submit your patch for review, look at the diff. Consider running through a quick mental checklist of all the things discussed above before submitting your patch for review:
+   Did I write tests and update docs?</description>
     </item>
     
     <item>
@@ -250,7 +259,7 @@ When we look back, it is easy to tell if the balance was right but not as easy w
       <guid>https://karecha.com/blog/2013/11/23/on-being-a-novice/</guid>
       <description>Uncle Bob in a blog post titled Hoards of Novices
  Do you remember that first line of code you wrote when you were very young. Do you remember the thrill it gave you to see that line of code actually execute. Do you remember the feeling of power it gave you. You were the master. The machine was your slave, and you could make that machine do anything!
-Many of us became programmers because of a moment like that.</description>
+  Many of us became programmers because of a moment like that.</description>
     </item>
     
     <item>
@@ -456,8 +465,9 @@ Another change with this move is that I am using Octopress to manage my blog pos
       <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2011/12/14/making-a-mark/</guid>
-      <description>Paul Graham: &amp;gt; Graffiti happens at the intersection of ambition and incompetence: people want to make their mark on the world, but have no other way to do it than literally making a mark on the world.
-Trolls</description>
+      <description>Paul Graham:
+ Graffiti happens at the intersection of ambition and incompetence: people want to make their mark on the world, but have no other way to do it than literally making a mark on the world.
+ Trolls</description>
     </item>
     
     <item>
@@ -654,10 +664,10 @@ Goals - Have at least one project brewing at all times that has a non-zero chanc
     
     <item>
       <title>Google&#43; : My first impressions</title>
-      <link>https://karecha.com/blog/2011/07/12/google---my-first-impressions/</link>
+      <link>https://karecha.com/blog/2011/07/12/google-my-first-impressions/</link>
       <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://karecha.com/blog/2011/07/12/google---my-first-impressions/</guid>
+      <guid>https://karecha.com/blog/2011/07/12/google-my-first-impressions/</guid>
       <description>After using Google+ for a day, here are my first impressions.
 The good parts:  Google+ connections are modeled on Twitter. A ‘handshake’ is not necessary for two people to connect. Just follow people on Google+ without having them to first approve the connection by accepting a ‘friend request’. Quick and easy way to define an audience for each post. If a post is marked as public, everybody can read that post — even those who do not have a Google+ account.</description>
     </item>
@@ -767,7 +777,7 @@ The good parts:  Google+ connections are modeled on Twitter. A ‘handshake’ i
       <pubDate>Sat, 04 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2011/06/04/7-rules-for-making-more-happiness/</guid>
-      <description> Thinking about ideas and content freely - with the deadline far away  Traveling to new places Using a wide variety of tools and techniques Working on projects that matter to me Having things come back from the printer done well Getting feedback from people who see our work Designing a project that feels partly brand new and partly familiar   </description>
+      <description> Thinking about ideas and content freely - with the deadline far away Traveling to new places Using a wide variety of tools and techniques Working on projects that matter to me Having things come back from the printer done well Getting feedback from people who see our work Designing a project that feels partly brand new and partly familiar  </description>
     </item>
     
     <item>
@@ -806,9 +816,9 @@ The good parts:  Google+ connections are modeled on Twitter. A ‘handshake’ i
       
       <guid>https://karecha.com/blog/2011/05/16/snark/</guid>
       <description> Just the place for a Snark! I have said it twice:
-That alone should encourage the crew.
-Just the place for a Snark! I have said it thrice:
-What I tell you three times is true.
+  That alone should encourage the crew.
+  Just the place for a Snark! I have said it thrice:
+  What I tell you three times is true.
   The Hunting of the Snark by Lewis Carroll  </description>
     </item>
     
@@ -869,7 +879,7 @@ Why time seems to pass faster as we get older
       <pubDate>Sun, 24 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2011/04/24/state-of-mind/</guid>
-      <description>A new era is only a new state of mind
+      <description>[A new era is only a new state of mind](http://www.asymco.com/2011/04/23/a -new-era-is-only-a-new-state-of-mind)
 Its hard for companies to let go of their past successes
  What makes a company successful with innovation long term is to always keep innovating. Often coming up with the next big thing means damaging the old thing. That’s hard to do for many companies so they don’t do it and somebody else does. This is why great companies end up as formerly-great companies.</description>
     </item>
@@ -880,7 +890,7 @@ Its hard for companies to let go of their past successes
       <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2011/04/23/stand-up/</guid>
-      <description>Stand up while you read this!
+      <description>[Stand up while you read this!](http://opinionator.blogs.nytimes.com/2010/02/23/stand-up-while-you- read-this/)
 The writing on the wall is clear
  It doesn’t matter if you go running every morning, or you’re a regular at the gym. If you spend most of the rest of the day sitting — in your car, your office chair, on your sofa at home — you are putting yourself at increased risk of obesity, diabetes, heart disease, a variety of cancers and an early death.</description>
     </item>
@@ -993,9 +1003,9 @@ This opens new possiblities.</description>
       <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2011/01/31/interview/</guid>
-      <description>Jobs Interview [1985] - Newsweek
+      <description>[Jobs Interview [1985] - Newsweek](http://www.newsweek.com/1985/09/30/jobs- talks-about-his-rise-and-fall.print.html)
  I can be very intense in my convictions. And I don&amp;rsquo;t know; all in all, I kind of like myself and I&amp;rsquo;m not that anxious to change.
-&amp;ndash; Steve Jobs
+    &amp;ndash; Steve Jobs
  </description>
     </item>
     
@@ -1005,7 +1015,7 @@ This opens new possiblities.</description>
       <pubDate>Sat, 29 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2011/01/29/tax/</guid>
-      <description>How to Tax the Rich
+      <description>[How to Tax the Rich](http://online.wsj.com/article/SB100014240527487032932045 76106164123424314.html?mod=WSJ_hp_MIDDLENexttoWhatsNewsForth)
 Only crazy people imagine that bad ideas can suddenly become good if you keep trying them.</description>
     </item>
     
@@ -1015,7 +1025,7 @@ Only crazy people imagine that bad ideas can suddenly become good if you keep tr
       <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2011/01/27/products/</guid>
-      <description>A tableful of products
+      <description>[A tableful of products](http://www.asymco.com/2011/01/27/76-billion-a-year- from-a-tableful-of-products/)
 All the products Apple sells can fit on one average sized kitchen table and they generated $76 billion in sales last year.</description>
     </item>
     
@@ -1025,7 +1035,7 @@ All the products Apple sells can fit on one average sized kitchen table and they
       <pubDate>Sun, 12 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2010/12/12/the-next-ten-years/</guid>
-      <description>This year, think of the next ten years, and not just the next year.</description>
+      <description>This year, think of the [next ten years](http://howardlindzon.com/the-next- ten-years/), and not just the next year.</description>
     </item>
     
     <item>
@@ -1122,7 +1132,7 @@ Most programming languages, especially the popular ones, do have utilities that 
       <guid>https://karecha.com/blog/2010/09/04/guzzler/</guid>
       <description>My Google Reader Trends (Gosh, what a time guzzler!)
  From your 52 subscriptions, over the last 30 days you read 848 items, clicked 103 items, starred 0 items, shared 0 items, and emailed 1 items.
-Since October 10, 2005 you have read a total of 23,550 items.
+  Since October 10, 2005 you have read a total of 23,550 items.
  </description>
     </item>
     
@@ -1142,7 +1152,7 @@ Since October 10, 2005 you have read a total of 23,550 items.
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2010/09/01/agile/</guid>
-      <description>Here&amp;rsquo;s an extreme example of being Agile.</description>
+      <description>Here&amp;rsquo;s an extreme [example of being Agile](http://37signals.com/svn/posts/2550 -smiley-an-app-in-24-hours).</description>
     </item>
     
     <item>
@@ -1152,7 +1162,7 @@ Since October 10, 2005 you have read a total of 23,550 items.
       
       <guid>https://karecha.com/blog/2010/08/30/argument-against-functional-spec/</guid>
       <description>A feature is signed off and agreed on. Even if you realize during development that it&amp;rsquo;s a bad idea, you&amp;rsquo;re stuck with it. Specs don&amp;rsquo;t deal with the reality that once you start building something, everything changes.
- From Getting Real</description>
+ From [Getting Real](http://gettingreal.37signals.com/ch11_Theres_Nothing_Funct ional_about_a_Functional_Spec.php)</description>
     </item>
     
     <item>
@@ -1211,7 +1221,7 @@ From Getting Real</description>
       <pubDate>Tue, 24 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2010/08/24/software-development/</guid>
-      <description>Begining a career in software development
+      <description>[Begining a career in software development](http://tapankarecha.wordpress.com/2010/08/22/career-in-software- development-build-the-foundation/)
 Sage advice for beginers in the field of software development.</description>
     </item>
     
@@ -1316,7 +1326,7 @@ Blaming iPod again.</description>
       <pubDate>Sun, 08 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2010/08/08/hurds-exit/</guid>
-      <description>There may be more than meets the eye in Hurd&amp;rsquo;s exit</description>
+      <description>There may be more than meets the eye in [Hurd&amp;rsquo;s exit](http://online.wsj.com/ar ticle/SB10001424052748704182304575415990715123362.html)</description>
     </item>
     
     <item>
@@ -1363,7 +1373,7 @@ I have two options: 1. stick to indoor activities in the gym, or 2.</description
       <pubDate>Sat, 05 Jun 2010 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2010/06/05/lore-of-running/</guid>
-      <description>Tim Noakes&amp;rsquo; Lore of Running is turning out to be a very good read. Tim&amp;rsquo;s narrative is convincing and it would be a waste to not follow his advice on running, at least as a beginner. After running on and off during the last decade, I am now ready to take running seriously.
+      <description>[Tim Noakes&amp;rsquo; Lore of Running](http://www.amazon.com/Lore-Running-4th-Timothy- Noakes/dp/0873229592) is turning out to be a very good read. Tim&amp;rsquo;s narrative is convincing and it would be a waste to not follow his advice on running, at least as a beginner. After running on and off during the last decade, I am now ready to take running seriously.
 First off, I now have a plan in place. So far, I have chalked out some outlines of the plan.</description>
     </item>
     
@@ -1373,7 +1383,7 @@ First off, I now have a plan in place. So far, I have chalked out some outlines 
       <pubDate>Thu, 21 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>https://karecha.com/blog/2010/01/21/the-aftermath/</guid>
-      <description>Ian Taylor notes in his blog post about the rise of Cargo Cult Programming:
+      <description>Ian Taylor notes in his [blog post] 1 about the rise of [Cargo Cult Programming] 2:
 In today’s increasingly complex world of programming, when so much code involves integrating libraries in various ways, I expect that cargo cult programming is on the rise.
 He is talking in context of developing open source software, but this applies to proprietary software development as well. In a commercial software development enterprise, cargo cult is less likely to be noticed or pointed out because peer review is no longer deemed necessary as there is so much to do with so few people to go around.</description>
     </item>
@@ -1390,11 +1400,11 @@ If you are not familiar with this little laptop, which is categorized as a netbo
     
     <item>
       <title>LTE – Start imagining the consequences of 100 MBps</title>
-      <link>https://karecha.com/blog/2009/02/16/lte--start-imagining-the-consequences-of-100-mbps/</link>
+      <link>https://karecha.com/blog/2009/02/16/lte-start-imagining-the-consequences-of-100-mbps/</link>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://karecha.com/blog/2009/02/16/lte--start-imagining-the-consequences-of-100-mbps/</guid>
-      <description>LTE (Long Term Evolution), the most popular pet project from 3GPP promises to deliver data speeds upto 100 MBps. And this is in not-so-distant future even by the standards of internet time. They say the first commercial deployments should go live in 2010 and LTE will be mainstream by 2012.
+      <guid>https://karecha.com/blog/2009/02/16/lte-start-imagining-the-consequences-of-100-mbps/</guid>
+      <description>LTE ([Long Term Evolution] 1), the most popular pet project from 3GPP promises to deliver data speeds upto 100 MBps. And this is in not-so-distant future even by the standards of internet time. They say the first commercial deployments should go live in 2010 and LTE will be mainstream by 2012.
 Now, let me start imagining the consequences of having such data speeds available on a wireless medium, when the norm now (in early 2009) is data speeds in the range of a few Kbps on most networks in most places.</description>
     </item>
     
