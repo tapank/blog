@@ -6,7 +6,7 @@ draft: false
 
 > "Why me?"
 >
-> "That is a very *Earthling* question to ask, Mr. Pilgrim. Why *you*? Why *us* for that matter? Why *anything*? Because this moment simply *is*.
+> "That is a very *Earthling* question to ask, Mr. Pilgrim. Why *you*? Why *us* for that matter? Why *anything*? Because this moment simply *is*."
 
 - From [Slaughterhouse-Five](https://en.wikipedia.org/wiki/Slaughterhouse-Five)
 
