@@ -38,7 +38,7 @@ PPS: This article first appeared on [LinkedIn here][4].
 [1]: https://www.linkedin.com/in/deepeshpurswani/
 [2]: https://www.linkedin.com/in/surabhi-aswal-0b0007a/
 [3]: https://www.linkedin.com/in/sbasheer/
-[4]: https://www.linkedin.com/pulse/five-golden-rules-great-video-interview-tapan-karecha/
+[4]: https://www.linkedin.com/pulse/candidate-sourcing-screening-hiring-manager-tapan-karecha/
 [5]: https://en.wikipedia.org/wiki/Great_Resignation
 [6]: https://blog.devgenius.io/keeping-developers-will-be-the-priority-in-great-developer-resignation-next-stage-9dfcdb6e75a4
 [7]: https://coderpad.io/

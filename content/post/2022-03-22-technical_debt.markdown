@@ -1,6 +1,6 @@
 ---
 title: "Technical Debt"
-date: 2022-03-27T13:16:33+05:30
+date: 2022-03-22T11:13:23+05:30
 draft: false
 ---
 
