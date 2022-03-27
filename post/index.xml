@@ -6,7 +6,27 @@
     <description>Recent content in Posts on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 10:08:07 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 18:31:06 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective Team Communication in Software Development</title>
+      <link>https://karecha.com/blog/2022/03/26/effective-team-communication-in-software-development/</link>
+      <pubDate>Sat, 26 Mar 2022 18:31:06 +0530</pubDate>
+      
+      <guid>https://karecha.com/blog/2022/03/26/effective-team-communication-in-software-development/</guid>
+      <description>Irrespective of your role in Software Development (software development engineer, product manager, quality engineer, engineering manager, director or above), all the tools you use to get the job done can be broadly categorized as:
+ Tools for communication and collaboration Tools for software development and testing Tools for software operations  In this article I will discuss the first in that list: Tools for communication and collaboration. A software development team&amp;rsquo;s effectiveness and long-term success hinges upon how they communicate and collaborate within the team as well as with external stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Technical Debt</title>
+      <link>https://karecha.com/blog/2022/03/22/technical-debt/</link>
+      <pubDate>Tue, 22 Mar 2022 11:13:23 +0530</pubDate>
+      
+      <guid>https://karecha.com/blog/2022/03/22/technical-debt/</guid>
+      <description>Here is an interesting article on Tech Debt from Martin Fowler&amp;rsquo;s website. It is a part of a series where the authors discuss how startups get into the bottleneck as growth changes the context for ways of working. I think their arguments hold up even for fast growing products in larger enterprises.
+The article starts with defining tech debt which goes beyond just code quality issues, and includes coupling, unused or low value features, manual processes, tooling and more.</description>
+    </item>
+    
     <item>
       <title>Job Levels in Software Engineering</title>
       <link>https://karecha.com/blog/2022/03/20/job-levels-in-software-engineering/</link>
