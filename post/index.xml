@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Mar 2022 08:56:40 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 10:08:07 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job Levels in Software Engineering</title>
+      <link>https://karecha.com/blog/2022/03/20/job-levels-in-software-engineering/</link>
+      <pubDate>Sun, 20 Mar 2022 10:08:07 +0530</pubDate>
+      
+      <guid>https://karecha.com/blog/2022/03/20/job-levels-in-software-engineering/</guid>
+      <description>Engineering managers need a simple definition of responsibilities of software engineers for every job level. They need this for their own understanding when hiring, promoting, and even coaching engineers in their team. This also helps them articulate high level expectations to engineers during goal setting and performance evaluation.
+I found this definition on Twitter by Zain Rizvi as the most concise and comprehensible articulation by far:
+ Junior engineer: Take this tightly defined feature &amp;amp; build it.</description>
+    </item>
+    
     <item>
       <title>Candidate Sourcing and Screening: Hiring Manager as the Gatekeeper</title>
       <link>https://karecha.com/blog/2022/03/16/candidate-sourcing-and-screening-hiring-manager-as-the-gatekeeper/</link>
