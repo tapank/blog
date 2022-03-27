@@ -82,3 +82,7 @@ post = "/blog/:year/:month/:day/:title/"
 [blackfriday]
 	hrefTargetBlank = true # open the external links in a new window
 	fractions = false
+
+[markup.goldmark.renderer]
+	unsafe= true
+

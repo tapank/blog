@@ -1,0 +1,44 @@
+---
+title: "Candidate Sourcing and Screening: Hiring Manager as the Gatekeeper"
+date: 2022-03-16T08:56:40+05:30
+draft: false
+---
+
+You are a Software Development Manager, responsible for a team of software engineers/developers. Since you are also responsible for hiring talent, we will now address you as a Hiring Manager. Hiring processes vary from company to company and even from team to team within a company. The hiring process in my team looks something like this:
+
+<img src="/images/hiring_process.png" alt="Hiring Process ok?" style="max-height: auto; max-width: 100%;" />
+
+Your process may vary, so take this article in the context of the above. Also, we will only discuss sourcing and screening (see Phase 1 above) for software developer roles. If you are hiring for other roles, please tweak accordingly. The stage is set, let us step in.
+
+Lately, you are stressed about the [Great Resignation][5] or have already felt the impact on your team. Doing what you can to [retain talent][6] should be your priority, but attrition can happen despite your best efforts. You are under pressure to backfill open positions and even to grow your team. It is a challenge for hiring managers to reconcile these conflicting forces:
+
+- **You must hire fast.** You are expected to fill open positions in your team as soon as possible.
+- **Slow down, you must be careful.** In a rush to fill open positions, you may act in haste, and you will regret the consequences of bad hiring i.e., onboarding people who are not a good fit for the role.
+
+You want to raise the bar but that important project is behind schedule. Hiring great candidates takes time but bad hires will negatively impact the team's effectiveness, which impacts morale, which worsens attrition, which opens more positions to fill, and that only means even more hiring for you. Oh, what a quagmire.
+
+Candidate screening involves selecting only those candidates from a pool of applicants, who get interviewed by your hiring team. The goal is to maximize your hiring team's conversion rate (ratio of selected and interviewed candidates) while avoiding losing suitable candidates. Why maximize the conversation rate of hiring team? Because your hiring team constitutes engineers from your own team. They get involved despite project commitments and deadlines. If you do not actively protect their time, you are doing injustice to your colleagues because they are already stretched thin. You will also slow down the hiring team if they waste time interviewing candidates who could have been eliminated by a good screening process. Bottomline -- utilize your hiring team's bandwidth effectively. Sourcing and screening involve three steps, each of which can be enhanced to improve the quality of funnel:
+
+1. **Sourcing and Screening by Recruiter:** Recruiter gathers resumes of applicants from various sources, including applications for a job posting on your website, professional networks such as LinkedIn, referrals from team members, or from external vendors who are your sourcing partners. Their first task is to select applications from this pool based on skillset, experience, employment history etc. Recruiters often have a brief conversation with eligible candidates to gauge their level of interest and to understand their expectations. Then they share these shortlisted applications with the hiring manager. How do you, the hiring manager, optimize this step? You do this by creating a strong and effective partnership with the recruiter. You must be aligned in terms of what you are looking for in a candidate; as well as attributes that you do not want in a candidate. Periodically, ask the recruiter to describe their screening process, which helps you maintain alignment. This goes beyond the job description and is something that you and the recruiter should continuously tune and optimize for the best outcome.
+
+2. **Resume Screening by Hiring Manager:** Once you receive the shortlisted resumes from recruiter, examine these carefully and select only those candidates who you think are likely to be selected by your hiring team. Every candidate you select here moves to the coding test round (this is the third step we will talk about shortly), and by making this choice you commit to spending about 30 minutes with them. It took you just 2 to 3 minutes perusing each resume, but after ok'ing the resume, your investment in each shortlisted candidate will go up 10x. Now you see why you need to pay attention to the candidates' resumes. You do not want to be too lenient in selecting the candidates for the next round because coding tests are time consuming, and your time is scarce! On the other hand, if you are too strict in selecting candidates, you may lose some candidates who could have been good fits. How do you balance this act? I look for resumes that help me visualize the candidate's contributions and impact in their current and past roles. The opposite of this is a resume that only describes projects or products that the candidate worked on but omits their own impact and contributions. Beware of resumes that just list down the trivial and obvious such as: "attend daily scrum meetings, participate in planning meetings, implement new features, and fix bugs." Well, everybody does that, and except for filling out the resume, this hardly conveys anything specific about the candidate. (Candidates, take note: talk about your contributions more than your team's contributions; this is your resume, not your team’s.)
+
+3. **Coding Test by Hiring Manager:** This step is your first interaction with the candidate. In about 30 minutes, you will decide whether it is worth your hiring team’s time to interview this candidate. They will use an online coding interview platform (we use [Coderpad][7]) to implement a solution that produces expected output. At the end of this round, you will answer a definite "yes" or "no" to the question: should the hiring team interview the candidate? Take accountability and do not delegate the decision to someone else by asking them to repeat the test. If you do this, you have wasted your 30 minutes and you are now further committing someone else's time on your team to decide what you should have decided in this round! Also, do not make the mistake of trying to evaluate whether you want to hire the candidate – that is what the hiring team will evaluate in Phase 2. You should only determine the suitability of the candidate to move to next phase. The candidate's time is precious too and must be respected; they will appreciate your decisiveness because they will see that you value their time too. The way I conduct this round is to focus entirely on evaluating their ability to write code, which is a core competency for the role they have applied for. Of course, there are other competencies they will need to possess but lacking the ability to write a working program is a deal breaker. From our experience, candidates who perform well in this round are more likely to succeed in Phase 2. This is how you protect your hiring team's limited bandwidth, and improve the conversion rate by ensuring that your hiring team does not spend time talking to candidates who cannot demonstrate their core competency: can they write code?
+
+Conclusion
+
+The key message here is: effective candidate screening is the gate; and you are the gatekeeper. When you allow a candidate through the gate, you should have reason to believe that the candidate stands a chance at getting selected. It takes a little practice to tune your acceptance criteria, but if you pay attention, you will soon find a sweet spot that works for you. As I said before, you do not want to be too strict on this step thereby losing potential strong candidates, nor do you want to be too lenient and end up reducing the conversion rate for your hiring team.
+
+Let us look at this “Great Resignation” as an opportunity to do some "Great Hiring". Instead of losing sleep over attrition in your team, roll up your sleeves and get ready for hiring. You will continue to raise the bar on your team, and they will appreciate that the team is getting better and stronger. Happy hiring!
+
+Thank you [Deepesh][1], [Surabhi][2], and [Shahin][3] for reading the draft, providing valuable input, and for pointing out errors. Any remaining errors in this post are mine.
+
+PPS: This article first appeared on [LinkedIn here][4].
+
+[1]: https://www.linkedin.com/in/deepeshpurswani/
+[2]: https://www.linkedin.com/in/surabhi-aswal-0b0007a/
+[3]: https://www.linkedin.com/in/sbasheer/
+[4]: https://www.linkedin.com/pulse/five-golden-rules-great-video-interview-tapan-karecha/
+[5]: https://en.wikipedia.org/wiki/Great_Resignation
+[6]: https://blog.devgenius.io/keeping-developers-will-be-the-priority-in-great-developer-resignation-next-stage-9dfcdb6e75a4
+[7]: https://coderpad.io/
