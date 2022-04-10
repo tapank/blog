@@ -1,0 +1,20 @@
+---
+title: "Harvard's CS50P 2022"
+date: 2022-04-03T10:05:02+05:30
+draft: false
+---
+
+Harvard's popular CS50 and related courses (CS50X, CS50G, etc.) are a gift to the world (they are all free!) which we do not appreciate enough. One of these courses starts soon and is called CS50P -- CS50's Introduction to Programming with Python. The course is relevant if you belong to one of the following categories:
+
+- A nonprogrammer who wants to learn to program (not necessarily as a career choice but just to improve your effectiveness in your current job, or as a hobby)
+- A programmer who wants to learn Python (it is the most popular language in the industry today!)
+- A Python programmer who just wants to brush up on the fundamentals
+- A parent of a middle or high schooler (this will be an opportunity for your child to dabble in programming; what better way to spend the summer holidays!)
+
+Find the course [here][1].
+
+Also, check out the [other CS50 courses][2]. You might find something which is even more relevant to your ambitions or your current work.
+
+[1]: https://www.edx.org/course/cs50s-introduction-to-programming-with-python
+[2]: https://pll.harvard.edu/catalog?keywords=&subject%5B%5D=3&subject%5B%5D=100
+
