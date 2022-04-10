@@ -14,10 +14,16 @@ post = "/blog/:year/:month/:day/:title/"
 # Links are added to navigation in hugo-octopress/layouts/partials/navigation.html
 # If navigationNewWindow is set in [params] to true then all links except root ("/") will open in a new window
 # If navigationNewWindow does not exist or set to false then links will open in the same window
-[[menu.main]]
-	Name = "Home"
-	URL = "/"
-	weight = 1
+[menu]
+	[[menu.main]]
+		Name = "Home"
+		URL = "/"
+		weight = 1
+
+	[[menu.main]]
+		Name = "RSS Feed"
+		URL = "/index.xml"
+		weight = 1
 
 # Sidebar menus
 # Header text is "sidebarMenuHeader" in [params]
