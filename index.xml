@@ -1,15 +1,402 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes to self</title>
     <link>https://karecha.com/</link>
-    
+    <description>Recent content on Notes to self</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
+    <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
+    <lastBuildDate>Sat, 09 Apr 2022 11:19:37 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Posts</title>
-      <link>https://karecha.com/post/</link>
+      <title>Stripe Business Update</title>
+      <link>https://karecha.com/blog/2022/04/09/stripe-business-update/</link>
       <pubDate>Sat, 09 Apr 2022 11:19:37 +0530</pubDate>
       <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/post/</guid>
-      <description></description>
+      <guid>https://karecha.com/blog/2022/04/09/stripe-business-update/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://stripe.com&#34;&gt;Stripe&lt;/a&gt;&amp;rsquo;s cofounders published an annual letter to their users. Things that caught my eye in this 2021 business update are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Rise of the creator economy
+&amp;ldquo;Creator economy, a term that refers to directing payments to those creating content or products on internet platforms: think developers on GitHub, podcasters on Spotify, or the Twitterati on Twitter all getting paid directly for their creations.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rise of embedded finance
+&amp;ldquo;&amp;hellip; the explosive growth in fintech &amp;hellip; platforms are now integrating additional financial services directly into their products, such as business expense cards, monetary accounts, and loan access.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enterprises will need to adapt
+&amp;ldquo;Established businesses have realized that they need to match the customer experience that the world’s most exciting startups invent, and that to be stuck on legacy technology is a business liability.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evolution of platform architecture
+&amp;ldquo;We&amp;rsquo;re also rebuilding the architecture (in a more service-oriented fashion) on which the core Stripe API calls run; our pilot customers running on that new architecture are seeing 99th percentile latency improvements of over 50%. We’ll continue over the course of this year to make Stripe more reliable and performant for you.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Technologically, this last one is the highlight of the letter for me. We sometimes underestimate the need for ongoing investment in evolving the architecture to meet the current and future needs of the platform. Improving the performance of an application can create a better customer experience and stickiness than adding a new feature. It is harder to make a case for non-functional improvements because benefits lend poorly to the measurement of business impact. As an engineering leader, take it upon yourself to give attention to non-functional improvements.&lt;/p&gt;
+&lt;p&gt;Read &lt;a href=&#34;https://stripe.com/files/stripe-2021-update.pdf&#34;&gt;the letter here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Long Career in Software Development</title>
+      <link>https://karecha.com/blog/2022/04/06/long-career-in-software-development/</link>
+      <pubDate>Wed, 06 Apr 2022 10:50:18 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/04/06/long-career-in-software-development/</guid>
+      <description>&lt;p&gt;This is an excellent article by someone who (well, his name is Alex) has been in the industry for 20+ years and during this time, has played various roles in software development. My biggest takeaways from the article are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A successful and fulfilling career need not follow a linear path.&lt;/li&gt;
+&lt;li&gt;This one is for people who have switched to the management path: never stop coding, no matter your title.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c&#34;&gt;the link to the article&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harvard&#39;s CS50P 2022</title>
+      <link>https://karecha.com/blog/2022/04/03/harvards-cs50p-2022/</link>
+      <pubDate>Sun, 03 Apr 2022 10:05:02 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/04/03/harvards-cs50p-2022/</guid>
+      <description>&lt;p&gt;Harvard&amp;rsquo;s popular CS50 and related courses (CS50X, CS50G, etc.) are a gift to the world (they are all free!) which we do not appreciate enough. One of these courses starts soon and is called CS50P &amp;ndash; CS50&amp;rsquo;s Introduction to Programming with Python. The course is relevant if you belong to one of the following categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A nonprogrammer who wants to learn to program (not necessarily as a career choice but just to improve your effectiveness in your current job, or as a hobby)&lt;/li&gt;
+&lt;li&gt;A programmer who wants to learn Python (it is the most popular language in the industry today!)&lt;/li&gt;
+&lt;li&gt;A Python programmer who just wants to brush up on the fundamentals&lt;/li&gt;
+&lt;li&gt;A parent of a middle or high schooler (this will be an opportunity for your child to dabble in programming; what better way to spend the summer holidays!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Find the course &lt;a href=&#34;https://www.edx.org/course/cs50s-introduction-to-programming-with-python&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also, check out the &lt;a href=&#34;https://pll.harvard.edu/catalog?keywords=&amp;amp;subject%5B%5D=3&amp;amp;subject%5B%5D=100&#34;&gt;other CS50 courses&lt;/a&gt;. You might find something which is even more relevant to your ambitions or your current work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective Team Communication in Software Development</title>
+      <link>https://karecha.com/blog/2022/03/26/effective-team-communication-in-software-development/</link>
+      <pubDate>Sat, 26 Mar 2022 18:31:06 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/03/26/effective-team-communication-in-software-development/</guid>
+      <description>&lt;p&gt;Irrespective of your role in Software Development (software development engineer, product manager, quality engineer, engineering manager, director or above), all the tools you use to get the job done can be broadly categorized as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tools for communication and collaboration&lt;/li&gt;
+&lt;li&gt;Tools for software development and testing&lt;/li&gt;
+&lt;li&gt;Tools for software operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this article I will discuss the first in that list: Tools for communication and collaboration. A software development team&amp;rsquo;s effectiveness and long-term success hinges upon how they communicate and collaborate within the team as well as with external stakeholders. Understanding the hierarchy of communication and developing a knack for choosing the right level of communication has long term benefits. This is a learnable skill, but like any other soft skill, it requires ongoing calibration in the team. You need a few people who care about this and can set the tone for everyone else.&lt;/p&gt;
+&lt;p&gt;The hierarchy of communication and collaboration has the following layers:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Team Wiki&lt;/li&gt;
+&lt;li&gt;Team Blog&lt;/li&gt;
+&lt;li&gt;Documents&lt;/li&gt;
+&lt;li&gt;Issue Tracker&lt;/li&gt;
+&lt;li&gt;Team Chat&lt;/li&gt;
+&lt;li&gt;Personal / Group chat&lt;/li&gt;
+&lt;li&gt;Good old face-to-face interaction&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Every time you communicate or collaborate with others, you need to choose an appropriate tool from this hierarchy for maximum impact. This hierarchy has the most durable medium at the top, where discoverability and shareability is also high; all of which reduce when you pick tools lower down in the hierarchy. The signal to noise ratio is also high at the top and falls as you go down the hierarchy. For e.g., any information shared in a face-to-face conversation is least durable, discoverable, or shareable. The only short-term benefits of sharing information in the lower layers are high speed and less formality, which is indispensable in day-to-day work but should not be applied to every piece of information. (By tools I mean product type. For e.g., your wiki could be Confluence, GitHub wiki, or something else; Documents could be Google Docs, Office 365 Word, or something else; and so on.)&lt;/p&gt;
+&lt;p&gt;Let us now discuss each layer:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Team Wiki:&lt;/strong&gt; Think of a good wiki as a garden that grows with the product and with the team. It is the team’s collective brain. It is home to the ever-growing information about what the product is, how it works, links to useful resources, known issues, roadmaps, release history, team member details, processes, etc. It should be possible for you to just grant access to the wiki and they should be able to find all the information they need. For e.g., anyone in your team should be able to figure out how to set up their development environment, where to download the product and how to install and run it, learn about the team’s software development processes and practices, how to start taking part in team rituals etc. The wiki should be open for contribution from all team members, but with some oversight from the senior members to keep entropy at bay. Maintaining the wiki is an ongoing process that should become second nature to the team. Just like a garden, it needs constant caring, pruning, weeding, and nourishing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Team Blog:&lt;/strong&gt; This is best for sharing narratives which are snapshots in time. Information you publish on the team blog is not expected to change with time. Information that needs to be updated over time belongs to the wiki. Blogs are for things like release announcements, process change announcements, welcoming a new team member, saying goodbye to a departing team member, announcing promotions or role changes, etc. Blogs are searchable and you can read posts from the past to gain perspective of how things evolved over time. (The conventional way of broadcasting announcements by email should be replaced by blog posts. Emails have a major drawback: information in emails is trapped in people&amp;rsquo;s inboxes. It cannot be discovered by someone who did not receive that email, and they are forever locked out of that piece of information. For example, when you join a company, you do not have access to emails that were sent prior. If you must send an email, first publish your announcement as a blog post and then email the link of that post to your target audience.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Documents:&lt;/strong&gt; These are best suited for collaborative writing or for receiving feedback on your writing. Use online documents for sharing and reviewing product requirements, system design, technical roadmaps etc. Once the review comments are addressed and the content is finalized, you can either move this to wiki or blog depending on the type of information. If your team has a good reason to archive these documents for later reference (instead of publishing this information in a wiki or a blog), then make sure the documents are stored in a location that the entire team can access, and they are well organized in a folder hierarchy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Issue Tracker:&lt;/strong&gt; This is where you submit and track Change Requests (we will call them CRs). Most modern issue trackers are also project management tools which aid project planning, release management and more. In this discussion, we will focus on information exchange facilitated by issue trackers. Each CR tells a story, which starts with the description of a new feature, enhancement, or a bug, and as the team makes progress on this CR, it serves as a log of milestones on the way to accomplishing the objective of that CR. Some teams use issue trackers only for process compliance, and the real conversations happen somewhere else &amp;ndash; either on chat or even face-to-face. The downside of this approach is that your &amp;ldquo;process&amp;rdquo; is now a burden and only serves as a paper trail solely for the sake of compliance; you are not using the tool to improve collaboration. A well written CR allows you to assign or transfer it (at any stage) to someone without the overhead of having to explain everything to them. The CR should be up to date and self-explanatory.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Team Chat:&lt;/strong&gt; This is where the team congregates and communicates asynchronously. Use topical channels to streamline conversations thereby allowing people to selectively tune into relevant conversations. Avoid posting messages in a “general” channel (unless, of course, it is a broad announcement) or else your team chat will become a noisy bazar where focused dialogs are no longer possible. Do not expect people to always respond promptly as it will kill their ability to focus on tasks; it is a tool for asynchronous communication! Once you start a conversation and it reaches a logical conclusion (either a decision is made, or a new plan is agreed upon etc.), this information should land in a better place. It could be a wiki, issue tracker or whatever is right for the topic. Best thing about team chat: it is inclusionary since every team member is tuned in, including the quiet ones.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Personal / Group chat:&lt;/strong&gt; This is to send direct messages to individuals or to a group of selected people. Use this only when you are discussing something that would be considered too noisy for team chat channels. The reason not to use group chats for work related topics is because it is exclusionary. Such conversations reduce your team’s shared understanding of what is going on since it excludes some or many of your team members from the discussion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. Good old face-to-face interaction:&lt;/strong&gt; This is the bottom rung of the hierarchy and is suitable for getting to know each other, for 1x1s, and for relationship building. While all of this can be done with video conferencing, occasional in-person interactions help build trust and relationship. However, in-person interaction is not necessary for day-to-day work. Remember, effective communication requires us to feed the collective brain. If essential information is exchanged via in-person conversations without surfacing it in any of the other layers discussed above, you are starving the collective brain.&lt;/p&gt;
+&lt;p&gt;That is the hierarchy of communication. Since it involves a lot of writing, here’s a quick note about writing in general:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep it simple across the hierarchy&lt;/li&gt;
+&lt;li&gt;Structure and categorize information to make it easier to find, even for new members&lt;/li&gt;
+&lt;li&gt;People will initially confuse the hierarchy and that is ok; it is part of learning&lt;/li&gt;
+&lt;li&gt;When adding information anywhere in the hierarchy, ensure there is sufficient context and cross referencing&lt;/li&gt;
+&lt;li&gt;Pay attention to spelling, grammar, and formatting; because typos, bad grammar, and poor formatting reduce readability and are distracting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conclusion, every time you communicate or collaborate with your team members, pick the right tool. By default, it is easy and tempting to stay in the lower layers of the hierarchy because most people feel safe there, since they do not need to worry about making mistakes, communication feels natural and informal etc. It is a trap! Always strive to continuously refine valuable information and move it up the hierarchy to the right level where it belongs.&lt;/p&gt;
+&lt;p&gt;What I have outlined above is what has worked for my teams; you may have a system that works better, and if so, please share in the comments (or create your own post and share the link in comments).&lt;/p&gt;
+&lt;p&gt;PS: Thank you &lt;a href=&#34;https://www.linkedin.com/in/deepeshpurswani/&#34;&gt;Deepesh&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/ravitheja-bandari-6abb794a/&#34;&gt;Ravitheja&lt;/a&gt; for reading the draft, providing valuable input, and for pointing out errors. Any remaining errors in this post are mine.&lt;/p&gt;
+&lt;p&gt;PPS: This article first appeared on &lt;a href=&#34;https://www.linkedin.com/pulse/effective-team-communication-software-development-tapan-karecha/&#34;&gt;LinkedIn here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Debt</title>
+      <link>https://karecha.com/blog/2022/03/22/technical-debt/</link>
+      <pubDate>Tue, 22 Mar 2022 11:13:23 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/03/22/technical-debt/</guid>
+      <description>&lt;p&gt;Here is an &lt;a href=&#34;https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html&#34;&gt;interesting article on Tech Debt&lt;/a&gt; from Martin Fowler&amp;rsquo;s website. It is a part of a series where the authors discuss how startups get into the bottleneck as growth changes the context for ways of working. I think their arguments hold up even for fast growing products in larger enterprises.&lt;/p&gt;
+&lt;p&gt;The article starts with defining tech debt which goes beyond just code quality issues, and includes coupling, unused or low value features, manual processes, tooling and more. Next, it delves into how to determine that you are approaching the point where it will start to impact growth. Lastly, it discusses strategies to manage tech debt.&lt;/p&gt;
+&lt;p&gt;Many engineering teams are shackled by a self-limiting belief that technical debt is of their own doing. This is further reinforced when they are expected to just figure it out and fix it. If only it was that simple! My biggest takeaway from the article: managing tech debt requires involvement from more than just the engineering teams; the leaders, product, and engineering must join hands for it to work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Job Levels in Software Engineering</title>
+      <link>https://karecha.com/blog/2022/03/20/job-levels-in-software-engineering/</link>
+      <pubDate>Sun, 20 Mar 2022 10:08:07 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/03/20/job-levels-in-software-engineering/</guid>
+      <description>&lt;p&gt;Engineering managers need a simple definition of responsibilities of software engineers for every job level. They need this for their own understanding when hiring, promoting, and even coaching engineers in their team. This also helps them articulate high level expectations to engineers during goal setting and performance evaluation.&lt;/p&gt;
+&lt;p&gt;I found this definition on Twitter by &lt;a href=&#34;https://lnkd.in/g2-kATad&#34;&gt;Zain Rizvi&lt;/a&gt; as the most concise and comprehensible articulation by far:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Junior engineer:&lt;/strong&gt; Take this tightly defined feature &amp;amp; build it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mid-level engineer:&lt;/strong&gt; Take this vaguely defined feature &amp;amp; build it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Senior engineer:&lt;/strong&gt; Take this known problem &amp;amp; figure out how to solve it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Staff engineer:&lt;/strong&gt; Take this goal &amp;amp; find the problems we should be solving.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Candidate Sourcing and Screening: Hiring Manager as the Gatekeeper</title>
+      <link>https://karecha.com/blog/2022/03/16/candidate-sourcing-and-screening-hiring-manager-as-the-gatekeeper/</link>
+      <pubDate>Wed, 16 Mar 2022 08:56:40 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/03/16/candidate-sourcing-and-screening-hiring-manager-as-the-gatekeeper/</guid>
+      <description>&lt;p&gt;You are a Software Development Manager, responsible for a team of software engineers/developers. Since you are also responsible for hiring talent, we will now address you as a Hiring Manager. Hiring processes vary from company to company and even from team to team within a company. The hiring process in my team looks something like this:&lt;/p&gt;
+&lt;img src=&#34;https://karecha.com/images/hiring_process.png&#34; alt=&#34;Hiring Process ok?&#34; style=&#34;max-height: auto; max-width: 100%;&#34; /&gt;
+&lt;p&gt;Your process may vary, so take this article in the context of the above. Also, we will only discuss sourcing and screening (see Phase 1 above) for software developer roles. If you are hiring for other roles, please tweak accordingly. The stage is set, let us step in.&lt;/p&gt;
+&lt;p&gt;Lately, you are stressed about the &lt;a href=&#34;https://en.wikipedia.org/wiki/Great_Resignation&#34;&gt;Great Resignation&lt;/a&gt; or have already felt the impact on your team. Doing what you can to &lt;a href=&#34;https://blog.devgenius.io/keeping-developers-will-be-the-priority-in-great-developer-resignation-next-stage-9dfcdb6e75a4&#34;&gt;retain talent&lt;/a&gt; should be your priority, but attrition can happen despite your best efforts. You are under pressure to backfill open positions and even to grow your team. It is a challenge for hiring managers to reconcile these conflicting forces:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You must hire fast.&lt;/strong&gt; You are expected to fill open positions in your team as soon as possible.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Slow down, you must be careful.&lt;/strong&gt; In a rush to fill open positions, you may act in haste, and you will regret the consequences of bad hiring i.e., onboarding people who are not a good fit for the role.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You want to raise the bar but that important project is behind schedule. Hiring great candidates takes time but bad hires will negatively impact the team&amp;rsquo;s effectiveness, which impacts morale, which worsens attrition, which opens more positions to fill, and that only means even more hiring for you. Oh, what a quagmire.&lt;/p&gt;
+&lt;p&gt;Candidate screening involves selecting only those candidates from a pool of applicants, who get interviewed by your hiring team. The goal is to maximize your hiring team&amp;rsquo;s conversion rate (ratio of selected and interviewed candidates) while avoiding losing suitable candidates. Why maximize the conversation rate of hiring team? Because your hiring team constitutes engineers from your own team. They get involved despite project commitments and deadlines. If you do not actively protect their time, you are doing injustice to your colleagues because they are already stretched thin. You will also slow down the hiring team if they waste time interviewing candidates who could have been eliminated by a good screening process. Bottomline &amp;ndash; utilize your hiring team&amp;rsquo;s bandwidth effectively. Sourcing and screening involve three steps, each of which can be enhanced to improve the quality of funnel:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sourcing and Screening by Recruiter:&lt;/strong&gt; Recruiter gathers resumes of applicants from various sources, including applications for a job posting on your website, professional networks such as LinkedIn, referrals from team members, or from external vendors who are your sourcing partners. Their first task is to select applications from this pool based on skillset, experience, employment history etc. Recruiters often have a brief conversation with eligible candidates to gauge their level of interest and to understand their expectations. Then they share these shortlisted applications with the hiring manager. How do you, the hiring manager, optimize this step? You do this by creating a strong and effective partnership with the recruiter. You must be aligned in terms of what you are looking for in a candidate; as well as attributes that you do not want in a candidate. Periodically, ask the recruiter to describe their screening process, which helps you maintain alignment. This goes beyond the job description and is something that you and the recruiter should continuously tune and optimize for the best outcome.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Resume Screening by Hiring Manager:&lt;/strong&gt; Once you receive the shortlisted resumes from recruiter, examine these carefully and select only those candidates who you think are likely to be selected by your hiring team. Every candidate you select here moves to the coding test round (this is the third step we will talk about shortly), and by making this choice you commit to spending about 30 minutes with them. It took you just 2 to 3 minutes perusing each resume, but after ok&amp;rsquo;ing the resume, your investment in each shortlisted candidate will go up 10x. Now you see why you need to pay attention to the candidates&amp;rsquo; resumes. You do not want to be too lenient in selecting the candidates for the next round because coding tests are time consuming, and your time is scarce! On the other hand, if you are too strict in selecting candidates, you may lose some candidates who could have been good fits. How do you balance this act? I look for resumes that help me visualize the candidate&amp;rsquo;s contributions and impact in their current and past roles. The opposite of this is a resume that only describes projects or products that the candidate worked on but omits their own impact and contributions. Beware of resumes that just list down the trivial and obvious such as: &amp;ldquo;attend daily scrum meetings, participate in planning meetings, implement new features, and fix bugs.&amp;rdquo; Well, everybody does that, and except for filling out the resume, this hardly conveys anything specific about the candidate. (Candidates, take note: talk about your contributions more than your team&amp;rsquo;s contributions; this is your resume, not your team’s.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Coding Test by Hiring Manager:&lt;/strong&gt; This step is your first interaction with the candidate. In about 30 minutes, you will decide whether it is worth your hiring team’s time to interview this candidate. They will use an online coding interview platform (we use &lt;a href=&#34;https://coderpad.io/&#34;&gt;Coderpad&lt;/a&gt;) to implement a solution that produces expected output. At the end of this round, you will answer a definite &amp;ldquo;yes&amp;rdquo; or &amp;ldquo;no&amp;rdquo; to the question: should the hiring team interview the candidate? Take accountability and do not delegate the decision to someone else by asking them to repeat the test. If you do this, you have wasted your 30 minutes and you are now further committing someone else&amp;rsquo;s time on your team to decide what you should have decided in this round! Also, do not make the mistake of trying to evaluate whether you want to hire the candidate – that is what the hiring team will evaluate in Phase 2. You should only determine the suitability of the candidate to move to next phase. The candidate&amp;rsquo;s time is precious too and must be respected; they will appreciate your decisiveness because they will see that you value their time too. The way I conduct this round is to focus entirely on evaluating their ability to write code, which is a core competency for the role they have applied for. Of course, there are other competencies they will need to possess but lacking the ability to write a working program is a deal breaker. From our experience, candidates who perform well in this round are more likely to succeed in Phase 2. This is how you protect your hiring team&amp;rsquo;s limited bandwidth, and improve the conversion rate by ensuring that your hiring team does not spend time talking to candidates who cannot demonstrate their core competency: can they write code?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The key message here is: effective candidate screening is the gate; and you are the gatekeeper. When you allow a candidate through the gate, you should have reason to believe that the candidate stands a chance at getting selected. It takes a little practice to tune your acceptance criteria, but if you pay attention, you will soon find a sweet spot that works for you. As I said before, you do not want to be too strict on this step thereby losing potential strong candidates, nor do you want to be too lenient and end up reducing the conversion rate for your hiring team.&lt;/p&gt;
+&lt;p&gt;Let us look at this “Great Resignation” as an opportunity to do some &amp;ldquo;Great Hiring&amp;rdquo;. Instead of losing sleep over attrition in your team, roll up your sleeves and get ready for hiring. You will continue to raise the bar on your team, and they will appreciate that the team is getting better and stronger. Happy hiring!&lt;/p&gt;
+&lt;p&gt;Thank you &lt;a href=&#34;https://www.linkedin.com/in/deepeshpurswani/&#34;&gt;Deepesh&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/surabhi-aswal-0b0007a/&#34;&gt;Surabhi&lt;/a&gt;, and &lt;a href=&#34;https://www.linkedin.com/in/sbasheer/&#34;&gt;Shahin&lt;/a&gt; for reading the draft, providing valuable input, and for pointing out errors. Any remaining errors in this post are mine.&lt;/p&gt;
+&lt;p&gt;PPS: This article first appeared on &lt;a href=&#34;https://www.linkedin.com/pulse/candidate-sourcing-screening-hiring-manager-tapan-karecha/&#34;&gt;LinkedIn here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Five Golden Rules for a Great Video Interview</title>
+      <link>https://karecha.com/blog/2022/03/09/five-golden-rules-for-a-great-video-interview/</link>
+      <pubDate>Wed, 09 Mar 2022 08:55:40 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/03/09/five-golden-rules-for-a-great-video-interview/</guid>
+      <description>&lt;p&gt;I joined Bayer Crop Science on 1 April 2020, just after the onset of Covid-19 lock-downs and ever since, our engineering teams are remote. During this phase, some aspects of work changed radically, while some stayed the same. What did not change was our delivery cadence. In some ways, our deliveries improved due to factors that I will discuss some other time. What changed radically is how we interview, hire, and onboard new members to the team, which is now completely virtual.&lt;/p&gt;
+&lt;p&gt;My joining coincided with the beginning of a growth phase for the team, which resulted in some of us spending a considerable amount of time and effort conducting interviews. Every single interview [obviously] was conducted on video conferencing applications (in our case, Microsoft Teams) and in this post I want to share some observations which can help candidates improve the outcome, with the focus on what the interviewer sees on their screen during a video interview.&lt;/p&gt;
+&lt;p&gt;These “rules” matter in certain situations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These hardly matter when you ace an interview, i.e., you did well in the core competencies of the position you are interviewing for, because your interviewer is less likely to notice your surroundings. They will be excited to have found a strong candidate.&lt;/li&gt;
+&lt;li&gt;These also hardly matter when you flunk an interview, i.e., you do poorly on core competencies. In this case, your ambience is not your top concern. You will need to focus on technical preparation to do better next time.&lt;/li&gt;
+&lt;li&gt;But these do matter when you sort of just did ok in an interview, i.e., good enough but not great. It matters because the interviewer needs to tap into non-technical aspects of the interview to reinforce their decision. They will look for signals that can help them predict your performance on the job. For e.g., being organized or attention to detail are traits that improve your performance on the job and you want to make sure your surroundings reflect some of these.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let us dive in:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mind your posture&lt;/strong&gt;: sit upright, with the video camera at about your eye level. This allows you to look straight into the camera, which is the perspective your interviewer will see if they were talking to you in person. This posture is ergonomic, this will allow you to think better, type better (when solving a coding problem), and prevent fatigue as the interview progresses. The opposite of this is to sit on a flat surface such as a bed or the floor, with your laptop placed on the same surface. This setup forces you to slouch over the screen/camera and that creates a perspective for the interviewer which they will never see in a face-to-face interaction. This also conveys that you do not have a work setup that provides a comfortable and a distraction-free environment, thereby raising concerns about your effectiveness as a remote team member. A simple solution is to get a desk and chair. This need not be expensive; just a wooden desk and chair from a local furniture shop will do. Personally, I find a straight back wooden chair surprisingly more ergonomic than a fancy office chair! Just in case you do not have or want a desk, and you prefer sitting on the floor, the least you can do is prop your laptop on a small stool or a box and that will allow you to sit upright, as well as type more comfortably.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mind the background&lt;/strong&gt;: position yourself in the room such that your background is positive, or neutral. Some people like to show off things which reflect their personality, e.g., a bookcase, or a musical instrument or a painting etc. This is a positive background. Neutral backgrounds are a wall or a plain surface. Most modern A/V tools such as Microsoft Teams or Zoom allow you to set an artificial background, so that is also an option. The opposite of this is to have a distracting background, such as open cupboards with unorganized shelves, or clothes drying on a line, or people walking around in the background. These are best avoided to not distract the interviewer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mind the lighting&lt;/strong&gt;: position yourself with the dominant source of light in front of you, i.e., behind the video camera. This ensures that you are clearly visible to the interviewer and is next best to a face-to-face meeting in a well-lit room. What you do not want to do is have poor lighting or have the dominant source of light behind you, both of which makes it difficult for them to see you.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mind the noise&lt;/strong&gt;: minimize avoidable ambient noise. It may not be possible to eliminate noise in a home setup but try to minimize it to the extent possible. Avoid being in a spot where machines or traffic can be heard, or background chatter from friends or family members can be heard. One more thing you can do to improve audio quality: use a headset with a mic, or the earplugs that you got for free with your mobile phone. These improve audio quality a lot and are better than the built-in mic/speakers on a laptop, which do not suppress ambient noise and can also introduce echo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mind the appearance: try to dress appropriately to the role and company culture. A little bit of research will help you pick the right level of formality in clothing. Smile at appropriate moments, at least occasionally – this helps diffuse tension for you and the interviewer (remember, they are human too!) Relax and stay hydrated (keep a bottle of water by your side, just in case). During longer interviews, do not hesitate to take a small break if you need to.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To conclude, you will tilt the scale in your favor (at least in some cases) by being mindful of your setup during an online interview. I wish you all the best!&lt;/p&gt;
+&lt;p&gt;PS: Thank you &lt;a href=&#34;https://www.linkedin.com/in/deepeshpurswani/&#34;&gt;Deepesh&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/surabhi-aswal-0b0007a/&#34;&gt;Surabhi&lt;/a&gt;, and &lt;a href=&#34;https://www.linkedin.com/in/sbasheer/&#34;&gt;Shahin&lt;/a&gt; for reading the draft, providing valuable input, and for pointing out errors. Any remaining errors in this post are mine.&lt;/p&gt;
+&lt;p&gt;PPS: This article first appeared on &lt;a href=&#34;https://www.linkedin.com/pulse/five-golden-rules-great-video-interview-tapan-karecha/&#34;&gt;LinkedIn here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meeting Effectiveness</title>
+      <link>https://karecha.com/blog/2020/11/16/meeting-effectiveness/</link>
+      <pubDate>Mon, 16 Nov 2020 10:52:47 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2020/11/16/meeting-effectiveness/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Meetings, an activity in which executives in organizations spend a great deal of their working days. A simple rule can help: before an issue is discussed, all members of the committee should be asked to write a very brief summary of their position. This procedure makes good use of the value of the diversity of knowledge and opinion in the group. The standard practice of open discussion gives too much weight to the opinions of those who speak early and assertively, causing others to line up behind them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; From the book &lt;a href=&#34;https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow&#34;&gt;Thinking, Fast and Slow&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hawthorne Effect</title>
+      <link>https://karecha.com/blog/2020/09/29/hawthorne-effect/</link>
+      <pubDate>Tue, 29 Sep 2020 20:31:23 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2020/09/29/hawthorne-effect/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Loosely stated, &lt;a href=&#34;https://en.wikipedia.org/wiki/Hawthorne_effect&#34;&gt;Hawthorne Effect&lt;/a&gt; says that people perform better when they&amp;rsquo;re trying something new. Change itself isn&amp;rsquo;t as important as the act of changing. People are charmed by differentness, they like the attention, they are intrigued by novelty. A careful study of the literature of productivity improvement could convince you that all productivity improvements are due to the Hawthorne Effect. To allow this effect to work for you, you have to make nonstandard approaches the rule. Whatever standard there is should be brief and gentle. The total of all standards imposed upon people should be described in no more than ten pages. Be prepared to grant exceptions to even this loose guide.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams&#34;&gt;Peopleware&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Earthling Question</title>
+      <link>https://karecha.com/blog/2020/07/21/an-earthling-question/</link>
+      <pubDate>Tue, 21 Jul 2020 21:54:48 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2020/07/21/an-earthling-question/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Why me?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;That is a very &lt;em&gt;Earthling&lt;/em&gt; question to ask, Mr. Pilgrim. Why &lt;em&gt;you&lt;/em&gt;? Why &lt;em&gt;us&lt;/em&gt; for that matter? Why &lt;em&gt;anything&lt;/em&gt;? Because this moment simply &lt;em&gt;is&lt;/em&gt;.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;From &lt;a href=&#34;https://en.wikipedia.org/wiki/Slaughterhouse-Five&#34;&gt;Slaughterhouse-Five&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trying a run streak</title>
+      <link>https://karecha.com/blog/2020/07/07/trying-a-run-streak/</link>
+      <pubDate>Tue, 07 Jul 2020 19:37:35 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2020/07/07/trying-a-run-streak/</guid>
+      <description>&lt;p&gt;A benefit of doing something every day is that it allows me to discover my limits, that line that I should not cross often. It is possible to push myself when performing an activity once in a while, but cannot do it every day. So, instead of 2 to 3 runs a week, I am trying out running daily (well, almost). Have cut down the daily distance but gradually, a rythm is setting in. Afterall, a run streak is not bad.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Avoiding Offence</title>
+      <link>https://karecha.com/blog/2020/03/10/avoiding-offence/</link>
+      <pubDate>Tue, 10 Mar 2020 11:22:14 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2020/03/10/avoiding-offence/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The cost of a culture in which avoiding offense trumps the liberty to speak is that crybullies control the discourse.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_S._Raymond&#34;&gt;ESR&lt;/a&gt; in &lt;a href=&#34;http://esr.ibiblio.org/?p=8609&#34;&gt;The right to be rude&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oversimplifications</title>
+      <link>https://karecha.com/blog/2020/03/09/oversimplifications/</link>
+      <pubDate>Mon, 09 Mar 2020 16:55:46 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2020/03/09/oversimplifications/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;[&amp;hellip;] this study calls into question two misleading oversimplifications common in the cultures of modern societies: an idealized representation of nature and wishful thinking concerning the outcome of technological development.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Raymond Murphy in &lt;a href=&#34;https://www.goodreads.com/book/show/10108784-leadership-in-disaster&#34;&gt;Leadership in Disaster: Learning for a Future with Global Climate Change&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Priorities</title>
+      <link>https://karecha.com/blog/2019/12/14/priorities/</link>
+      <pubDate>Sat, 14 Dec 2019 20:43:16 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2019/12/14/priorities/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;If we have problems &amp;ndash; with technology, with resourses, &lt;em&gt;with each other&lt;/em&gt; &amp;ndash; we solve them, we get past them, and we&amp;rsquo;re never afraid to ask for help to do that, because what we&amp;rsquo;re creating matters so much more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Don Tillman in &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Rosie_Result&#34;&gt;The Rosie Result&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Zen Of Weight Lifting</title>
+      <link>https://karecha.com/blog/2019/11/27/the-zen-of-weight-lifting/</link>
+      <pubDate>Wed, 27 Nov 2019 17:40:27 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2019/11/27/the-zen-of-weight-lifting/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;[T]o advance beyond the low-hanging fruit in any meaningful discipline &amp;ndash; from weight lifting, to writing, to meditation, to marriage &amp;ndash; you must get comfortable spending time there. Weight lifting shoves this reality in your face since progress, or in this case, lack thereof, is so objective. Yes, you can make tweaks, some of which will prove beneficial. But none of that matters if you don’t keep showing up and pounding the stone.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; From &lt;a href=&#34;https://www.nytimes.com/2019/11/22/well/move/the-zen-of-weight-lifting.html&#34;&gt;The Zen Of Weight Lifting&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In Praise of Idleness</title>
+      <link>https://karecha.com/blog/2019/11/17/in-praise-of-idleness/</link>
+      <pubDate>Sun, 17 Nov 2019 09:15:54 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2019/11/17/in-praise-of-idleness/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I want to say, in all seriousness, that a great deal of harm is being done in the modern world by the belief in the virtuousness of work, and that the road to happiness and prosperity lies in an organized diminution of work.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Bertrand Russell, in the essay: &lt;a href=&#34;https://harpers.org/archive/1932/10/in-praise-of-idleness/&#34;&gt;In Praise of Idleness&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Glendullan</title>
+      <link>https://karecha.com/blog/2019/11/06/glendullan/</link>
+      <pubDate>Wed, 06 Nov 2019 23:53:02 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2019/11/06/glendullan/</guid>
+      <description>&lt;p&gt;Oh, the pleasure of pouring Glendullan (the Singleton Single Malt
+Scotch Whisky) into the sink.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Busyness vs Business in eCommerce</title>
+      <link>https://karecha.com/blog/2019/11/05/busyness-vs-business-in-ecommerce/</link>
+      <pubDate>Tue, 05 Nov 2019 09:07:50 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2019/11/05/busyness-vs-business-in-ecommerce/</guid>
+      <description>&lt;p&gt;When an eCommerce company is doing well, the team is fully engaged &amp;ndash; doing exciting things.  The energy at the workplace is palpable, and most people on the team are upbeat about the future: some about the future of the business, others about the future of their own career, and some about both.  There is a sense of purpose, and a sense of certainity about making progress in the right direction.&lt;/p&gt;
+&lt;p&gt;While high morale is pervasive, something can throw a spanner in the wheels, for e.g. funds drying up, an acquisition/merger, change in senior leadership.  People start to panic and attrition ensues.  The team starts to shrink, morale dips, and people are no longer certain about the future of business, or their own future at this company.&lt;/p&gt;
+&lt;p&gt;But the show must go on, and hence the business keeps chugging along, irrespective of the fact that some of the key people in the team are now gone.  What keeps the business going in this case?  The systems and processes that were built in the heyday.  As things calm down, now there are fewer projects, and software engineers get time to fix lingering bugs.&lt;/p&gt;
+&lt;p&gt;With all the fixes and small improvements that get prioritized now, customers have better experience and they are more likely to return.  Also, because the loud ones are gone (usually they are the first to abandon ship when things change), there are fewer changes in the service, which leads to fewer changes that customers have to deal with, and customer loyalty improves.  This is not acknowledged enough but as long as a service is reliable (both software and operations), user experience is not as big of a deal as it is made out to be.  Customers learn how to use your service and they learn small hacks and work arounds for minor UX issues.  What they do not like is constant change.&lt;/p&gt;
+&lt;p&gt;In conclusion, what if companies always operated in this way?  Instead of moving at break neck speed to add new features and functionality, go slow on this aspect but focus more on improving the reliability of your software and operations so that the customer can keep coming back because they know how to use your service.  Prioritize business over busyness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One on ones (howto)</title>
+      <link>https://karecha.com/blog/2016/12/20/one-on-ones-howto/</link>
+      <pubDate>Tue, 20 Dec 2016 11:37:16 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2016/12/20/one-on-ones-howto/</guid>
+      <description>&lt;p&gt;Andy Grove explains how to have effective 1x1s in his classic
+management book &lt;a href=&#34;https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884&#34;&gt;High Output Management&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Block regular time; tune frequency for individual&lt;/li&gt;
+&lt;li&gt;Show up on time; don’t cancel at the last minute&lt;/li&gt;
+&lt;li&gt;Prepare discussion points; ask him/her to do the same&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Remember:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be flexible; some structure but not too much&lt;/li&gt;
+&lt;li&gt;Do some &amp;ldquo;loose timeboxing&amp;rdquo;; ensure time to cover most pressing points&lt;/li&gt;
+&lt;li&gt;Set expectations around what is most important; create an incentive to focus&lt;/li&gt;
+&lt;li&gt;Be fully present; shift gears and get out of autopilot&lt;/li&gt;
+&lt;li&gt;Make a difference in the life of this person; devote full attention&lt;/li&gt;
+&lt;li&gt;Strike a balance between asking questions and listening; consider it a precious moment of connection&lt;/li&gt;
+&lt;li&gt;If the conversation diverges, get it back on track&lt;/li&gt;
+&lt;li&gt;Give them time and space to think about what they want to express&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Meet:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Start positive by sharing a win&lt;/li&gt;
+&lt;li&gt;Ask direct but open-ended questions about goals&lt;/li&gt;
+&lt;li&gt;Ask questions about career plans; do not neglect the personal&lt;/li&gt;
+&lt;li&gt;Ask strategic questions (e.g. are we focused on the right things?)&lt;/li&gt;
+&lt;li&gt;End with a note of appreciation and gratitude; words of affirmation mean a lot&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
