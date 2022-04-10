@@ -77,6 +77,12 @@ post = "/blog/:year/:month/:day/:title/"
 	# This is not needed unless alphabetical sort is needed
 	# sortTaxonomyAlphabetical = true
 
+	rssLimit = 20
+	languageCode = "en-us"
+
+[author]
+	name = "Tapan Karecha"
+	email = "tapan@karecha.com"
 
 # Blackfriday is Hugo's markdown engine. Options are at: https://gohugo.io/overview/configuration/ (scroll down to "Configure Blackfriday rendering")
 [blackfriday]
