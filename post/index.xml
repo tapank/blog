@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Mar 2022 18:31:06 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 10:05:02 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harvard&#39;s CS50P 2022</title>
+      <link>https://karecha.com/blog/2022/04/03/harvards-cs50p-2022/</link>
+      <pubDate>Sun, 03 Apr 2022 10:05:02 +0530</pubDate>
+      
+      <guid>https://karecha.com/blog/2022/04/03/harvards-cs50p-2022/</guid>
+      <description>Harvard&amp;rsquo;s popular CS50 and related courses (CS50X, CS50G, etc.) are a gift to the world (they are all free!) which we do not appreciate enough. One of these courses starts soon and is called CS50P &amp;ndash; CS50&amp;rsquo;s Introduction to Programming with Python. The course is relevant if you belong to one of the following categories:
+ A nonprogrammer who wants to learn to program (not necessarily as a career choice but just to improve your effectiveness in your current job, or as a hobby) A programmer who wants to learn Python (it is the most popular language in the industry today!</description>
+    </item>
+    
     <item>
       <title>Effective Team Communication in Software Development</title>
       <link>https://karecha.com/blog/2022/03/26/effective-team-communication-in-software-development/</link>
