@@ -8,7 +8,20 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Sat, 09 Apr 2022 11:19:37 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 08:55:45 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Follow Your Interests</title>
+      <link>https://karecha.com/blog/2022/04/11/follow-your-interests/</link>
+      <pubDate>Mon, 11 Apr 2022 08:55:45 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/04/11/follow-your-interests/</guid>
+      <description>&lt;p&gt;Are you following your own unique interests?&lt;/p&gt;
+&lt;p&gt;A career in software development is more varied and diverse than you would think. If a particular job title or working at a particular company drives you, it is possible that it is triggering your ego. Say, you love your job and you like your current role. But a colleague or a buddy from college is doing much better. They either have a better job title or a better salary, or they just landed a job at a nice company (Google, Amazon, Facebook, or such), or for heaven&amp;rsquo;s sake, they just relocated to a nice place in Europe or the USA. Best of all, they perhaps did all of the above in one shot! This can be unsettling, right? Well&amp;hellip;&lt;/p&gt;
+&lt;p&gt;If you are thinking only of the perks and not about your craft, you are thinking short-term. Ask anybody who has been in the industry long enough to have lived through booms and busts, and they will tell you that job satisfaction and contentment come from loving your craft.&lt;/p&gt;
+&lt;p&gt;Love what you do. Do what you love.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Stripe Business Update</title>
       <link>https://karecha.com/blog/2022/04/09/stripe-business-update/</link>
@@ -360,42 +373,6 @@ Scotch Whisky) into the sink.&lt;/p&gt;
 &lt;p&gt;But the show must go on, and hence the business keeps chugging along, irrespective of the fact that some of the key people in the team are now gone.  What keeps the business going in this case?  The systems and processes that were built in the heyday.  As things calm down, now there are fewer projects, and software engineers get time to fix lingering bugs.&lt;/p&gt;
 &lt;p&gt;With all the fixes and small improvements that get prioritized now, customers have better experience and they are more likely to return.  Also, because the loud ones are gone (usually they are the first to abandon ship when things change), there are fewer changes in the service, which leads to fewer changes that customers have to deal with, and customer loyalty improves.  This is not acknowledged enough but as long as a service is reliable (both software and operations), user experience is not as big of a deal as it is made out to be.  Customers learn how to use your service and they learn small hacks and work arounds for minor UX issues.  What they do not like is constant change.&lt;/p&gt;
 &lt;p&gt;In conclusion, what if companies always operated in this way?  Instead of moving at break neck speed to add new features and functionality, go slow on this aspect but focus more on improving the reliability of your software and operations so that the customer can keep coming back because they know how to use your service.  Prioritize business over busyness.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>One on ones (howto)</title>
-      <link>https://karecha.com/blog/2016/12/20/one-on-ones-howto/</link>
-      <pubDate>Tue, 20 Dec 2016 11:37:16 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2016/12/20/one-on-ones-howto/</guid>
-      <description>&lt;p&gt;Andy Grove explains how to have effective 1x1s in his classic
-management book &lt;a href=&#34;https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884&#34;&gt;High Output Management&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Block regular time; tune frequency for individual&lt;/li&gt;
-&lt;li&gt;Show up on time; don’t cancel at the last minute&lt;/li&gt;
-&lt;li&gt;Prepare discussion points; ask him/her to do the same&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Remember:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Be flexible; some structure but not too much&lt;/li&gt;
-&lt;li&gt;Do some &amp;ldquo;loose timeboxing&amp;rdquo;; ensure time to cover most pressing points&lt;/li&gt;
-&lt;li&gt;Set expectations around what is most important; create an incentive to focus&lt;/li&gt;
-&lt;li&gt;Be fully present; shift gears and get out of autopilot&lt;/li&gt;
-&lt;li&gt;Make a difference in the life of this person; devote full attention&lt;/li&gt;
-&lt;li&gt;Strike a balance between asking questions and listening; consider it a precious moment of connection&lt;/li&gt;
-&lt;li&gt;If the conversation diverges, get it back on track&lt;/li&gt;
-&lt;li&gt;Give them time and space to think about what they want to express&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Meet:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Start positive by sharing a win&lt;/li&gt;
-&lt;li&gt;Ask direct but open-ended questions about goals&lt;/li&gt;
-&lt;li&gt;Ask questions about career plans; do not neglect the personal&lt;/li&gt;
-&lt;li&gt;Ask strategic questions (e.g. are we focused on the right things?)&lt;/li&gt;
-&lt;li&gt;End with a note of appreciation and gratitude; words of affirmation mean a lot&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
