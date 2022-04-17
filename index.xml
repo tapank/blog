@@ -8,7 +8,26 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Mon, 11 Apr 2022 08:55:45 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 10:40:37 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Letter to Shareholders 2021</title>
+      <link>https://karecha.com/blog/2022/04/15/amazon-letter-to-shareholders-2021/</link>
+      <pubDate>Fri, 15 Apr 2022 10:40:37 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/04/15/amazon-letter-to-shareholders-2021/</guid>
+      <description>&lt;p&gt;Amazon&amp;rsquo;s new CEO Andy Jassy&amp;rsquo;s &lt;a href=&#34;https://www.aboutamazon.com/news/company-news/2021-letter-to-shareholders&#34;&gt;2021 letter to the shareholders&lt;/a&gt; just came out and is packed with information about Amazon&amp;rsquo;s successes as well as the challenges they faced last year. What I found interesting is buried deep &amp;ndash; components that are helping Amazon succeed. Here is the condensed list (read the letter for details):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hire the Right Builders (&amp;ldquo;people who like to invent, who look at customer experiences, dissect what doesn&amp;rsquo;t work well about them, and seek to reinvent them&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Organize Builders into Teams That Are as Separable and Autonomous as Possible (&amp;ldquo;single-threaded teams will know their customers&amp;rsquo; needs better&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Give Teams the Right Tools and Permission to Move Fast&lt;/li&gt;
+&lt;li&gt;You Need Blind Faith, But No False Hope (&amp;ldquo;feedback loops&amp;rdquo; and &amp;ldquo;product development process of working backwards from the customer&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Define a Minimum Loveable Product (MLP), and Be Willing to Iterate Fast (&amp;ldquo;figuring out where to draw the line for launch&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Adopt a Long-term Orientation (&amp;ldquo;you have to be in it for the long-haul or you&amp;rsquo;ll give up too quickly&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Brace Yourself for Failure (&amp;ldquo;if you invent a lot, you will fail more often than you wish&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>Follow Your Interests</title>
       <link>https://karecha.com/blog/2022/04/11/follow-your-interests/</link>
@@ -359,20 +378,6 @@
       <guid>https://karecha.com/blog/2019/11/06/glendullan/</guid>
       <description>&lt;p&gt;Oh, the pleasure of pouring Glendullan (the Singleton Single Malt
 Scotch Whisky) into the sink.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Busyness vs Business in eCommerce</title>
-      <link>https://karecha.com/blog/2019/11/05/busyness-vs-business-in-ecommerce/</link>
-      <pubDate>Tue, 05 Nov 2019 09:07:50 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2019/11/05/busyness-vs-business-in-ecommerce/</guid>
-      <description>&lt;p&gt;When an eCommerce company is doing well, the team is fully engaged &amp;ndash; doing exciting things.  The energy at the workplace is palpable, and most people on the team are upbeat about the future: some about the future of the business, others about the future of their own career, and some about both.  There is a sense of purpose, and a sense of certainity about making progress in the right direction.&lt;/p&gt;
-&lt;p&gt;While high morale is pervasive, something can throw a spanner in the wheels, for e.g. funds drying up, an acquisition/merger, change in senior leadership.  People start to panic and attrition ensues.  The team starts to shrink, morale dips, and people are no longer certain about the future of business, or their own future at this company.&lt;/p&gt;
-&lt;p&gt;But the show must go on, and hence the business keeps chugging along, irrespective of the fact that some of the key people in the team are now gone.  What keeps the business going in this case?  The systems and processes that were built in the heyday.  As things calm down, now there are fewer projects, and software engineers get time to fix lingering bugs.&lt;/p&gt;
-&lt;p&gt;With all the fixes and small improvements that get prioritized now, customers have better experience and they are more likely to return.  Also, because the loud ones are gone (usually they are the first to abandon ship when things change), there are fewer changes in the service, which leads to fewer changes that customers have to deal with, and customer loyalty improves.  This is not acknowledged enough but as long as a service is reliable (both software and operations), user experience is not as big of a deal as it is made out to be.  Customers learn how to use your service and they learn small hacks and work arounds for minor UX issues.  What they do not like is constant change.&lt;/p&gt;
-&lt;p&gt;In conclusion, what if companies always operated in this way?  Instead of moving at break neck speed to add new features and functionality, go slow on this aspect but focus more on improving the reliability of your software and operations so that the customer can keep coming back because they know how to use your service.  Prioritize business over busyness.&lt;/p&gt;
 </description>
     </item>
     
