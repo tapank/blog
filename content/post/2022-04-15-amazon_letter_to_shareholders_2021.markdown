@@ -1,5 +1,5 @@
 ---
-title: "Amazon Letter to Shareholders 2021"
+title: "Amazon 2021 Letter to the Shareholders"
 date: 2022-04-15T10:40:37+05:30
 draft: false
 ---
