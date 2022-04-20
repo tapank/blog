@@ -1,0 +1,17 @@
+---
+title: "Three Good Links: 20 April 2022"
+date: 2022-04-20T12:06:02+05:30
+draft: false
+---
+
+Crypto, Linux commands, and FoundationDB.
+
+1. [Crypto Canon][1]: A list of crypto readings and resources organized from building blocks and basics, foundations & history, and key concepts -- followed by specific topics such as governance, privacy and security, scaling, decentralized exchanges, non-fungible tokens, and more.
+
+2. [The 50 Most Popular Linux Commands][2]: In this youtube video (duration: 5 hours), learn the 50 most popular Linux commands from Colt Steele. All these commands work on Linux, macOS, WSL, and anywhere you have a UNIX environment.
+
+3. [FoundationDB][3]: ACM paper [pdf] on FoundationDB, an open-source transactional key-value store, which adopts an unbundled architecture that decouples an in-memory transaction management system, a distributed storage system, and a built-in distributed configuration system.
+
+[1]: https://a16z.com/2018/02/10/crypto-readings-resources/
+[2]: https://www.youtube.com/watch?v=ZtqBQ68cfJc
+[3]: https://www.foundationdb.org/files/fdb-paper.pdf
