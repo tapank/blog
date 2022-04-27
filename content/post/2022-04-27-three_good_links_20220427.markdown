@@ -1,0 +1,18 @@
+---
+title: "Three Good Links: 27 April 2022"
+date: 2022-04-27T11:10:40+05:30
+draft: false
+---
+
+A free online book for software engineers, an introduction to generics in Go by the core team members, and a guide to OAuth.
+
+1. [The Self-Improving Developer][1]: After reading this book, you’ll have a good overview of the things that a good Software Engineer encounters in about the first 10 years of experience. The focus is on breadth over depth.
+
+2. [An Introduction To Generics in Go][2]: The Go 1.18 release adds support for generics. Generics are the biggest change to Go since the first open-source release. Robert Griesemer and Ian Lance Taylor introduce the topic.
+
+3. [The Modern Guide to OAuth][3]: This guide covers all of the ways that we actually use OAuth. It also covers all of the details you need to be an OAuth expert without reading all the specifications or writing your own OAuth server.
+
+[1]: https://selfimproving.dev/contents.html
+[2]: https://go.dev/blog/intro-generics
+[3]: https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth
+
