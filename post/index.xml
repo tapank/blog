@@ -8,7 +8,18 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 20 Apr 2022 12:06:02 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 11:10:40 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 27 April 2022</title>
+      <link>https://karecha.com/blog/2022/04/27/three-good-links-27-april-2022/</link>
+      <pubDate>Wed, 27 Apr 2022 11:10:40 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/04/27/three-good-links-27-april-2022/</guid>
+      <description>A free online book for software engineers, an introduction to generics in Go by the core team members, and a guide to OAuth.
+  The Self-Improving Developer: After reading this book, you’ll have a good overview of the things that a good Software Engineer encounters in about the first 10 years of experience. The focus is on breadth over depth.
+  An Introduction To Generics in Go: The Go 1.</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 20 April 2022</title>
       <link>https://karecha.com/blog/2022/04/20/three-good-links-20-april-2022/</link>

@@ -8,7 +8,28 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 20 Apr 2022 12:06:02 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 11:10:40 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 27 April 2022</title>
+      <link>https://karecha.com/blog/2022/04/27/three-good-links-27-april-2022/</link>
+      <pubDate>Wed, 27 Apr 2022 11:10:40 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/04/27/three-good-links-27-april-2022/</guid>
+      <description>&lt;p&gt;A free online book for software engineers, an introduction to generics in Go by the core team members, and a guide to OAuth.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://selfimproving.dev/contents.html&#34;&gt;The Self-Improving Developer&lt;/a&gt;: After reading this book, you’ll have a good overview of the things that a good Software Engineer encounters in about the first 10 years of experience. The focus is on breadth over depth.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://go.dev/blog/intro-generics&#34;&gt;An Introduction To Generics in Go&lt;/a&gt;: The Go 1.18 release adds support for generics. Generics are the biggest change to Go since the first open-source release. Robert Griesemer and Ian Lance Taylor introduce the topic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth&#34;&gt;The Modern Guide to OAuth&lt;/a&gt;: This guide covers all of the ways that we actually use OAuth. It also covers all of the details you need to be an OAuth expert without reading all the specifications or writing your own OAuth server.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 20 April 2022</title>
       <link>https://karecha.com/blog/2022/04/20/three-good-links-20-april-2022/</link>
@@ -375,19 +396,6 @@
 &lt;p&gt;[T]o advance beyond the low-hanging fruit in any meaningful discipline &amp;ndash; from weight lifting, to writing, to meditation, to marriage &amp;ndash; you must get comfortable spending time there. Weight lifting shoves this reality in your face since progress, or in this case, lack thereof, is so objective. Yes, you can make tweaks, some of which will prove beneficial. But none of that matters if you don’t keep showing up and pounding the stone.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&amp;ndash; From &lt;a href=&#34;https://www.nytimes.com/2019/11/22/well/move/the-zen-of-weight-lifting.html&#34;&gt;The Zen Of Weight Lifting&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>In Praise of Idleness</title>
-      <link>https://karecha.com/blog/2019/11/17/in-praise-of-idleness/</link>
-      <pubDate>Sun, 17 Nov 2019 09:15:54 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2019/11/17/in-praise-of-idleness/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;I want to say, in all seriousness, that a great deal of harm is being done in the modern world by the belief in the virtuousness of work, and that the road to happiness and prosperity lies in an organized diminution of work.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;ndash; Bertrand Russell, in the essay: &lt;a href=&#34;https://harpers.org/archive/1932/10/in-praise-of-idleness/&#34;&gt;In Praise of Idleness&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
