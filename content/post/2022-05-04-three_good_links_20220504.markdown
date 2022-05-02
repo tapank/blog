@@ -4,13 +4,13 @@ date: 2022-05-04T12:00:00+05:30
 draft: false
 ---
 
-Advice for programmers contemplating a startup, practicing with code katas, and the latest edition of Techonology Radar.
+Advice for programmers contemplating a startup, practicing with code katas, and the latest edition of Thoughtworks Technology Radar.
 
 1. [Letter To A Young Programmer Considering A Startup][1]: The author regularly gets emails from young people, usually those with an interest in programming, who are trying to make decisions about school and/or their professional futures. This post is for those young people.
 
 2. [Performing Code Katas][2]: Software developers use katas to build muscle memory, practice logical thought and teach themselves familiar ideas but from a different perspective. Katas can stretch our abilities, teach us to become comfortable with the uncomfortable, and help us write code we may not normally write.
 
-3. [Technology Radar, Vol 26 (pdf)][3]: Technology Radar is created by The Thoughworks Technology Advisory Board, a group of senior technology leaders at Thoughtworks. It rates techniques, tools, platforms, and languages & frameworks; and captures it in a format that provides value to a wide range of stakeholders, from developers to CTOs.
+3. [Technology Radar, Vol 26 (pdf)][3]: Technology Radar is created by The Thoughtworks Technology Advisory Board, a group of senior technology leaders at Thoughtworks. It rates techniques, tools, platforms, and languages & frameworks; and captures it in a format that provides value to a wide range of stakeholders, from developers to CTOs.
 
 [1]: https://www.al3x.net/blog/2013/05/23/letter-to-a-young-programmer-considering-a-startup 
 [2]: https://8thlight.com/blog/micah-martin/2013/05/28/performing-code-katas.html
