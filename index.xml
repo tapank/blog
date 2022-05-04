@@ -8,7 +8,28 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 27 Apr 2022 11:10:40 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 12:00:00 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 04 May 2022</title>
+      <link>https://karecha.com/blog/2022/05/04/three-good-links-04-may-2022/</link>
+      <pubDate>Wed, 04 May 2022 12:00:00 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/05/04/three-good-links-04-may-2022/</guid>
+      <description>&lt;p&gt;Advice for programmers contemplating a startup, practicing with code katas, and the latest edition of Thoughtworks Technology Radar.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.al3x.net/blog/2013/05/23/letter-to-a-young-programmer-considering-a-startup&#34;&gt;Letter To A Young Programmer Considering A Startup&lt;/a&gt;: The author regularly gets emails from young people, usually those with an interest in programming, who are trying to make decisions about school and/or their professional futures. This post is for those young people.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://8thlight.com/blog/micah-martin/2013/05/28/performing-code-katas.html&#34;&gt;Performing Code Katas&lt;/a&gt;: Software developers use katas to build muscle memory, practice logical thought and teach themselves familiar ideas but from a different perspective. Katas can stretch our abilities, teach us to become comfortable with the uncomfortable, and help us write code we may not normally write.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2022/03/tr_technology_radar_vol_26_en.pdf&#34;&gt;Technology Radar, Vol 26 (pdf)&lt;/a&gt;: Technology Radar is created by The Thoughtworks Technology Advisory Board, a group of senior technology leaders at Thoughtworks. It rates techniques, tools, platforms, and languages &amp;amp; frameworks; and captures it in a format that provides value to a wide range of stakeholders, from developers to CTOs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 27 April 2022</title>
       <link>https://karecha.com/blog/2022/04/27/three-good-links-27-april-2022/</link>
@@ -383,19 +404,6 @@
 &lt;p&gt;If we have problems &amp;ndash; with technology, with resourses, &lt;em&gt;with each other&lt;/em&gt; &amp;ndash; we solve them, we get past them, and we&amp;rsquo;re never afraid to ask for help to do that, because what we&amp;rsquo;re creating matters so much more.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&amp;ndash; Don Tillman in &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Rosie_Result&#34;&gt;The Rosie Result&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Zen Of Weight Lifting</title>
-      <link>https://karecha.com/blog/2019/11/27/the-zen-of-weight-lifting/</link>
-      <pubDate>Wed, 27 Nov 2019 17:40:27 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2019/11/27/the-zen-of-weight-lifting/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;[T]o advance beyond the low-hanging fruit in any meaningful discipline &amp;ndash; from weight lifting, to writing, to meditation, to marriage &amp;ndash; you must get comfortable spending time there. Weight lifting shoves this reality in your face since progress, or in this case, lack thereof, is so objective. Yes, you can make tweaks, some of which will prove beneficial. But none of that matters if you don’t keep showing up and pounding the stone.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;ndash; From &lt;a href=&#34;https://www.nytimes.com/2019/11/22/well/move/the-zen-of-weight-lifting.html&#34;&gt;The Zen Of Weight Lifting&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
