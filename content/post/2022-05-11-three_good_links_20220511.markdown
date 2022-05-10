@@ -1,0 +1,18 @@
+---
+title: "Three Good Links: 11 May 2022"
+date: 2022-05-11T10:35:52+05:30
+draft: false
+---
+
+An online book for software development managers; founders discuss the suitability of the Go programming language to build startups; and how to read an RFC.
+
+1. [The Manager's Handbook][1]: This online book by Alex MacCaw of Clearbit represents the company's collective knowledge of management. It was written as part of the internal management training program and is now published for anyone who may find it useful.
+
+2. [Building startups with Go][2]: Is the Go programming language a good choice for startups? In this episode of Go Time podcast, the host talks to four startup founders to learn about their experience building a startup with Go.
+
+3. [How to Read an RFC][3]: Requests for Comments (RFCs) are how protocols are specified on the Internet. This post provides some insight into how they're constructed and published, and makes it a bit easier to understand what you're looking at.
+
+[1]: https://themanagershandbook.com/ 
+[2]: https://changelog.com/gotime/177
+[3]: https://www.ietf.org/blog/how-read-rfc/
+
