@@ -8,7 +8,18 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 04 May 2022 12:00:00 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 10:35:52 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 11 May 2022</title>
+      <link>https://karecha.com/blog/2022/05/11/three-good-links-11-may-2022/</link>
+      <pubDate>Wed, 11 May 2022 10:35:52 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/05/11/three-good-links-11-may-2022/</guid>
+      <description>An online book for software development managers; founders discuss the suitability of the Go programming language to build startups; and how to read an RFC.
+  The Manager&amp;rsquo;s Handbook: This online book by Alex MacCaw of Clearbit represents the company&amp;rsquo;s collective knowledge of management. It was written as part of the internal management training program and is now published for anyone who may find it useful.
+  Building startups with Go: Is the Go programming language a good choice for startups?</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 04 May 2022</title>
       <link>https://karecha.com/blog/2022/05/04/three-good-links-04-may-2022/</link>
