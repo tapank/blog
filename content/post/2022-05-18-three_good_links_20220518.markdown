@@ -1,0 +1,18 @@
+---
+title: "Three Good Links: 18 May 2022"
+date: 2022-05-18T08:00:24+05:30
+draft: false
+---
+
+A Software Engineering book; JavaScript screencasts; and a Git book.
+
+1. [Software Engineering at Google (pdf)][1]: The "SWE Book" is not about programming, per se, but about the engineering practices utilized at Google to make their codebase sustainable and healthy. Abseil has made it available for free but it can also be purchased online from the usual stores.
+
+2. [The JavaScript Screencast for Professionals][2]: Let's Code JavaScript is a screencast about automation, test-driven development, refactoring, and much more! Launched ten years ago, it now has over 150 hours of content across more than 600 videos, and has been available to subscribers. Now James Shore, the author, has made it free for all.
+
+3. [Git from the Bottom Up][3]: Even for daily users of Git, many of its capabilities are too complex to understand. This online book will help to advance your understanding of this powerful content tracking system, and reveal a bit of the simplicity underlying it -- however dizzying its array of options may seem from the outside.
+
+[1]: https://abseil.io/resources/swe-book
+[2]: https://www.letscodejavascript.com/
+[3]: https://jwiegley.github.io/git-from-the-bottom-up/
+
