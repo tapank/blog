@@ -6,7 +6,7 @@ draft: false
 
 A Software Engineering book; JavaScript screencasts; and a Git book.
 
-1. [Software Engineering at Google (pdf)][1]: The "SWE Book" is not about programming, per se, but about the engineering practices utilized at Google to make their codebase sustainable and healthy. Abseil has made it available for free but it can also be purchased online from the usual stores.
+1. [Software Engineering at Google][1]: The "SWE Book" is not about programming, per se, but about the engineering practices utilized at Google to make their codebase sustainable and healthy. Abseil has made it available for free but it can also be purchased online from the usual stores.
 
 2. [The JavaScript Screencast for Professionals][2]: Let's Code JavaScript is a screencast about automation, test-driven development, refactoring, and much more! Launched ten years ago, it now has over 150 hours of content across more than 600 videos, and has been available to subscribers. Now James Shore, the author, has made it free for all.
 
