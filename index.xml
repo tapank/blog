@@ -8,7 +8,28 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 11 May 2022 10:35:52 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 07:00:24 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 18 May 2022</title>
+      <link>https://karecha.com/blog/2022/05/18/three-good-links-18-may-2022/</link>
+      <pubDate>Wed, 18 May 2022 07:00:24 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/05/18/three-good-links-18-may-2022/</guid>
+      <description>&lt;p&gt;A Software Engineering book; JavaScript screencasts; and a Git book.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://abseil.io/resources/swe-book&#34;&gt;Software Engineering at Google (pdf)&lt;/a&gt;: The &amp;ldquo;SWE Book&amp;rdquo; is not about programming, per se, but about the engineering practices utilized at Google to make their codebase sustainable and healthy. Abseil has made it available for free but it can also be purchased online from the usual stores.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.letscodejavascript.com/&#34;&gt;The JavaScript Screencast for Professionals&lt;/a&gt;: Let&amp;rsquo;s Code JavaScript is a screencast about automation, test-driven development, refactoring, and much more! Launched ten years ago, it now has over 150 hours of content across more than 600 videos, and has been available to subscribers. Now James Shore, the author, has made it free for all.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jwiegley.github.io/git-from-the-bottom-up/&#34;&gt;Git from the Bottom Up&lt;/a&gt;: Even for daily users of Git, many of its capabilities are too complex to understand. This online book will help to advance your understanding of this powerful content tracking system, and reveal a bit of the simplicity underlying it &amp;ndash; however dizzying its array of options may seem from the outside.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 11 May 2022</title>
       <link>https://karecha.com/blog/2022/05/11/three-good-links-11-may-2022/</link>
@@ -399,19 +420,6 @@
 &lt;p&gt;The cost of a culture in which avoiding offense trumps the liberty to speak is that crybullies control the discourse.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&amp;ndash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_S._Raymond&#34;&gt;ESR&lt;/a&gt; in &lt;a href=&#34;http://esr.ibiblio.org/?p=8609&#34;&gt;The right to be rude&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oversimplifications</title>
-      <link>https://karecha.com/blog/2020/03/09/oversimplifications/</link>
-      <pubDate>Mon, 09 Mar 2020 16:55:46 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2020/03/09/oversimplifications/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;[&amp;hellip;] this study calls into question two misleading oversimplifications common in the cultures of modern societies: an idealized representation of nature and wishful thinking concerning the outcome of technological development.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;ndash; Raymond Murphy in &lt;a href=&#34;https://www.goodreads.com/book/show/10108784-leadership-in-disaster&#34;&gt;Leadership in Disaster: Learning for a Future with Global Climate Change&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
