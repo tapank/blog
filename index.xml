@@ -8,7 +8,28 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 18 May 2022 07:00:24 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 12:07:26 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 25 May 2022</title>
+      <link>https://karecha.com/blog/2022/05/25/three-good-links-25-may-2022/</link>
+      <pubDate>Wed, 25 May 2022 12:07:26 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/05/25/three-good-links-25-may-2022/</guid>
+      <description>&lt;p&gt;Sage advice from Steve McConnell on improving software engineering outcomes; a video introduction to machine learning; and how to build Go backends.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://stevemcconnell.com/articles/cargo-cult-software-engineering/&#34;&gt;Cargo Cult Software Engineering&lt;/a&gt;: In this classic article, Steve McConnell argues that rather than debating process vs. commitment, we should be looking for ways to raise the average level of developer and manager competence to improve outcomes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qpCQUJQvOrs&#34;&gt;A Quick Guide to Machine Learning&lt;/a&gt;: Seth Juarez of Microsoft talks about machine learning in a way that a programmer gets. He also makes us laugh along the way! He says: Artificial Intelligence is what it is called when you are selling it, and Machine Learning is what it is called when you are doing it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://8thlight.com/blog/emmanuel-byrd/2022/05/19/well-thought-project-layout-design-for-a-golang-backend.html&#34;&gt;How To Bootstrap A Quality Golang Backend&lt;/a&gt;: Having the knowledge to build a Golang project from scratch will not only give you more freedom to build your own apps, but will also provide you with a better understanding of why your existing codebases are built that way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 18 May 2022</title>
       <link>https://karecha.com/blog/2022/05/18/three-good-links-18-may-2022/</link>
@@ -407,19 +428,6 @@
       <author>tapan@karecha.com (Tapan Karecha)</author>
       <guid>https://karecha.com/blog/2020/07/07/trying-a-run-streak/</guid>
       <description>&lt;p&gt;A benefit of doing something every day is that it allows me to discover my limits, that line that I should not cross often. It is possible to push myself when performing an activity once in a while, but cannot do it every day. So, instead of 2 to 3 runs a week, I am trying out running daily (well, almost). Have cut down the daily distance but gradually, a rythm is setting in. Afterall, a run streak is not bad.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Avoiding Offence</title>
-      <link>https://karecha.com/blog/2020/03/10/avoiding-offence/</link>
-      <pubDate>Tue, 10 Mar 2020 11:22:14 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2020/03/10/avoiding-offence/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The cost of a culture in which avoiding offense trumps the liberty to speak is that crybullies control the discourse.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;ndash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_S._Raymond&#34;&gt;ESR&lt;/a&gt; in &lt;a href=&#34;http://esr.ibiblio.org/?p=8609&#34;&gt;The right to be rude&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

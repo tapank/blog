@@ -8,7 +8,18 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 18 May 2022 07:00:24 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 12:07:26 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 25 May 2022</title>
+      <link>https://karecha.com/blog/2022/05/25/three-good-links-25-may-2022/</link>
+      <pubDate>Wed, 25 May 2022 12:07:26 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/05/25/three-good-links-25-may-2022/</guid>
+      <description>Sage advice from Steve McConnell on improving software engineering outcomes; a video introduction to machine learning; and how to build Go backends.
+  Cargo Cult Software Engineering: In this classic article, Steve McConnell argues that rather than debating process vs. commitment, we should be looking for ways to raise the average level of developer and manager competence to improve outcomes.
+  A Quick Guide to Machine Learning: Seth Juarez of Microsoft talks about machine learning in a way that a programmer gets.</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 18 May 2022</title>
       <link>https://karecha.com/blog/2022/05/18/three-good-links-18-may-2022/</link>
