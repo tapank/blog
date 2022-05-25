@@ -1,0 +1,18 @@
+---
+title: "Three Good Links: 25 May 2022"
+date: 2022-05-25T12:07:26+05:30
+draft: false
+---
+
+Sage advice from Steve McConnell on improving software engineering outcomes; a video introduction to machine learning; and how to build Go backends.
+
+1. [Cargo Cult Software Engineering][1]: In this classic article, Steve McConnell argues that rather than debating process vs. commitment, we should be looking for ways to raise the average level of developer and manager competence to improve outcomes.
+
+2. [A Quick Guide to Machine Learning][2]: Seth Juarez of Microsoft talks about machine learning in a way that a programmer gets. He also makes us laugh along the way! He says: Artificial Intelligence is what it is called when you are selling it, and Machine Learning is what it is called when you are doing it.
+
+3. [How To Bootstrap A Quality Golang Backend][3]: Having the knowledge to build a Golang project from scratch will not only give you more freedom to build your own apps, but will also provide you with a better understanding of why your existing codebases are built that way.
+
+[1]: https://stevemcconnell.com/articles/cargo-cult-software-engineering/
+[2]: https://www.youtube.com/watch?v=qpCQUJQvOrs
+[3]: https://8thlight.com/blog/emmanuel-byrd/2022/05/19/well-thought-project-layout-design-for-a-golang-backend.html
+
