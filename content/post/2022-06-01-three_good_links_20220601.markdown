@@ -1,0 +1,16 @@
+---
+title: "Three Good Links: 01 June 2022"
+date: 2022-06-01T07:23:56+05:30
+draft: false
+---
+
+1. [Technical debt will sink you][1]: Short-term fixes and partially implemented systems have costs that can weigh on a company for years. This debt can also stifle innovation, resulting in lower long-term revenue.
+
+2. [Android Dynamic Feature Modules][2]: Reddit Tech Blog talks about how they used Android's Dynamic Feature Modules to reduce the Reddit app size after integrating a new feature from an acquisition.
+
+3. [Major Version Numbers are Not Sacred][3]: The author of Semantic Versioning (SemVer) spec is unhappy about our collective hesitance to bump the major version of packages. He attempts to convince us that major version numbers are not sacred.
+
+[1]: https://www.infoworld.com/article/3635708/technical-debt-will-sink-you.html
+[2]: https://www.reddit.com/r/RedditEng/comments/uu3mwj/android_dynamic_feature_modules/
+[3]: https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html
+
