@@ -8,7 +8,18 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Mon, 30 May 2022 09:05:19 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 07:23:56 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 01 June 2022</title>
+      <link>https://karecha.com/blog/2022/06/01/three-good-links-01-june-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 07:23:56 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/06/01/three-good-links-01-june-2022/</guid>
+      <description>Technical debt will sink you: Short-term fixes and partially implemented systems have costs that can weigh on a company for years. This debt can also stifle innovation, resulting in lower long-term revenue.
+  Android Dynamic Feature Modules: Reddit Tech Blog talks about how they used Android&amp;rsquo;s Dynamic Feature Modules to reduce the Reddit app size after integrating a new feature from an acquisition.
+  Major Version Numbers are Not Sacred: The author of Semantic Versioning (SemVer) spec is unhappy about our collective hesitance to bump the major version of packages.</description>
+    </item>
+    
     <item>
       <title>Perks of Remote Work</title>
       <link>https://karecha.com/blog/2022/05/30/perks-of-remote-work/</link>
