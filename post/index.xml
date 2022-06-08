@@ -8,7 +8,17 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 01 Jun 2022 07:23:56 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 09:24:12 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 08 June 2022</title>
+      <link>https://karecha.com/blog/2022/06/08/three-good-links-08-june-2022/</link>
+      <pubDate>Wed, 08 Jun 2022 09:24:12 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/06/08/three-good-links-08-june-2022/</guid>
+      <description>Don&amp;rsquo;t Measure Unit Test Code Coverage: Are you trying to improve the code quality? Learn testing skills, speed up the test loop, refactor more, use evolutionary design, and try pairing or mobbing.
+  The Go Programming Language and Environment: Creators of Go examine the design decisions they believe are most responsible for Go&amp;rsquo;s success, exploring how they apply not just to the language but also to the environment more broadly.</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 01 June 2022</title>
       <link>https://karecha.com/blog/2022/06/01/three-good-links-01-june-2022/</link>
