@@ -1,0 +1,16 @@
+---
+title: "Three Good Links: 08 June 2022"
+date: 2022-06-08T09:24:12+05:30
+draft: false
+---
+
+1. [Don't Measure Unit Test Code Coverage][1]: Are you trying to improve the code quality? Learn testing skills, speed up the test loop, refactor more, use evolutionary design, and try pairing or mobbing.
+
+2. [The Go Programming Language and Environment][2]: Creators of Go examine the design decisions they believe are most responsible for Go's success, exploring how they apply not just to the language but also to the environment more broadly.
+
+3. [Fallacies of Distributed Systems][3]: A set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
+
+[1]: https://www.jamesshore.com/v2/blog/2019/dont-measure-unit-test-code-coverage
+[2]: https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext
+[3]: https://architecturenotes.co/fallacies-of-distributed-systems/
+
