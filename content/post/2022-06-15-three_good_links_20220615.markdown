@@ -1,0 +1,16 @@
+---
+title: "Three Good Links: 15 June 2022"
+date: 2022-06-15T08:15:15+05:30
+draft: false
+---
+
+1. [How Effective Abstractions Are Opinionated][1]: Every software system is built on top of a towering stack of abstractions. Yet we know abstractions are imperfect representations of reality. How does it all work together? How can we make any progress if we can’t fundamentally trust our tools?
+
+2. [Where to use a blockchain in non-financial applications?][2]: Recently, there has been a growing amount of interest in using blockchains for not-just-financial applications. What could be done with a richer ecosystem of soulbound tokens making claims describing various kinds of relationships?
+
+3. [Programming Books][3]: An Ordered and Curated Reading List for Software Craftsmanship Growth.
+
+[1]: https://8thlight.com/blog/abstractions-are-opinionated/
+[2]: https://vitalik.ca/general/2022/06/12/nonfin.html
+[3]: https://www.programmingbooks.dev/
+
