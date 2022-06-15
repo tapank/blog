@@ -8,7 +8,17 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Tue, 14 Jun 2022 12:26:10 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jun 2022 08:15:15 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 15 June 2022</title>
+      <link>https://karecha.com/blog/2022/06/15/three-good-links-15-june-2022/</link>
+      <pubDate>Wed, 15 Jun 2022 08:15:15 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/06/15/three-good-links-15-june-2022/</guid>
+      <description>How Effective Abstractions Are Opinionated: Every software system is built on top of a towering stack of abstractions. Yet we know abstractions are imperfect representations of reality. How does it all work together? How can we make any progress if we can’t fundamentally trust our tools?
+  Where to use a blockchain in non-financial applications?: Recently, there has been a growing amount of interest in using blockchains for not-just-financial applications.</description>
+    </item>
+    
     <item>
       <title>Engineering Managers -- Improve Success In Your New Job</title>
       <link>https://karecha.com/blog/2022/06/14/engineering-managers--improve-success-in-your-new-job/</link>
