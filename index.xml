@@ -8,7 +8,27 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 15 Jun 2022 08:15:15 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 08:48:44 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 22 June 2022</title>
+      <link>https://karecha.com/blog/2022/06/22/three-good-links-22-june-2022/</link>
+      <pubDate>Wed, 22 Jun 2022 08:48:44 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/06/22/three-good-links-22-june-2022/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://lingnik.com/2022/06/07/i-am-an-engineer-again-or-there-and-back-again.html&#34;&gt;I&amp;rsquo;m an Engineer Again&lt;/a&gt;: A story of an engineer who became a manager and then seven years later, decided to stop being a manager. Now he is an engineer again.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://engineering.grab.com/real-time-data-ingestion&#34;&gt;Real-time data ingestion at Grab&lt;/a&gt;: Grab&amp;rsquo;s scalable event-driven solution, facilitated by a bunch of internal products, and designed for real-time ingestion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing&#34;&gt;Making Code Faster&lt;/a&gt;: When you have a body of code with a decent unit-test suite and you need to make it go faster.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 15 June 2022</title>
       <link>https://karecha.com/blog/2022/06/15/three-good-links-15-june-2022/</link>
@@ -406,41 +426,6 @@
 &lt;li&gt;&lt;strong&gt;Senior engineer:&lt;/strong&gt; Take this known problem &amp;amp; figure out how to solve it.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Staff engineer:&lt;/strong&gt; Take this goal &amp;amp; find the problems we should be solving.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Candidate Sourcing and Screening: Hiring Manager as the Gatekeeper</title>
-      <link>https://karecha.com/blog/2022/03/16/candidate-sourcing-and-screening-hiring-manager-as-the-gatekeeper/</link>
-      <pubDate>Wed, 16 Mar 2022 08:56:40 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/03/16/candidate-sourcing-and-screening-hiring-manager-as-the-gatekeeper/</guid>
-      <description>&lt;p&gt;You are a Software Development Manager, responsible for a team of software engineers/developers. Since you are also responsible for hiring talent, we will now address you as a Hiring Manager. Hiring processes vary from company to company and even from team to team within a company. The hiring process in my team looks something like this:&lt;/p&gt;
-&lt;img src=&#34;https://karecha.com/images/hiring_process.png&#34; alt=&#34;Hiring Process ok?&#34; style=&#34;max-height: auto; max-width: 100%;&#34; /&gt;
-&lt;p&gt;Your process may vary, so take this article in the context of the above. Also, we will only discuss sourcing and screening (see Phase 1 above) for software developer roles. If you are hiring for other roles, please tweak accordingly. The stage is set, let us step in.&lt;/p&gt;
-&lt;p&gt;Lately, you are stressed about the &lt;a href=&#34;https://en.wikipedia.org/wiki/Great_Resignation&#34;&gt;Great Resignation&lt;/a&gt; or have already felt the impact on your team. Doing what you can to &lt;a href=&#34;https://blog.devgenius.io/keeping-developers-will-be-the-priority-in-great-developer-resignation-next-stage-9dfcdb6e75a4&#34;&gt;retain talent&lt;/a&gt; should be your priority, but attrition can happen despite your best efforts. You are under pressure to backfill open positions and even to grow your team. It is a challenge for hiring managers to reconcile these conflicting forces:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;You must hire fast.&lt;/strong&gt; You are expected to fill open positions in your team as soon as possible.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Slow down, you must be careful.&lt;/strong&gt; In a rush to fill open positions, you may act in haste, and you will regret the consequences of bad hiring i.e., onboarding people who are not a good fit for the role.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You want to raise the bar but that important project is behind schedule. Hiring great candidates takes time but bad hires will negatively impact the team&amp;rsquo;s effectiveness, which impacts morale, which worsens attrition, which opens more positions to fill, and that only means even more hiring for you. Oh, what a quagmire.&lt;/p&gt;
-&lt;p&gt;Candidate screening involves selecting only those candidates from a pool of applicants, who get interviewed by your hiring team. The goal is to maximize your hiring team&amp;rsquo;s conversion rate (ratio of selected and interviewed candidates) while avoiding losing suitable candidates. Why maximize the conversation rate of hiring team? Because your hiring team constitutes engineers from your own team. They get involved despite project commitments and deadlines. If you do not actively protect their time, you are doing injustice to your colleagues because they are already stretched thin. You will also slow down the hiring team if they waste time interviewing candidates who could have been eliminated by a good screening process. Bottomline &amp;ndash; utilize your hiring team&amp;rsquo;s bandwidth effectively. Sourcing and screening involve three steps, each of which can be enhanced to improve the quality of funnel:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Sourcing and Screening by Recruiter:&lt;/strong&gt; Recruiter gathers resumes of applicants from various sources, including applications for a job posting on your website, professional networks such as LinkedIn, referrals from team members, or from external vendors who are your sourcing partners. Their first task is to select applications from this pool based on skillset, experience, employment history etc. Recruiters often have a brief conversation with eligible candidates to gauge their level of interest and to understand their expectations. Then they share these shortlisted applications with the hiring manager. How do you, the hiring manager, optimize this step? You do this by creating a strong and effective partnership with the recruiter. You must be aligned in terms of what you are looking for in a candidate; as well as attributes that you do not want in a candidate. Periodically, ask the recruiter to describe their screening process, which helps you maintain alignment. This goes beyond the job description and is something that you and the recruiter should continuously tune and optimize for the best outcome.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Resume Screening by Hiring Manager:&lt;/strong&gt; Once you receive the shortlisted resumes from recruiter, examine these carefully and select only those candidates who you think are likely to be selected by your hiring team. Every candidate you select here moves to the coding test round (this is the third step we will talk about shortly), and by making this choice you commit to spending about 30 minutes with them. It took you just 2 to 3 minutes perusing each resume, but after ok&amp;rsquo;ing the resume, your investment in each shortlisted candidate will go up 10x. Now you see why you need to pay attention to the candidates&amp;rsquo; resumes. You do not want to be too lenient in selecting the candidates for the next round because coding tests are time consuming, and your time is scarce! On the other hand, if you are too strict in selecting candidates, you may lose some candidates who could have been good fits. How do you balance this act? I look for resumes that help me visualize the candidate&amp;rsquo;s contributions and impact in their current and past roles. The opposite of this is a resume that only describes projects or products that the candidate worked on but omits their own impact and contributions. Beware of resumes that just list down the trivial and obvious such as: &amp;ldquo;attend daily scrum meetings, participate in planning meetings, implement new features, and fix bugs.&amp;rdquo; Well, everybody does that, and except for filling out the resume, this hardly conveys anything specific about the candidate. (Candidates, take note: talk about your contributions more than your team&amp;rsquo;s contributions; this is your resume, not your team’s.)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Coding Test by Hiring Manager:&lt;/strong&gt; This step is your first interaction with the candidate. In about 30 minutes, you will decide whether it is worth your hiring team’s time to interview this candidate. They will use an online coding interview platform (we use &lt;a href=&#34;https://coderpad.io/&#34;&gt;Coderpad&lt;/a&gt;) to implement a solution that produces expected output. At the end of this round, you will answer a definite &amp;ldquo;yes&amp;rdquo; or &amp;ldquo;no&amp;rdquo; to the question: should the hiring team interview the candidate? Take accountability and do not delegate the decision to someone else by asking them to repeat the test. If you do this, you have wasted your 30 minutes and you are now further committing someone else&amp;rsquo;s time on your team to decide what you should have decided in this round! Also, do not make the mistake of trying to evaluate whether you want to hire the candidate – that is what the hiring team will evaluate in Phase 2. You should only determine the suitability of the candidate to move to next phase. The candidate&amp;rsquo;s time is precious too and must be respected; they will appreciate your decisiveness because they will see that you value their time too. The way I conduct this round is to focus entirely on evaluating their ability to write code, which is a core competency for the role they have applied for. Of course, there are other competencies they will need to possess but lacking the ability to write a working program is a deal breaker. From our experience, candidates who perform well in this round are more likely to succeed in Phase 2. This is how you protect your hiring team&amp;rsquo;s limited bandwidth, and improve the conversion rate by ensuring that your hiring team does not spend time talking to candidates who cannot demonstrate their core competency: can they write code?&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;The key message here is: effective candidate screening is the gate; and you are the gatekeeper. When you allow a candidate through the gate, you should have reason to believe that the candidate stands a chance at getting selected. It takes a little practice to tune your acceptance criteria, but if you pay attention, you will soon find a sweet spot that works for you. As I said before, you do not want to be too strict on this step thereby losing potential strong candidates, nor do you want to be too lenient and end up reducing the conversion rate for your hiring team.&lt;/p&gt;
-&lt;p&gt;Let us look at this “Great Resignation” as an opportunity to do some &amp;ldquo;Great Hiring&amp;rdquo;. Instead of losing sleep over attrition in your team, roll up your sleeves and get ready for hiring. You will continue to raise the bar on your team, and they will appreciate that the team is getting better and stronger. Happy hiring!&lt;/p&gt;
-&lt;p&gt;Thank you &lt;a href=&#34;https://www.linkedin.com/in/deepeshpurswani/&#34;&gt;Deepesh&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/surabhi-aswal-0b0007a/&#34;&gt;Surabhi&lt;/a&gt;, and &lt;a href=&#34;https://www.linkedin.com/in/sbasheer/&#34;&gt;Shahin&lt;/a&gt; for reading the draft, providing valuable input, and for pointing out errors. Any remaining errors in this post are mine.&lt;/p&gt;
-&lt;p&gt;PPS: This article first appeared on &lt;a href=&#34;https://www.linkedin.com/pulse/candidate-sourcing-screening-hiring-manager-tapan-karecha/&#34;&gt;LinkedIn here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
