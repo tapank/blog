@@ -1,0 +1,16 @@
+---
+title: "Three Good Links: 22 June 2022"
+date: 2022-06-22T08:48:44+05:30
+draft: false
+---
+
+1. [I'm an Engineer Again][1]: A story of an engineer who became a manager and then seven years later, decided to stop being a manager. Now he is an engineer again.
+
+2. [Real-time data ingestion at Grab][2]: Grab's scalable event-driven solution, facilitated by a bunch of internal products, and designed for real-time ingestion.  
+
+3. [Making Code Faster][3]: When you have a body of code with a decent unit-test suite and you need to make it go faster.
+
+[1]: https://lingnik.com/2022/06/07/i-am-an-engineer-again-or-there-and-back-again.html
+[2]: https://engineering.grab.com/real-time-data-ingestion
+[3]: https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing
+
