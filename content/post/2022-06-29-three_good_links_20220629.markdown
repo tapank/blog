@@ -1,0 +1,16 @@
+---
+title: "Three Good Links: 29 June 2022"
+date: 2022-06-29T11:10:23+05:30
+draft: false
+---
+
+1. [Questions for our first 1:1][1]: Lara Hogan's advice to Engineering Managers starting a new reporting relationship -- gather this particular data during an initial 1:1.
+
+2. [GraphQL vs REST][2]: Because of its benefits, Walmart Affiliate Team has adopted GraphQL for many applications, instead of using REST. This post compares the two approaches.
+
+3. [How we're using projects to build projects][3]: If your team uses GitHub for hosting code but does not use it for project planning and execution, you may want to reconsider. Check out how GitHub uses projects to build a powerful project planning for developers in a "Eat your own dog food" kind of way. 
+
+[1]: https://larahogan.me/blog/first-one-on-one-questions/
+[2]: https://medium.com/walmartglobaltech/graphql-vs-rest-f067a79c2230 
+[3]: https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/ 
+
