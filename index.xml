@@ -8,7 +8,27 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 22 Jun 2022 08:48:44 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 11:10:23 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 29 June 2022</title>
+      <link>https://karecha.com/blog/2022/06/29/three-good-links-29-june-2022/</link>
+      <pubDate>Wed, 29 Jun 2022 11:10:23 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/06/29/three-good-links-29-june-2022/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://larahogan.me/blog/first-one-on-one-questions/&#34;&gt;Questions for our first 1:1&lt;/a&gt;: Lara Hogan&amp;rsquo;s advice to Engineering Managers starting a new reporting relationship &amp;ndash; gather this particular data during an initial 1:1.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/walmartglobaltech/graphql-vs-rest-f067a79c2230&#34;&gt;GraphQL vs REST&lt;/a&gt;: Because of its benefits, Walmart Affiliate Team has adopted GraphQL for many applications, instead of using REST. This post compares the two approaches.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/&#34;&gt;How we&amp;rsquo;re using projects to build projects&lt;/a&gt;: If your team uses GitHub for hosting code but does not use it for project planning and execution, you may want to reconsider. Check out how GitHub uses projects to build a powerful project planning for developers in a &amp;ldquo;Eat your own dog food&amp;rdquo; kind of way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 22 June 2022</title>
       <link>https://karecha.com/blog/2022/06/22/three-good-links-22-june-2022/</link>
@@ -409,23 +429,6 @@
       <description>&lt;p&gt;Here is an &lt;a href=&#34;https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html&#34;&gt;interesting article on Tech Debt&lt;/a&gt; from Martin Fowler&amp;rsquo;s website. It is a part of a series where the authors discuss how startups get into the bottleneck as growth changes the context for ways of working. I think their arguments hold up even for fast growing products in larger enterprises.&lt;/p&gt;
 &lt;p&gt;The article starts with defining tech debt which goes beyond just code quality issues, and includes coupling, unused or low value features, manual processes, tooling and more. Next, it delves into how to determine that you are approaching the point where it will start to impact growth. Lastly, it discusses strategies to manage tech debt.&lt;/p&gt;
 &lt;p&gt;Many engineering teams are shackled by a self-limiting belief that technical debt is of their own doing. This is further reinforced when they are expected to just figure it out and fix it. If only it was that simple! My biggest takeaway from the article: managing tech debt requires involvement from more than just the engineering teams; the leaders, product, and engineering must join hands for it to work.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Job Levels in Software Engineering</title>
-      <link>https://karecha.com/blog/2022/03/20/job-levels-in-software-engineering/</link>
-      <pubDate>Sun, 20 Mar 2022 10:08:07 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/03/20/job-levels-in-software-engineering/</guid>
-      <description>&lt;p&gt;Engineering managers need a simple definition of responsibilities of software engineers for every job level. They need this for their own understanding when hiring, promoting, and even coaching engineers in their team. This also helps them articulate high level expectations to engineers during goal setting and performance evaluation.&lt;/p&gt;
-&lt;p&gt;I found this definition on Twitter by &lt;a href=&#34;https://lnkd.in/g2-kATad&#34;&gt;Zain Rizvi&lt;/a&gt; as the most concise and comprehensible articulation by far:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Junior engineer:&lt;/strong&gt; Take this tightly defined feature &amp;amp; build it.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mid-level engineer:&lt;/strong&gt; Take this vaguely defined feature &amp;amp; build it.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Senior engineer:&lt;/strong&gt; Take this known problem &amp;amp; figure out how to solve it.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Staff engineer:&lt;/strong&gt; Take this goal &amp;amp; find the problems we should be solving.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
