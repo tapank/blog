@@ -4,7 +4,7 @@ date: 2022-07-06T15:02:15+05:30
 draft: false
 ---
 
-1. [New Manager in a Fully Remote Team][1]: When you join as a new manager in a Fully Remote Team, it's pretty intense in the first few months as you try ways to establish trust and build a strong team together. This post will help you start in a fully remote space and build trust from the ground up.
+1. [New Manager in a Fully Remote Team][1]: When you join as a new manager in a fully remote team, it's pretty intense in the first few months as you try ways to establish trust and build a strong team together. This post will help you start in a fully remote space and build trust from the ground up.
 
 2. [AWS Startup Security Baseline][2]: Early stage startup? The controls in this guide are designed to mitigate the most common security risks without requiring significant effort. As the organization grows, you can scale and build upon these controls.
 
