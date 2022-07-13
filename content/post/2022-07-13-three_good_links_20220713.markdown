@@ -1,0 +1,16 @@
+---
+title: "Three Good Links: 13 July 2022"
+date: 2022-07-13T08:46:53+05:30
+draft: false
+---
+
+1. [Remote Development at Slack][1]: Slack's developer productivity team moved the entire development experience to remote environments, from code intelligence to type-checking and builds. Engineers no longer have to maintain code or dependencies on their local laptops. They can get a fresh isolated environment on demand, ready to be used within a couple of minutes.
+
+2. [Monitoring tiny web services][2]: If you run a small but business critical website, this post is for you. Monitor your services with bare minimum cost and effort.
+
+3. [Lies My Parents Told Me (About Logs)][3]: Any time there are changes in your scale or maturity or environment, you may need to reconsider your assumptions about logs, and these are good enough place to start.
+
+[1]: https://slack.engineering/remote-development-at-slack/
+[2]: https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/
+[3]: https://www.honeycomb.io/blog/lies-my-parents-told-me-about-logs/
+
