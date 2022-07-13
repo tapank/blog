@@ -8,7 +8,27 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 06 Jul 2022 15:02:15 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 08:46:53 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 13 July 2022</title>
+      <link>https://karecha.com/blog/2022/07/13/three-good-links-13-july-2022/</link>
+      <pubDate>Wed, 13 Jul 2022 08:46:53 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/07/13/three-good-links-13-july-2022/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://slack.engineering/remote-development-at-slack/&#34;&gt;Remote Development at Slack&lt;/a&gt;: Slack&amp;rsquo;s developer productivity team moved the entire development experience to remote environments, from code intelligence to type-checking and builds. Engineers no longer have to maintain code or dependencies on their local laptops. They can get a fresh isolated environment on demand, ready to be used within a couple of minutes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/&#34;&gt;Monitoring tiny web services&lt;/a&gt;: If you run a small but business critical website, this post is for you. Monitor your services with bare minimum cost and effort.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.honeycomb.io/blog/lies-my-parents-told-me-about-logs/&#34;&gt;Lies My Parents Told Me (About Logs)&lt;/a&gt;: Any time there are changes in your scale or maturity or environment, you may need to reconsider your assumptions about logs, and these are good enough place to start.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 06 July 2022</title>
       <link>https://karecha.com/blog/2022/07/06/three-good-links-06-july-2022/</link>
@@ -390,53 +410,6 @@
 &lt;/ul&gt;
 &lt;p&gt;Find the course &lt;a href=&#34;https://www.edx.org/course/cs50s-introduction-to-programming-with-python&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Also, check out the &lt;a href=&#34;https://pll.harvard.edu/catalog?keywords=&amp;amp;subject%5B%5D=3&amp;amp;subject%5B%5D=100&#34;&gt;other CS50 courses&lt;/a&gt;. You might find something which is even more relevant to your ambitions or your current work.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Effective Team Communication in Software Development</title>
-      <link>https://karecha.com/blog/2022/03/26/effective-team-communication-in-software-development/</link>
-      <pubDate>Sat, 26 Mar 2022 18:31:06 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/03/26/effective-team-communication-in-software-development/</guid>
-      <description>&lt;p&gt;Irrespective of your role in Software Development (software development engineer, product manager, quality engineer, engineering manager, director or above), all the tools you use to get the job done can be broadly categorized as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tools for communication and collaboration&lt;/li&gt;
-&lt;li&gt;Tools for software development and testing&lt;/li&gt;
-&lt;li&gt;Tools for software operations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In this article I will discuss the first in that list: Tools for communication and collaboration. A software development team&amp;rsquo;s effectiveness and long-term success hinges upon how they communicate and collaborate within the team as well as with external stakeholders. Understanding the hierarchy of communication and developing a knack for choosing the right level of communication has long term benefits. This is a learnable skill, but like any other soft skill, it requires ongoing calibration in the team. You need a few people who care about this and can set the tone for everyone else.&lt;/p&gt;
-&lt;p&gt;The hierarchy of communication and collaboration has the following layers:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Team Wiki&lt;/li&gt;
-&lt;li&gt;Team Blog&lt;/li&gt;
-&lt;li&gt;Documents&lt;/li&gt;
-&lt;li&gt;Issue Tracker&lt;/li&gt;
-&lt;li&gt;Team Chat&lt;/li&gt;
-&lt;li&gt;Personal / Group chat&lt;/li&gt;
-&lt;li&gt;Good old face-to-face interaction&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Every time you communicate or collaborate with others, you need to choose an appropriate tool from this hierarchy for maximum impact. This hierarchy has the most durable medium at the top, where discoverability and shareability is also high; all of which reduce when you pick tools lower down in the hierarchy. The signal to noise ratio is also high at the top and falls as you go down the hierarchy. For e.g., any information shared in a face-to-face conversation is least durable, discoverable, or shareable. The only short-term benefits of sharing information in the lower layers are high speed and less formality, which is indispensable in day-to-day work but should not be applied to every piece of information. (By tools I mean product type. For e.g., your wiki could be Confluence, GitHub wiki, or something else; Documents could be Google Docs, Office 365 Word, or something else; and so on.)&lt;/p&gt;
-&lt;p&gt;Let us now discuss each layer:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. Team Wiki:&lt;/strong&gt; Think of a good wiki as a garden that grows with the product and with the team. It is the team’s collective brain. It is home to the ever-growing information about what the product is, how it works, links to useful resources, known issues, roadmaps, release history, team member details, processes, etc. It should be possible for you to just grant access to the wiki and they should be able to find all the information they need. For e.g., anyone in your team should be able to figure out how to set up their development environment, where to download the product and how to install and run it, learn about the team’s software development processes and practices, how to start taking part in team rituals etc. The wiki should be open for contribution from all team members, but with some oversight from the senior members to keep entropy at bay. Maintaining the wiki is an ongoing process that should become second nature to the team. Just like a garden, it needs constant caring, pruning, weeding, and nourishing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. Team Blog:&lt;/strong&gt; This is best for sharing narratives which are snapshots in time. Information you publish on the team blog is not expected to change with time. Information that needs to be updated over time belongs to the wiki. Blogs are for things like release announcements, process change announcements, welcoming a new team member, saying goodbye to a departing team member, announcing promotions or role changes, etc. Blogs are searchable and you can read posts from the past to gain perspective of how things evolved over time. (The conventional way of broadcasting announcements by email should be replaced by blog posts. Emails have a major drawback: information in emails is trapped in people&amp;rsquo;s inboxes. It cannot be discovered by someone who did not receive that email, and they are forever locked out of that piece of information. For example, when you join a company, you do not have access to emails that were sent prior. If you must send an email, first publish your announcement as a blog post and then email the link of that post to your target audience.)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. Documents:&lt;/strong&gt; These are best suited for collaborative writing or for receiving feedback on your writing. Use online documents for sharing and reviewing product requirements, system design, technical roadmaps etc. Once the review comments are addressed and the content is finalized, you can either move this to wiki or blog depending on the type of information. If your team has a good reason to archive these documents for later reference (instead of publishing this information in a wiki or a blog), then make sure the documents are stored in a location that the entire team can access, and they are well organized in a folder hierarchy.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. Issue Tracker:&lt;/strong&gt; This is where you submit and track Change Requests (we will call them CRs). Most modern issue trackers are also project management tools which aid project planning, release management and more. In this discussion, we will focus on information exchange facilitated by issue trackers. Each CR tells a story, which starts with the description of a new feature, enhancement, or a bug, and as the team makes progress on this CR, it serves as a log of milestones on the way to accomplishing the objective of that CR. Some teams use issue trackers only for process compliance, and the real conversations happen somewhere else &amp;ndash; either on chat or even face-to-face. The downside of this approach is that your &amp;ldquo;process&amp;rdquo; is now a burden and only serves as a paper trail solely for the sake of compliance; you are not using the tool to improve collaboration. A well written CR allows you to assign or transfer it (at any stage) to someone without the overhead of having to explain everything to them. The CR should be up to date and self-explanatory.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;5. Team Chat:&lt;/strong&gt; This is where the team congregates and communicates asynchronously. Use topical channels to streamline conversations thereby allowing people to selectively tune into relevant conversations. Avoid posting messages in a “general” channel (unless, of course, it is a broad announcement) or else your team chat will become a noisy bazar where focused dialogs are no longer possible. Do not expect people to always respond promptly as it will kill their ability to focus on tasks; it is a tool for asynchronous communication! Once you start a conversation and it reaches a logical conclusion (either a decision is made, or a new plan is agreed upon etc.), this information should land in a better place. It could be a wiki, issue tracker or whatever is right for the topic. Best thing about team chat: it is inclusionary since every team member is tuned in, including the quiet ones.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;6. Personal / Group chat:&lt;/strong&gt; This is to send direct messages to individuals or to a group of selected people. Use this only when you are discussing something that would be considered too noisy for team chat channels. The reason not to use group chats for work related topics is because it is exclusionary. Such conversations reduce your team’s shared understanding of what is going on since it excludes some or many of your team members from the discussion.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;7. Good old face-to-face interaction:&lt;/strong&gt; This is the bottom rung of the hierarchy and is suitable for getting to know each other, for 1x1s, and for relationship building. While all of this can be done with video conferencing, occasional in-person interactions help build trust and relationship. However, in-person interaction is not necessary for day-to-day work. Remember, effective communication requires us to feed the collective brain. If essential information is exchanged via in-person conversations without surfacing it in any of the other layers discussed above, you are starving the collective brain.&lt;/p&gt;
-&lt;p&gt;That is the hierarchy of communication. Since it involves a lot of writing, here’s a quick note about writing in general:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Keep it simple across the hierarchy&lt;/li&gt;
-&lt;li&gt;Structure and categorize information to make it easier to find, even for new members&lt;/li&gt;
-&lt;li&gt;People will initially confuse the hierarchy and that is ok; it is part of learning&lt;/li&gt;
-&lt;li&gt;When adding information anywhere in the hierarchy, ensure there is sufficient context and cross referencing&lt;/li&gt;
-&lt;li&gt;Pay attention to spelling, grammar, and formatting; because typos, bad grammar, and poor formatting reduce readability and are distracting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In conclusion, every time you communicate or collaborate with your team members, pick the right tool. By default, it is easy and tempting to stay in the lower layers of the hierarchy because most people feel safe there, since they do not need to worry about making mistakes, communication feels natural and informal etc. It is a trap! Always strive to continuously refine valuable information and move it up the hierarchy to the right level where it belongs.&lt;/p&gt;
-&lt;p&gt;What I have outlined above is what has worked for my teams; you may have a system that works better, and if so, please share in the comments (or create your own post and share the link in comments).&lt;/p&gt;
-&lt;p&gt;PS: Thank you &lt;a href=&#34;https://www.linkedin.com/in/deepeshpurswani/&#34;&gt;Deepesh&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/ravitheja-bandari-6abb794a/&#34;&gt;Ravitheja&lt;/a&gt; for reading the draft, providing valuable input, and for pointing out errors. Any remaining errors in this post are mine.&lt;/p&gt;
-&lt;p&gt;PPS: This article first appeared on &lt;a href=&#34;https://www.linkedin.com/pulse/effective-team-communication-software-development-tapan-karecha/&#34;&gt;LinkedIn here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

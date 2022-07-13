@@ -8,7 +8,17 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 06 Jul 2022 15:02:15 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 08:46:53 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 13 July 2022</title>
+      <link>https://karecha.com/blog/2022/07/13/three-good-links-13-july-2022/</link>
+      <pubDate>Wed, 13 Jul 2022 08:46:53 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/07/13/three-good-links-13-july-2022/</guid>
+      <description>Remote Development at Slack: Slack&amp;rsquo;s developer productivity team moved the entire development experience to remote environments, from code intelligence to type-checking and builds. Engineers no longer have to maintain code or dependencies on their local laptops. They can get a fresh isolated environment on demand, ready to be used within a couple of minutes.
+  Monitoring tiny web services: If you run a small but business critical website, this post is for you.</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 06 July 2022</title>
       <link>https://karecha.com/blog/2022/07/06/three-good-links-06-july-2022/</link>
