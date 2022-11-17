@@ -8,7 +8,21 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 13 Jul 2022 08:46:53 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 13:20:34 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning a Language</title>
+      <link>https://karecha.com/blog/2022/11/17/learning-a-language/</link>
+      <pubDate>Thu, 17 Nov 2022 13:20:34 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2022/11/17/learning-a-language/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.math.chalmers.se/~ulfp/Review/SStyle.pdf&#34;&gt;Steven Pinker on learning a language&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You learn a language by exposure. First during the critical stages of growing up, a process surprisingly fast and effective, but only pertaining to the basic aspect of language, namely its oral one. Similarly to learn to write you need to read a lot, and this is a far less natural process and takes much longer time. To acquire a sense of style you need a lot of exposure, and this is what eventually provides you with an ear going beyond that of the oral aspect.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This also makes sense if read in the context of programming languages.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 13 July 2022</title>
       <link>https://karecha.com/blog/2022/07/13/three-good-links-13-july-2022/</link>
@@ -392,24 +406,6 @@
 &lt;li&gt;This one is for people who have switched to the management path: never stop coding, no matter your title.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c&#34;&gt;the link to the article&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Harvard&#39;s CS50P 2022</title>
-      <link>https://karecha.com/blog/2022/04/03/harvards-cs50p-2022/</link>
-      <pubDate>Sun, 03 Apr 2022 10:05:02 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/04/03/harvards-cs50p-2022/</guid>
-      <description>&lt;p&gt;Harvard&amp;rsquo;s popular CS50 and related courses (CS50X, CS50G, etc.) are a gift to the world (they are all free!) which we do not appreciate enough. One of these courses starts soon and is called CS50P &amp;ndash; CS50&amp;rsquo;s Introduction to Programming with Python. The course is relevant if you belong to one of the following categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A nonprogrammer who wants to learn to program (not necessarily as a career choice but just to improve your effectiveness in your current job, or as a hobby)&lt;/li&gt;
-&lt;li&gt;A programmer who wants to learn Python (it is the most popular language in the industry today!)&lt;/li&gt;
-&lt;li&gt;A Python programmer who just wants to brush up on the fundamentals&lt;/li&gt;
-&lt;li&gt;A parent of a middle or high schooler (this will be an opportunity for your child to dabble in programming; what better way to spend the summer holidays!)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Find the course &lt;a href=&#34;https://www.edx.org/course/cs50s-introduction-to-programming-with-python&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Also, check out the &lt;a href=&#34;https://pll.harvard.edu/catalog?keywords=&amp;amp;subject%5B%5D=3&amp;amp;subject%5B%5D=100&#34;&gt;other CS50 courses&lt;/a&gt;. You might find something which is even more relevant to your ambitions or your current work.&lt;/p&gt;
 </description>
     </item>
     
