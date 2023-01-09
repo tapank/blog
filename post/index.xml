@@ -8,7 +8,16 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Thu, 17 Nov 2022 13:20:34 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 11:20:34 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise of AI-Assisted Coding and Writing</title>
+      <link>https://karecha.com/blog/2023/01/09/the-rise-of-ai-assisted-coding-and-writing/</link>
+      <pubDate>Mon, 09 Jan 2023 11:20:34 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2023/01/09/the-rise-of-ai-assisted-coding-and-writing/</guid>
+      <description>I first heard of OpenAI sometime in 2021 when their DALL·E model-based image generation and manipulation capabilities became publicly available. It created a stir in the tech circle as well as among artists. What pushed OpenAI into the mainstream discussion was their recent launch of ChatGPT, which has capabilities that most people can use, making it a game changer. The way it works is that you provide a prompt and it gives you an output based on that prompt.</description>
+    </item>
+    
     <item>
       <title>Learning a Language</title>
       <link>https://karecha.com/blog/2022/11/17/learning-a-language/</link>

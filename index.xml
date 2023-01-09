@@ -8,7 +8,20 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Thu, 17 Nov 2022 13:20:34 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 11:20:34 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise of AI-Assisted Coding and Writing</title>
+      <link>https://karecha.com/blog/2023/01/09/the-rise-of-ai-assisted-coding-and-writing/</link>
+      <pubDate>Mon, 09 Jan 2023 11:20:34 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2023/01/09/the-rise-of-ai-assisted-coding-and-writing/</guid>
+      <description>&lt;p&gt;I first heard of &lt;a href=&#34;https://openai.com/&#34;&gt;OpenAI&lt;/a&gt; sometime in 2021 when their &lt;a href=&#34;https://openai.com/dall-e-2/&#34;&gt;DALL·E&lt;/a&gt; model-based image generation and manipulation capabilities became publicly available. It created a stir in the tech circle as well as among artists. What pushed OpenAI into the mainstream discussion was their recent launch of &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34;&gt;ChatGPT&lt;/a&gt;, which has capabilities that most people can use, making it a game changer. The way it works is that you provide a prompt and it gives you an output based on that prompt. Students can prompt it to do their homework, journalists can prompt it to write news stories, software developers can prompt it to write code or generate comment for a code snippet, authors can prompt it to write books, and so on.&lt;/p&gt;
+&lt;p&gt;This capability is still in its infancy but has reached a point where it will soon change the way people work. It was quite tempting for me to have this post written by ChatGPT, but I resisted that temptation because I don&amp;rsquo;t want to take the fun out of writing a blog post. It would be too easy to churn out post after post using ChatGPT, but then what&amp;rsquo;s the point? We write in order to aid our thinking. However, I have already started using ChatGPT for writing in general, and so have millions of others.&lt;/p&gt;
+&lt;p&gt;With &lt;a href=&#34;https://github.com/features/copilot&#34;&gt;GitHub Copilot&lt;/a&gt;, AI-assisted coding will gain momentum. Though Copilot started off getting some flack for copyright infringement, but once the dust settles, it will be a game changer. A few open-source alternatives are also in the making and will compete with Copilot. It is just a matter of time before enough software developers would have tried Copilot or equivalent, and they will be surprised by the difference it makes to their productivity. It will take care of writing all the boiler plate, and let you tweak and finetune the core or business logic it proposes. Eventually, the business leaders will expect software developers to deliver more and deliver faster. They will be able to cut cost by reducing the development team sizes or do more with the existing teams.&lt;/p&gt;
+&lt;p&gt;Some software developers may initially see this as a threat, but this will instead have the effect of making tech more approachable or viable for businesses with smaller tech budgets. The net result will be more jobs in the tech sector. I think it is time for us to start thinking of AI-assisted coding and writing as tools in our toolkit. The future continues to get more exciting.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Learning a Language</title>
       <link>https://karecha.com/blog/2022/11/17/learning-a-language/</link>
@@ -391,21 +404,6 @@
 &lt;/ol&gt;
 &lt;p&gt;Technologically, this last one is the highlight of the letter for me. We sometimes underestimate the need for ongoing investment in evolving the architecture to meet the current and future needs of the platform. Improving the performance of an application can create a better customer experience and stickiness than adding a new feature. It is harder to make a case for non-functional improvements because benefits lend poorly to the measurement of business impact. As an engineering leader, take it upon yourself to give attention to non-functional improvements.&lt;/p&gt;
 &lt;p&gt;Read &lt;a href=&#34;https://stripe.com/files/stripe-2021-update.pdf&#34;&gt;the letter here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Long Career in Software Development</title>
-      <link>https://karecha.com/blog/2022/04/06/long-career-in-software-development/</link>
-      <pubDate>Wed, 06 Apr 2022 10:50:18 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/04/06/long-career-in-software-development/</guid>
-      <description>&lt;p&gt;This is an excellent article by someone who (well, his name is Alex) has been in the industry for 20+ years and during this time, has played various roles in software development. My biggest takeaways from the article are:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;A successful and fulfilling career need not follow a linear path.&lt;/li&gt;
-&lt;li&gt;This one is for people who have switched to the management path: never stop coding, no matter your title.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c&#34;&gt;the link to the article&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
