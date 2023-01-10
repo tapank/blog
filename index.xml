@@ -8,7 +8,18 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Mon, 09 Jan 2023 11:20:34 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:22:44 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming by Hand Will Remain Essential</title>
+      <link>https://karecha.com/blog/2023/01/10/programming-by-hand-will-remain-essential/</link>
+      <pubDate>Tue, 10 Jan 2023 10:22:44 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2023/01/10/programming-by-hand-will-remain-essential/</guid>
+      <description>&lt;p&gt;Here is why old-fashioned programming by hand will not go away after the onset of AI-assisted programming. Think of programming by hand,  unaided by AI, as something similar to walking. Walking is essential for getting us around and improving our health and general well-being. There is enough evidence (see &lt;a href=&#34;https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think&#34;&gt;here&lt;/a&gt;) for how walking improves creativity in any field, including art, math, science, or business. But in terms of helping us get around, walking is perhaps our last choice. We don&amp;rsquo;t walk to work except for the lucky few who live within walking distance from their workplace. We don&amp;rsquo;t walk to a vacation destination. We don&amp;rsquo;t walk to a business conference across the country or across continents. Depending on the distance you need to go, you may choose anything from biking, driving, taking a train, or flying. Yet, walking remains indispensable and we should and we do walk when we can. Transportation tech is advancing every day but we will never forego the ability to walk just because there are faster and more comfortable alternatives.&lt;/p&gt;
+&lt;p&gt;Similarly, in the new world of AI-assisted programming, the good old unaided programing will remain an essential skill for software developers. They will be hired, assessed, promoted, rewarded etc. based on this skill. Please remember this next time you are worried about low-code, no-code, or AI-assisted programming replacing a good programmer. If you like programming, keep practicing because it is not going away. At least not in our lifetime.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>The Rise of AI-Assisted Coding and Writing</title>
       <link>https://karecha.com/blog/2023/01/09/the-rise-of-ai-assisted-coding-and-writing/</link>
@@ -374,36 +385,6 @@
 &lt;p&gt;A career in software development is more varied and diverse than you would think. If a particular job title or working at a particular company drives you, it is possible that it is triggering your ego. Say, you love your job and you like your current role. But a colleague or a buddy from college is doing much better. They either have a better job title or a better salary, or they just landed a job at a nice company (Google, Amazon, Facebook, or such), or for heaven&amp;rsquo;s sake, they just relocated to a nice place in Europe or the USA. Best of all, they perhaps did all of the above in one shot! This can be unsettling, right? Well&amp;hellip;&lt;/p&gt;
 &lt;p&gt;If you are thinking only of the perks and not about your craft, you are thinking short-term. Ask anybody who has been in the industry long enough to have lived through booms and busts, and they will tell you that job satisfaction and contentment come from loving your craft.&lt;/p&gt;
 &lt;p&gt;Love what you do. Do what you love.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stripe Business Update</title>
-      <link>https://karecha.com/blog/2022/04/09/stripe-business-update/</link>
-      <pubDate>Sat, 09 Apr 2022 11:19:37 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/04/09/stripe-business-update/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://stripe.com&#34;&gt;Stripe&lt;/a&gt;&amp;rsquo;s cofounders published an annual letter to their users. Things that caught my eye in this 2021 business update are:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Rise of the creator economy
-&amp;ldquo;Creator economy, a term that refers to directing payments to those creating content or products on internet platforms: think developers on GitHub, podcasters on Spotify, or the Twitterati on Twitter all getting paid directly for their creations.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Rise of embedded finance
-&amp;ldquo;&amp;hellip; the explosive growth in fintech &amp;hellip; platforms are now integrating additional financial services directly into their products, such as business expense cards, monetary accounts, and loan access.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Enterprises will need to adapt
-&amp;ldquo;Established businesses have realized that they need to match the customer experience that the world’s most exciting startups invent, and that to be stuck on legacy technology is a business liability.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Evolution of platform architecture
-&amp;ldquo;We&amp;rsquo;re also rebuilding the architecture (in a more service-oriented fashion) on which the core Stripe API calls run; our pilot customers running on that new architecture are seeing 99th percentile latency improvements of over 50%. We’ll continue over the course of this year to make Stripe more reliable and performant for you.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Technologically, this last one is the highlight of the letter for me. We sometimes underestimate the need for ongoing investment in evolving the architecture to meet the current and future needs of the platform. Improving the performance of an application can create a better customer experience and stickiness than adding a new feature. It is harder to make a case for non-functional improvements because benefits lend poorly to the measurement of business impact. As an engineering leader, take it upon yourself to give attention to non-functional improvements.&lt;/p&gt;
-&lt;p&gt;Read &lt;a href=&#34;https://stripe.com/files/stripe-2021-update.pdf&#34;&gt;the letter here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
