@@ -8,7 +8,17 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Tue, 10 Jan 2023 10:22:44 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 12:21:12 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incident Management 101: Communicate, Solve, and Analyze</title>
+      <link>https://karecha.com/blog/2023/01/13/incident-management-101-communicate-solve-and-analyze/</link>
+      <pubDate>Fri, 13 Jan 2023 12:21:12 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2023/01/13/incident-management-101-communicate-solve-and-analyze/</guid>
+      <description>In the world of software development, incidents and issues happen all the time; sometimes major ones but mostly minor. Some companies have well-defined checklists and rulebooks for handling incidents, perhaps because they move fast and break things often. Others do not have a rulebook because incidents are a rarity, and they let people&amp;rsquo;s best judgment prevail in terms of how these incidents are handled.
+Next time you find yourself in the eye of a storm, remember these three principles of good incident management.</description>
+    </item>
+    
     <item>
       <title>Programming by Hand Will Remain Essential</title>
       <link>https://karecha.com/blog/2023/01/10/programming-by-hand-will-remain-essential/</link>
