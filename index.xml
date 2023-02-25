@@ -8,7 +8,19 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Fri, 13 Jan 2023 12:21:12 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 10:24:17 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflections on a Roadshow Event</title>
+      <link>https://karecha.com/blog/2023/02/25/reflections-on-a-roadshow-event/</link>
+      <pubDate>Sat, 25 Feb 2023 10:24:17 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2023/02/25/reflections-on-a-roadshow-event/</guid>
+      <description>&lt;p&gt;Yesterday, I attended a roadshow by Google Cloud at the Novotel Hotel in Bellandur, Bengaluru. There were around two dozen attendees and a panel of six executives from some well-known companies. The panel discussion involved questions from the moderator, a Google employee, and they had said there would be time for questions at the end. Unfortunately, the panel discussion ran over time, and there was no opportunity for Q&amp;amp;A with the panel.&lt;/p&gt;
+&lt;p&gt;The next part of the event involved introductions by the attendees and questions for the Google employees. The last hour was spent on dinner, drinks, and socializing. I was surprised by how much I enjoyed this part of the event (no, I did not drink). Since the start of Covid lockdowns, I have worked remotely and continue to do so to this day. Despite the advantages of remote work, one thing I miss is meeting with people to discuss industry trends and hear their perspectives on various topics. Yesterday, I got to do just that, and it was refreshing. I met a young startup founder, a product owner from a large company, a finance manager from another tech company, executives from F&amp;amp;G industry companies, and others. Most of them were just as eager to share their stories as I was to hear them.&lt;/p&gt;
+&lt;p&gt;Reflecting on the experience, I realize I should seek out more networking opportunities like this in the future.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Incident Management 101: Communicate, Solve, and Analyze</title>
       <link>https://karecha.com/blog/2023/01/13/incident-management-101-communicate-solve-and-analyze/</link>
@@ -370,25 +382,6 @@
 &lt;p&gt;&lt;a href=&#34;https://www.foundationdb.org/files/fdb-paper.pdf&#34;&gt;FoundationDB&lt;/a&gt;: ACM paper [pdf] on FoundationDB, an open-source transactional key-value store, which adopts an unbundled architecture that decouples an in-memory transaction management system, a distributed storage system, and a built-in distributed configuration system.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon 2021 Letter to the Shareholders</title>
-      <link>https://karecha.com/blog/2022/04/15/amazon-2021-letter-to-the-shareholders/</link>
-      <pubDate>Fri, 15 Apr 2022 10:40:37 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/04/15/amazon-2021-letter-to-the-shareholders/</guid>
-      <description>&lt;p&gt;Amazon&amp;rsquo;s new CEO Andy Jassy&amp;rsquo;s &lt;a href=&#34;https://www.aboutamazon.com/news/company-news/2021-letter-to-shareholders&#34;&gt;2021 letter to the shareholders&lt;/a&gt; just came out and is packed with information about Amazon&amp;rsquo;s successes as well as the challenges they faced last year. What I found interesting is buried deep &amp;ndash; components that are helping Amazon succeed. Here is the condensed list (read the letter for details):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Hire the Right Builders (&amp;ldquo;people who like to invent, who look at customer experiences, dissect what doesn&amp;rsquo;t work well about them, and seek to reinvent them&amp;rdquo;)&lt;/li&gt;
-&lt;li&gt;Organize Builders into Teams That Are as Separable and Autonomous as Possible (&amp;ldquo;single-threaded teams will know their customers&amp;rsquo; needs better&amp;rdquo;)&lt;/li&gt;
-&lt;li&gt;Give Teams the Right Tools and Permission to Move Fast&lt;/li&gt;
-&lt;li&gt;You Need Blind Faith, But No False Hope (&amp;ldquo;feedback loops&amp;rdquo; and &amp;ldquo;product development process of working backwards from the customer&amp;rdquo;)&lt;/li&gt;
-&lt;li&gt;Define a Minimum Loveable Product (MLP), and Be Willing to Iterate Fast (&amp;ldquo;figuring out where to draw the line for launch&amp;rdquo;)&lt;/li&gt;
-&lt;li&gt;Adopt a Long-term Orientation (&amp;ldquo;you have to be in it for the long-haul or you&amp;rsquo;ll give up too quickly&amp;rdquo;)&lt;/li&gt;
-&lt;li&gt;Brace Yourself for Failure (&amp;ldquo;if you invent a lot, you will fail more often than you wish&amp;rdquo;)&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
