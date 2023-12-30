@@ -100,3 +100,15 @@ post = "/blog/:year/:month/:day/:title/"
 [markup.goldmark.renderer]
 	unsafe= true
 
+[outputs]
+	home = ["HTML", "RSS"]
+
+[outputFormats.RSS]
+	mediatype = "application/rss+xml"
+	baseName = "index"
+	isPlainText = true
+	notAlternative = true
+	isHTML = false  # Exclude HTML content
+	isPage = false  # Exclude regular pages
+	isPost = true   # Include only posts
+
