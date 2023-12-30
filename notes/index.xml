@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Notes to self</title>
+    <link>https://karecha.com/notes/</link>
+    <description>Recent content in Notes on Notes to self</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Dec 2023 11:21:46 +0530</lastBuildDate>
+    <atom:link href="https://karecha.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Note</title>
+      <link>https://karecha.com/notes/test/</link>
+      <pubDate>Sat, 30 Dec 2023 11:21:46 +0530</pubDate>
+      <guid>https://karecha.com/notes/test/</guid>
+      <description>This is a test note.</description>
+    </item>
+  </channel>
+</rss>
