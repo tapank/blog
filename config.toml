@@ -3,7 +3,6 @@ disablePathToLower = false
 languageCode = "en-us"
 title = "Notes to self"
 theme = "smol"
-#googleAnalytics = "UA-25128293-5"
 googleAnalytics = "G-B15DFJNCEQ"
 
 # Number of blog posts displayed in each page
