@@ -5,6 +5,30 @@ draft = false
 type = "note"
 +++
 
+## Caffeine Blues: Waking up to the hidden dangers of America's #1 drug
+Author: Stephen Cherniske  
+Reviewed: 6 January 2024
+
+Over the years, I would stumble upon claims that caffeine and/or coffee
+have downsides which are underplayed by the media because of all the
+marketing money the interested corporations throw at spinning positive
+research about the benefits of coffee/caffeine. However, as some of those
+claims started to resonate with my personal experience, I wanted to learn
+more. I ended up reading this book because many coffee quitters pointed at
+this book as a good place to get all the information. The book is a good
+read and it deals with multiple aspects of caffeine harm from personal to
+political and environmental. This book convinced me to finally quit coffee,
+and the following summary of the book is what helped me make this call:
+
+- Caffeine can't provide energy, only chemical stimulation, an induced
+  emergency state that can lead to irritability, mood swings, and panic
+  attacks.
+- Caffeine's ultimate mood effect can be letdown, which can lead to
+  depression and chronic fatigue.
+- Caffeine gives the illusion of heightened alertness by dilating pupils,
+  quickening heart rate, and raising blood pressure. In fact caffeine does
+  not increase overall mental activity.
+
 ## Play Anything: The Pleasure of Limits, the Uses of Boredom, and the Secret of Games
 Author: Ian Bogost  
 Reviewed: 3 January 2024
