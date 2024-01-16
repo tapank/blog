@@ -16,7 +16,7 @@ between a philosopher and a young man. While reading this book, I was
 constantly reminded of Bhagwad Geeta's message about removing attachement.
 The book is written at a level that would work well for people in the late
 teens as well as for adults of any age. The lessons can be summarized as
-following:
+follows:
 
 - No matter what has occurred in your life up to this point, it should have
   no bearing at all on how you live from now on.
@@ -42,10 +42,10 @@ following:
 - To shine a spotlight on here and now is to go about doing what one can do
   now, earnestly and conscientiously.
 
-The above bullet points are cherry picked from the book and in the hope
-that going through these points will help me recollect the message of the
-book. But I realize that this is not a one-read book and needs to be read
-again and again in order to internalize the message.
+The above bullet points are cherry picked from the book in the hope that
+going through these points will help me recall the message of the book. But
+I realize that this is not a one-read book and needs to be read again and
+again in order to internalize the message.
 
 [adler]: https://en.wikipedia.org/wiki/Alfred_Adler
 
