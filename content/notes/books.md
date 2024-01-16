@@ -5,6 +5,50 @@ draft = false
 type = "note"
 +++
 
+## The Courage to Be Disliked
+Authors: Ichiro Kishimi & Fumitake Koga  
+Reviewed on: 16 January 2024
+
+The Courage to Be Disliked is about unlocking the power within yourself to
+be the person you truly want to be. It is based on the theories of [Alfred
+Adler][adler]'s Individual Psychology and is written as a conversation
+between a philosopher and a young man. While reading this book, I was
+constantly reminded of Bhagwad Geeta's message about removing attachement.
+The book is written at a level that would work well for people in the late
+teens as well as for adults of any age. The lessons can be summarized as
+following:
+
+- No matter what has occurred in your life up to this point, it should have
+  no bearing at all on how you live from now on.
+- All problems are interpersonal relationship problems.
+- It's not what one is born with but what use one makes of that equipment.
+- Deny the desire for recognition. It makes you unfree.
+- Do not live to satisfy the expectations of others.
+- Do not intervene in other people's tasks and do not allow other people to
+  intervene in your tasks.
+- You are not the center of the world.
+- Listen to the voice of the larger community. We belong to the community
+  of universe.
+- Do not rebuke or praise. Encourage.
+- Remain in the present. Here and now.
+- Excessive self-consciousness stifles the self. Don't affirm, but accept
+  the self. Have confidence in others.
+- If one has a feeling of contribution, one will no longer have any need for
+  recognition from others.
+- Community feeling: engage in self-acceptance, confidence in others, and
+  contribution to others.
+- Possess the courage to be normal, and your looking at the world will
+  change dramatically.
+- To shine a spotlight on here and now is to go about doing what one can do
+  now, earnestly and conscientiously.
+
+The above bullet points are cherry picked from the book and in the hope
+that going through these points will help me recollect the message of the
+book. But I realize that this is not a one-read book and needs to be read
+again and again in order to internalize the message.
+
+[adler]: https://en.wikipedia.org/wiki/Alfred_Adler
+
 ## Caffeine Blues: Waking up to the hidden dangers of America's #1 drug
 Author: Stephen Cherniske  
 Reviewed: 6 January 2024
