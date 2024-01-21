@@ -5,6 +5,39 @@ draft = false
 type = "note"
 +++
 
+## Ultralearning
+### Master Hard Skills, Outsmart the Competetion, and Accelerate your career
+Author: Scott H. Young  
+Reviewed on: 21 January 2024
+
+The author never went to MIT but wanted to learn the CS curriculum of MIT
+and took up the challenge of teaching himself the entire course in one
+year, and succesfully completed it. He also learned new languages like
+French and South Korean in three months each and was able to comfortably
+talk to native speakers of these languages. This book is about developing
+the ability to learn hard things in a short span of time. Since projects
+can be vastly different, the author argues that the best way to learn
+ultralearning is to internalize a set of guiding principles (and not a set
+of fixed steps), and those are:
+
+- Metalearing: first draw a map
+- Focus: sharpen your knife
+- Directness: go straight ahead
+- Drill: attack your weakest point
+- Retrieval: Test to learn
+- Feedback: Don't dodge the punches
+- Retention: Don't fill a leaky bucket
+- Intuition: Dig deep before building up
+- Experimentation: Explore outside your comfort zone
+
+Once these principles are internalized, one can pick up a project of their
+choice, whether it is learning a new programming langauge, learning
+carpentry, learning to play chess etc. and learn that skill in a short
+time. This can be done at work to learn new skills or outside of work for
+hobbies. Useful for students and professionals alike. I read the book
+quickly in two days, and will now give it another pass at a slow and
+deliberate speed.
+
 ## The Courage to Be Disliked
 Authors: Ichiro Kishimi & Fumitake Koga  
 Reviewed on: 16 January 2024
