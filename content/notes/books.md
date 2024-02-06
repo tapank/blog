@@ -1,18 +1,71 @@
 +++
 title = "Books"
 date = 2024-01-03T15:41:16+05:30
+hidedate = true
 draft = false
 type = "note"
 +++
 
+A personal summary of books I have ready and/or am reading. I started doing
+this in the beginning of 2024. I may later add some books that I read prior.
+
+---
+
+## Principles
+Author: [Ray Dalio][raydalio]  
+Reviewed on: currently reading...
+
+[raydalio]: https://en.wikipedia.org/wiki/Ray_Dalio
+
+---
+
+## The 12 Week Year
+### Get More Done in 12 Weeks Than Others Do in 12 Months
+Authors:  Brian P. Moran, Michael Lennington  
+Reviewed on: 06 February 2024
+
+In this book, the authors teach a method that they claim has helped
+companies, business people, sports people and others achieve great heights.
+At the core, this book is about compressing a year into 12 weeks, which
+allows us to accomplish in 3 months what we think is achievable in a year.
+And, the chances of success is higher than the typical one year thinking.
+Each day should be thought of as a compressed week, which is a mental trick
+to help us stay on plan. The system is layered and at the bottom is the
+long term vision. This is arrived at after deep contemplation and
+visualization of the desired future. Next is the 3 year vision which is
+based on the long term vision, and finally, the 12 week plan which is based
+on the 3 year vision.  The vision helps us pull through patches of low
+motivation. The system includes 3 principles and 5 tactics, as follows:
+
+**Principles**
+
+- Accountability: A willingness to own actions and results, regardless of
+  circumstances
+- Commitment: A personal promise that you make to yourself
+- Greatness in the Moment: Each moment that you choose to do the things
+  that you need to do to be great
+
+**Tactics**
+
+- Vision: A clear picture of the future
+- Planning: Actions needed to achieve the vision
+- Process Control: Align daily actions with your plan
+- Measurement: Lead and lag indicators that provide feedback
+- Time Use: Using your time with clear intention
+
+I think this system should work better than simply relying on motivation to
+accomplish goals.
+
+---
+
 ## Ultralearning
-### Master Hard Skills, Outsmart the Competetion, and Accelerate your career
+### Master Hard Skills, Outsmart the Competition, and Accelerate your career
 Author: Scott H. Young  
 Reviewed on: 21 January 2024
 
 The author never went to MIT but wanted to learn the CS curriculum of MIT
 and took up the challenge of teaching himself the entire course in one
-year, and succesfully completed it. He also learned new languages like
+year, and successfully completed it. He also learned new languages like
 French and South Korean in three months each and was able to comfortably
 talk to native speakers of these languages. This book is about developing
 the ability to learn hard things in a short span of time. Since projects
@@ -31,12 +84,14 @@ of fixed steps), and those are:
 - Experimentation: Explore outside your comfort zone
 
 Once these principles are internalized, one can pick up a project of their
-choice, whether it is learning a new programming langauge, learning
+choice, whether it is learning a new programming language, learning
 carpentry, learning to play chess etc. and learn that skill in a short
 time. This can be done at work to learn new skills or outside of work for
 hobbies. Useful for students and professionals alike. I read the book
 quickly in two days, and will now give it another pass at a slow and
 deliberate speed.
+
+---
 
 ## The Courage to Be Disliked
 Authors: Ichiro Kishimi & Fumitake Koga  
@@ -46,7 +101,7 @@ The Courage to Be Disliked is about unlocking the power within yourself to
 be the person you truly want to be. It is based on the theories of [Alfred
 Adler][adler]'s Individual Psychology and is written as a conversation
 between a philosopher and a young man. While reading this book, I was
-constantly reminded of Bhagwad Geeta's message about removing attachement.
+constantly reminded of Bhagwad Geeta's message about removing attachment.
 The book is written at a level that would work well for people in the late
 teens as well as for adults of any age. The lessons can be summarized as
 follows:
@@ -82,6 +137,8 @@ again in order to internalize the message.
 
 [adler]: https://en.wikipedia.org/wiki/Alfred_Adler
 
+---
+
 ## Caffeine Blues: Waking up to the hidden dangers of America's #1 drug
 Author: Stephen Cherniske  
 Reviewed: 6 January 2024
@@ -105,6 +162,8 @@ and the following summary of the book is what helped me make this call:
 - Caffeine gives the illusion of heightened alertness by dilating pupils,
   quickening heart rate, and raising blood pressure. In fact caffeine does
   not increase overall mental activity.
+
+---
 
 ## Play Anything: The Pleasure of Limits, the Uses of Boredom, and the Secret of Games
 Author: Ian Bogost  
