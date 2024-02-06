@@ -94,6 +94,7 @@ deliberate speed.
 ---
 
 ## The Courage to Be Disliked
+### How to Free Yourself, Change your Life and Achieve Real Happiness
 Authors: Ichiro Kishimi & Fumitake Koga  
 Reviewed on: 16 January 2024
 
@@ -139,7 +140,8 @@ again in order to internalize the message.
 
 ---
 
-## Caffeine Blues: Waking up to the hidden dangers of America's #1 drug
+## Caffeine Blues
+### Waking up to the hidden dangers of America's #1 drug
 Author: Stephen Cherniske  
 Reviewed: 6 January 2024
 
@@ -165,7 +167,8 @@ and the following summary of the book is what helped me make this call:
 
 ---
 
-## Play Anything: The Pleasure of Limits, the Uses of Boredom, and the Secret of Games
+## Play Anything
+### The Pleasure of Limits, the Uses of Boredom, and the Secret of Games
 Author: Ian Bogost  
 Reviewed: 3 January 2024
 
