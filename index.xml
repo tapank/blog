@@ -9,7 +9,43 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 03 Jan 2024 15:41:16 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 14:37:25 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antidote to Distractions: Surf the Urge</title>
+      <link>https://karecha.com/blog/2024/02/19/antidote-to-distractions-surf-the-urge/</link>
+      <pubDate>Mon, 19 Feb 2024 14:37:25 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2024/02/19/antidote-to-distractions-surf-the-urge/</guid>
+      <description>&lt;p&gt;Recently I came across a nice tip in the book &amp;ldquo;Indistractable: How To
+Control Your Attention and Choose Your Life&amp;rdquo; by Nir Eyal.  The author
+asserts that the solution to avoiding distractions is not to abstain from
+the things that are distracting us but to identify the inner triggers that
+lead to distraction and manage them instead. This is really powerful
+because now we can no longer pin the blame for &lt;em&gt;our&lt;/em&gt; distractions on
+&lt;em&gt;their&lt;/em&gt; products.&lt;/p&gt;
+&lt;p&gt;Distraction tricks us into prioritizing the urgent and easy over hard and
+long term.  There are two kinds of triggers: external and internal.
+According to the author, only 10% of the triggers are external but 90% are
+internal!  Most distractions begin inside, and are usually caused by
+boredom, fatigue, loneliness, anxiety, stress, etc.  And the root cause of
+distractions is our inability to deal with these discomforts.  One tool to
+avoid distraction is the 10 minute rule.  When you are on a task and the
+urge for distraction strikes, do one of the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tell yourself that you will scratch the urge but not yet. Get back to
+the task for at least 10 minutes. Generally, the urge subsides and you
+will be able to continue on your task.&lt;/li&gt;
+&lt;li&gt;Surf the urge. Literally sit and observe your urge but do not act on it
+for at least 10 minutes. When we observe the urge, we soon learn that it
+is like a wave and it subsides soon.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This trick generally works. I would like to add one more thing on top of
+what the author has suggested, and that is to address the emotions which
+are listed as triggers above. If we can manage those, there will be less of
+a need to manage distractions in the first place. Definitely worth trying.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Dead Tree Dictionary</title>
       <link>https://karecha.com/blog/2023/03/16/dead-tree-dictionary/</link>
@@ -372,27 +408,6 @@ distractions while reading.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2022/03/tr_technology_radar_vol_26_en.pdf&#34;&gt;Technology Radar, Vol 26 (pdf)&lt;/a&gt;: Technology Radar is created by The Thoughtworks Technology Advisory Board, a group of senior technology leaders at Thoughtworks. It rates techniques, tools, platforms, and languages &amp;amp; frameworks; and captures it in a format that provides value to a wide range of stakeholders, from developers to CTOs.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Good Links: 27 April 2022</title>
-      <link>https://karecha.com/blog/2022/04/27/three-good-links-27-april-2022/</link>
-      <pubDate>Wed, 27 Apr 2022 11:10:40 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/04/27/three-good-links-27-april-2022/</guid>
-      <description>&lt;p&gt;A free online book for software engineers, an introduction to generics in Go by the core team members, and a guide to OAuth.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://selfimproving.dev/contents.html&#34;&gt;The Self-Improving Developer&lt;/a&gt;: After reading this book, you’ll have a good overview of the things that a good Software Engineer encounters in about the first 10 years of experience. The focus is on breadth over depth.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://go.dev/blog/intro-generics&#34;&gt;An Introduction To Generics in Go&lt;/a&gt;: The Go 1.18 release adds support for generics. Generics are the biggest change to Go since the first open-source release. Robert Griesemer and Ian Lance Taylor introduce the topic.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth&#34;&gt;The Modern Guide to OAuth&lt;/a&gt;: This guide covers all of the ways that we actually use OAuth. It also covers all of the details you need to be an OAuth expert without reading all the specifications or writing your own OAuth server.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
