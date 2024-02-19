@@ -27,8 +27,5 @@ urge for distraction strikes, do one of the following:
    for at least 10 minutes. When we observe the urge, we soon learn that it
    is like a wave and it subsides soon.
 
-This trick generally works. I would like to add one more thing on top of
-what the author has suggested, and that is to address the emotions which
-are listed as triggers above. If we can manage those, there will be less of
-a need to manage distractions in the first place. Definitely worth trying.
+This trick generally works. Definitely worth trying.
 
