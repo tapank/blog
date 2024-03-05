@@ -17,13 +17,13 @@ Reviewed on: 05 March 2024
 
 William James was a philosopher who has written many books and essays.
 Habit is one of his essays and is available as a book which can be download
-for free from Google Books or archive.org since the copyright has expired a
-long time ago. The book was written more than 100 years ago and is short
-and stays on point.  The author talks about his mental model about habit —
-how it is formed, why is it difficult to form or break one, etc. He also
-explains why habits are more physical than just psychological in the sense
-that they are like groves that guide our behavior subconsciously and this
-is what makes it hard to change them.
+for free from Google Books or archive.org since the copyright is expired.
+The book was written more than 100 years ago and is short and stays on
+point.  The author talks about his mental model about habit — how it is
+formed, why is it difficult to form or break one, etc. He also explains why
+habits are more physical than just psychological in the sense that they are
+like grooves that guide our behavior subconsciously and this is what makes
+it hard to change them.
 
 The best part of the book is that it does not beat around the bush and gets
 to the point right from the first sentence, which is: "When we look at
