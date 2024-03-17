@@ -9,7 +9,44 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 13 Mar 2024 11:14:05 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 12:00:33 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advice From Kipchoge</title>
+      <link>https://karecha.com/blog/2024/03/17/advice-from-kipchoge/</link>
+      <pubDate>Sun, 17 Mar 2024 12:00:33 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2024/03/17/advice-from-kipchoge/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Eliud_Kipchoge&#34;&gt;Eliud Kipchoge&lt;/a&gt;, one of the running greats, shared the following advice with
+runners and others, on a podcast. Below, I present some of that guidance,
+rephrased in my own language.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When you achieve something, celebrate. But soon start focusing on the next goal.&lt;/li&gt;
+&lt;li&gt;Instead of focusing on success, focus on training and planning which can
+bring success.&lt;/li&gt;
+&lt;li&gt;Do not sit and wait for success.&lt;/li&gt;
+&lt;li&gt;Success is proof of your mastery over what you are doing. But you need a
+system.&lt;/li&gt;
+&lt;li&gt;Define success in your own view.&lt;/li&gt;
+&lt;li&gt;Running is life.&lt;/li&gt;
+&lt;li&gt;Life is about movement.&lt;/li&gt;
+&lt;li&gt;Reflect daily on whether you influenced the world positively or
+negatively.&lt;/li&gt;
+&lt;li&gt;Pain is part of success. Learn to enjoy pain.&lt;/li&gt;
+&lt;li&gt;Run daily, and do resistance training 3 days a week.&lt;/li&gt;
+&lt;li&gt;A lot of endurance training keeps injuries at bay.&lt;/li&gt;
+&lt;li&gt;Self discipline means sacrificing passions and pleasures in order to work
+on your career.&lt;/li&gt;
+&lt;li&gt;Success is a process. It&amp;rsquo;s mantra is:
+&lt;ol&gt;
+&lt;li&gt;Say no a lot.&lt;/li&gt;
+&lt;li&gt;Set your priorities right.&lt;/li&gt;
+&lt;li&gt;Avoid complaining.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>Reaching Long Term Goals</title>
       <link>https://karecha.com/blog/2024/03/13/reaching-long-term-goals/</link>
@@ -424,27 +461,6 @@ distractions while reading.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://jwiegley.github.io/git-from-the-bottom-up/&#34;&gt;Git from the Bottom Up&lt;/a&gt;: Even for daily users of Git, many of its capabilities are too complex to understand. This online book will help to advance your understanding of this powerful content tracking system, and reveal a bit of the simplicity underlying it &amp;ndash; however dizzying its array of options may seem from the outside.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Good Links: 11 May 2022</title>
-      <link>https://karecha.com/blog/2022/05/11/three-good-links-11-may-2022/</link>
-      <pubDate>Wed, 11 May 2022 10:35:52 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/05/11/three-good-links-11-may-2022/</guid>
-      <description>&lt;p&gt;An online book for software development managers; founders discuss the suitability of the Go programming language to build startups; and how to read an RFC.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://themanagershandbook.com/&#34;&gt;The Manager&amp;rsquo;s Handbook&lt;/a&gt;: This online book by Alex MacCaw of Clearbit represents the company&amp;rsquo;s collective knowledge of management. It was written as part of the internal management training program and is now published for anyone who may find it useful.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://changelog.com/gotime/177&#34;&gt;Building startups with Go&lt;/a&gt;: Is the Go programming language a good choice for startups? In this episode of Go Time podcast, the host talks to four startup founders to learn about their experience building a startup with Go.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ietf.org/blog/how-read-rfc/&#34;&gt;How to Read an RFC&lt;/a&gt;: Requests for Comments (RFCs) are how protocols are specified on the Internet. This post provides some insight into how they&amp;rsquo;re constructed and published, and makes it a bit easier to understand what you&amp;rsquo;re looking at.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
