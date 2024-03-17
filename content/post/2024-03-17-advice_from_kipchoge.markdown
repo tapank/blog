@@ -24,6 +24,8 @@ rephrased in my own language.
 - A lot of endurance training keeps injuries at bay.
 - Self discipline means sacrificing passions and pleasures in order to work
   on your career.
+- No human is limited.
+- Believe it first before you can do it.
 - Success is a process. It's mantra is:
   1. Say no a lot.
   2. Set your priorities right.
