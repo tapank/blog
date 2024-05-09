@@ -9,7 +9,29 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Sun, 17 Mar 2024 12:00:33 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2024 11:16:15 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Believing Is Seeing</title>
+      <link>https://karecha.com/blog/2024/05/09/believing-is-seeing/</link>
+      <pubDate>Thu, 09 May 2024 11:16:15 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2024/05/09/believing-is-seeing/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Untutored minds are very prone to mistake inferences for observations, and
+prepossessions for facts; their observations and their judgments are alike
+vitiated by dogma and prejudice; they do not seek to investigate, they seek to
+prove.  The old proverb is inverted, believing is seeing. The student of
+science must pledge himself to do his best to eliminate prepossession and dogma
+from his judgments, and he must spare no pains to acquire the habit of
+recording phenomena as they are observed; and to distinguish sharply between
+what is or has been actually seen, and what is mentally supplied. It requires a
+mind disciplined like a soldier to avoid the natural inclination to look away
+from unwelcome facts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Frederick Ludwig Hoffman&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Advice From Kipchoge</title>
       <link>https://karecha.com/blog/2024/03/17/advice-from-kipchoge/</link>
@@ -442,27 +464,6 @@ distractions while reading.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://8thlight.com/blog/emmanuel-byrd/2022/05/19/well-thought-project-layout-design-for-a-golang-backend.html&#34;&gt;How To Bootstrap A Quality Golang Backend&lt;/a&gt;: Having the knowledge to build a Golang project from scratch will not only give you more freedom to build your own apps, but will also provide you with a better understanding of why your existing codebases are built that way.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Good Links: 18 May 2022</title>
-      <link>https://karecha.com/blog/2022/05/18/three-good-links-18-may-2022/</link>
-      <pubDate>Wed, 18 May 2022 07:00:24 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/05/18/three-good-links-18-may-2022/</guid>
-      <description>&lt;p&gt;A Software Engineering book; JavaScript screencasts; and a Git book.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://abseil.io/resources/swe-book&#34;&gt;Software Engineering at Google&lt;/a&gt;: The &amp;ldquo;SWE Book&amp;rdquo; is not about programming, per se, but about the engineering practices utilized at Google to make their codebase sustainable and healthy. Abseil has made it available for free but it can also be purchased online from the usual stores.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.letscodejavascript.com/&#34;&gt;The JavaScript Screencast for Professionals&lt;/a&gt;: Let&amp;rsquo;s Code JavaScript is a screencast about automation, test-driven development, refactoring, and much more! Launched ten years ago, it now has over 150 hours of content across more than 600 videos, and has been available to subscribers. Now James Shore, the author, has made it free for all.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://jwiegley.github.io/git-from-the-bottom-up/&#34;&gt;Git from the Bottom Up&lt;/a&gt;: Even for daily users of Git, many of its capabilities are too complex to understand. This online book will help to advance your understanding of this powerful content tracking system, and reveal a bit of the simplicity underlying it &amp;ndash; however dizzying its array of options may seem from the outside.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
