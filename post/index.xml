@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Notes to self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2024 11:16:15 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:42:54 +0530</lastBuildDate>
     <atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Managers Won&#39;t Let You Refactor</title>
+      <link>https://karecha.com/blog/2024/05/12/why-managers-wont-let-you-refactor/</link>
+      <pubDate>Sun, 12 May 2024 07:42:54 +0530</pubDate>
+      <guid>https://karecha.com/blog/2024/05/12/why-managers-wont-let-you-refactor/</guid>
+      <description>If you always wonder why managers won&amp;rsquo;t let you refactor, let us understand the reasons behind the decision. As a software developer, one of the most common frustrations is being denied the opportunity to refactor code. It&amp;rsquo;s a situation many of us have faced, where we see the potential for improvement but are met with resistance from managers and stakeholders. Understanding why this happens can help us navigate these challenges and advocate for better code practices.</description>
+    </item>
     <item>
       <title>Believing Is Seeing</title>
       <link>https://karecha.com/blog/2024/05/09/believing-is-seeing/</link>

@@ -9,7 +9,54 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Thu, 09 May 2024 11:16:15 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2024 07:42:54 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Managers Won&#39;t Let You Refactor</title>
+      <link>https://karecha.com/blog/2024/05/12/why-managers-wont-let-you-refactor/</link>
+      <pubDate>Sun, 12 May 2024 07:42:54 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2024/05/12/why-managers-wont-let-you-refactor/</guid>
+      <description>&lt;p&gt;If you always wonder why managers won&amp;rsquo;t let you refactor, let us understand the
+reasons behind the decision. As a software developer, one of the most common
+frustrations is being denied the opportunity to refactor code. It&amp;rsquo;s a situation
+many of us have faced, where we see the potential for improvement but are met
+with resistance from managers and stakeholders. Understanding why this happens
+can help us navigate these challenges and advocate for better code practices.&lt;/p&gt;
+&lt;h2 id=&#34;refactoring-vs-redesign-clarifying-the-difference&#34;&gt;Refactoring vs. Redesign: Clarifying the Difference&lt;/h2&gt;
+&lt;p&gt;Refactoring is often misunderstood as a large-scale redesign, leading to
+misconceptions about its risks and benefits. In reality, true refactoring
+involves small, incremental improvements that enhance code readability,
+maintainability, and extensibility.  It aligns with the &amp;ldquo;boy scout rule,&amp;rdquo; where
+each change leaves the codebase in a better state than before, without
+requiring explicit permission.&lt;/p&gt;
+&lt;h2 id=&#34;addressing-stakeholder-concerns&#34;&gt;Addressing Stakeholder Concerns&lt;/h2&gt;
+&lt;p&gt;Managers and stakeholders may hesitate to approve refactoring due to concerns
+about project timelines and potential disruptions. They prioritize delivering
+critical functionalities and minimizing risks, which can overshadow the
+long-term benefits of continuous code improvement. By demonstrating the value
+of incremental refactoring in reducing technical debt and enhancing overall
+project efficiency, developers can align stakeholders with the importance of
+ongoing code maintenance.&lt;/p&gt;
+&lt;h2 id=&#34;embracing-a-culture-of-continuous-improvement&#34;&gt;Embracing a Culture of Continuous Improvement&lt;/h2&gt;
+&lt;p&gt;Rather than viewing refactoring as a one-time activity that requires formal
+approval, fostering a culture of continuous improvement within the development
+team can lead to organic, ongoing enhancements. By integrating small
+refactorings into daily coding practices, developers can proactively address
+code quality issues without disrupting project timelines or introducing
+unnecessary risks. This approach not only improves the codebase iteratively but
+also cultivates a shared responsibility for code quality among team members.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion-navigating-the-refactoring-dilemma&#34;&gt;Conclusion: Navigating the Refactoring Dilemma&lt;/h2&gt;
+&lt;p&gt;The next time you encounter resistance to refactoring, remember that the
+reluctance is often rooted in valid concerns about project delivery and risk
+management. By advocating for a culture of continuous improvement, emphasizing
+the benefits of incremental refactoring, and aligning with stakeholder
+priorities, developers can overcome barriers to code enhancement and drive
+positive change within their teams.  Refactoring isn&amp;rsquo;t just about improving
+code—it&amp;rsquo;s about fostering a mindset of ongoing improvement that benefits the
+entire development process.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Believing Is Seeing</title>
       <link>https://karecha.com/blog/2024/05/09/believing-is-seeing/</link>
@@ -445,27 +492,6 @@ distractions while reading.&lt;/p&gt;
       <description>&lt;p&gt;Remote work is showing signs of going mainstream. This presents an opportunity for knowledge workers to embrace this option and lead a healthy life. However, there are misconceptions about remote work that can lead to the opposite and you may end up living an unhealthy life. Some misconceptions are: flexible work hours, the ability to work in pajamas, the ability to work from vacation spots, etc. While enticing, this framing is misguided because such a lifestyle is unsustainable. This may be why after the pandemic, some people are longing to go back to the office. They miss the structure and routine an office can provide for their workday.&lt;/p&gt;
 &lt;p&gt;Remote work works best if you are self-disciplined. Once the guard rails from an office environment are unavailable, you need to build your own. You need to fix your work hours. You need to dress for work even when you are remote because this helps your brain put you in work mode. Not doing this blurs the work/life boundary, leading to burnout. Replace your commute time with low-intensity workouts, such as a 30-minute stroll in the neighborhood before and after work. This creates a reasonable boundary between your work hours and off-hours. That last thing is the best part of remote work. No more &amp;ldquo;I don&amp;rsquo;t have time for exercise&amp;rdquo; excuse!&lt;/p&gt;
 &lt;p&gt;Remote work is here to stay as an option for knowledge workers. When done right, it can be life-changing. Seize this opportunity if you can.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Good Links: 25 May 2022</title>
-      <link>https://karecha.com/blog/2022/05/25/three-good-links-25-may-2022/</link>
-      <pubDate>Wed, 25 May 2022 12:07:26 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/05/25/three-good-links-25-may-2022/</guid>
-      <description>&lt;p&gt;Sage advice from Steve McConnell on improving software engineering outcomes; a video introduction to machine learning; and how to build Go backends.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://stevemcconnell.com/articles/cargo-cult-software-engineering/&#34;&gt;Cargo Cult Software Engineering&lt;/a&gt;: In this classic article, Steve McConnell argues that rather than debating process vs. commitment, we should be looking for ways to raise the average level of developer and manager competence to improve outcomes.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qpCQUJQvOrs&#34;&gt;A Quick Guide to Machine Learning&lt;/a&gt;: Seth Juarez of Microsoft talks about machine learning in a way that a programmer gets. He also makes us laugh along the way! He says: Artificial Intelligence is what it is called when you are selling it, and Machine Learning is what it is called when you are doing it.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://8thlight.com/blog/emmanuel-byrd/2022/05/19/well-thought-project-layout-design-for-a-golang-backend.html&#34;&gt;How To Bootstrap A Quality Golang Backend&lt;/a&gt;: Having the knowledge to build a Golang project from scratch will not only give you more freedom to build your own apps, but will also provide you with a better understanding of why your existing codebases are built that way.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
