@@ -22,9 +22,14 @@ post = "/blog/:year/:month/:day/:title/"
 		weight = 1
 
 	[[menu.main]]
+		Name = "About"
+		URL = "/about/"
+		weight = 2
+
+	[[menu.main]]
 		Name = "RSS Feed"
 		URL = "/index.xml"
-		weight = 1
+		weight = 3
 
 # Sidebar menus
 # Header text is "sidebarMenuHeader" in [params]
