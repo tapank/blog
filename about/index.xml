@@ -4,9 +4,10 @@
     <title>About on Notes to self</title>
     <link>https://karecha.com/about/</link>
     <description>Recent content in About on Notes to self</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://karecha.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
+    <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
+    <lastBuildDate>Sat, 30 Dec 2023 11:21:46 +0530</lastBuildDate><atom:link href="https://karecha.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

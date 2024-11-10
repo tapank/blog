@@ -4,16 +4,22 @@
     <title>Notes on Notes to self</title>
     <link>https://karecha.com/notes/</link>
     <description>Recent content in Notes on Notes to self</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 15:41:16 +0530</lastBuildDate>
-    <atom:link href="https://karecha.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
+    <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
+    <lastBuildDate>Sat, 30 Dec 2023 11:21:46 +0530</lastBuildDate><atom:link href="https://karecha.com/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
       <link>https://karecha.com/notes/books/</link>
       <pubDate>Tue, 03 Sep 2024 15:41:16 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
       <guid>https://karecha.com/notes/books/</guid>
-      <description>A personal summary of books I have ready and/or am reading. I started doing this in the beginning of 2024. I may later add some books that I read prior.&#xA;How to Live on Twenty-Four Hours a Day Author: Arnold Bennett&#xA;Reviewed on: 07 September 2024&#xA;Most people go through life without putting much effort into their work or passions. They&amp;rsquo;re bored, unfulfilled, and wondering where the time went. But it doesn&amp;rsquo;t have to be that way.</description>
+      <description>A personal summary of books I have ready and/or am reading. I started doing this in the beginning of 2024. I may later add some books that I read prior.
+How to Live on Twenty-Four Hours a Day Author: Arnold Bennett
+Reviewed on: 07 September 2024
+Most people go through life without putting much effort into their work or passions. They&amp;rsquo;re bored, unfulfilled, and wondering where the time went. But it doesn&amp;rsquo;t have to be that way.</description>
     </item>
+    
   </channel>
 </rss>

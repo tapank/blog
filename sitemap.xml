@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://karecha.com/notes/books/</loc>
-    <lastmod>2024-09-03T15:41:16+05:30</lastmod>
-  </url><url>
     <loc>https://karecha.com/</loc>
-    <lastmod>2024-09-03T15:41:16+05:30</lastmod>
+    <lastmod>2024-11-10T17:10:49+05:30</lastmod>
+  </url><url>
+    <loc>https://karecha.com/blog/2024/11/10/on-happiness-by-pierre-teilhard/</loc>
+    <lastmod>2024-11-10T17:10:49+05:30</lastmod>
   </url><url>
     <loc>https://karecha.com/post/</loc>
-    <lastmod>2024-05-12T07:42:54+05:30</lastmod>
+    <lastmod>2024-11-10T17:10:49+05:30</lastmod>
+  </url><url>
+    <loc>https://karecha.com/notes/books/</loc>
+    <lastmod>2024-09-03T15:41:16+05:30</lastmod>
   </url><url>
     <loc>https://karecha.com/blog/2024/05/12/why-managers-wont-let-you-refactor/</loc>
     <lastmod>2024-05-12T07:42:54+05:30</lastmod>
