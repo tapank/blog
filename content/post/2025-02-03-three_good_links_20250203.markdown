@@ -1,0 +1,24 @@
+---
+title: "Three Good Links: 03 Feb 2025"
+date: 2025-02-03T10:46:51+05:30
+draft: false
+---
+
+1. [Pressure to Merge][1]: How often does the team discard a set of
+   changes and go on to solve the problem a different way because of the
+   discussion in the code review?  The answer should be more often than
+   "never" and less often than "usually".
+
+2. [Emerging Patterns in Building GenAI Products][2]: As we move
+   software products using generative AI technology from
+   proof-of-concepts into production systems, we are uncovering a range
+   of common patterns.
+
+3. [Subjectivity in productivity][3]: Precision. Certainty. Specificity.
+   Everyone wants to know exactly what and exactly when, and they want a
+   statistic attached to corroborate it.  But numbers are rarely answers
+   — just as projects are rarely math problems.
+
+[1]: https://blog.bethcodes.com/code-review-heuristic-work-you-throw-away
+[2]: https://martinfowler.com/articles/gen-ai-patterns/
+[3]: https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee
