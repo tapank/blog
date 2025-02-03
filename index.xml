@@ -9,7 +9,36 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Sun, 10 Nov 2024 17:10:49 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 10:46:51 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 03 Feb 2025</title>
+      <link>https://karecha.com/blog/2025/02/03/three-good-links-03-feb-2025/</link>
+      <pubDate>Mon, 03 Feb 2025 10:46:51 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2025/02/03/three-good-links-03-feb-2025/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.bethcodes.com/code-review-heuristic-work-you-throw-away&#34;&gt;Pressure to Merge&lt;/a&gt;: How often does the team discard a set of
+changes and go on to solve the problem a different way because of the
+discussion in the code review?  The answer should be more often than
+&amp;ldquo;never&amp;rdquo; and less often than &amp;ldquo;usually&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://martinfowler.com/articles/gen-ai-patterns/&#34;&gt;Emerging Patterns in Building GenAI Products&lt;/a&gt;: As we move
+software products using generative AI technology from
+proof-of-concepts into production systems, we are uncovering a range
+of common patterns.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee&#34;&gt;Subjectivity in productivity&lt;/a&gt;: Precision. Certainty. Specificity.
+Everyone wants to know exactly what and exactly when, and they want a
+statistic attached to corroborate it.  But numbers are rarely answers
+— just as projects are rarely math problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>On Happiness by Pierre Teilhard</title>
       <link>https://karecha.com/blog/2024/11/10/on-happiness-by-pierre-teilhard/</link>
@@ -1076,26 +1105,6 @@ distractions while reading.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://architecturenotes.co/fallacies-of-distributed-systems/&#34;&gt;Fallacies of Distributed Systems&lt;/a&gt;: A set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Good Links: 01 June 2022</title>
-      <link>https://karecha.com/blog/2022/06/01/three-good-links-01-june-2022/</link>
-      <pubDate>Wed, 01 Jun 2022 07:23:56 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/06/01/three-good-links-01-june-2022/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.infoworld.com/article/3635708/technical-debt-will-sink-you.html&#34;&gt;Technical debt will sink you&lt;/a&gt;: Short-term fixes and partially implemented systems have costs that can weigh on a company for years. This debt can also stifle innovation, resulting in lower long-term revenue.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/RedditEng/comments/uu3mwj/android_dynamic_feature_modules/&#34;&gt;Android Dynamic Feature Modules&lt;/a&gt;: Reddit Tech Blog talks about how they used Android&amp;rsquo;s Dynamic Feature Modules to reduce the Reddit app size after integrating a new feature from an acquisition.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html&#34;&gt;Major Version Numbers are Not Sacred&lt;/a&gt;: The author of Semantic Versioning (SemVer) spec is unhappy about our collective hesitance to bump the major version of packages. He attempts to convince us that major version numbers are not sacred.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>

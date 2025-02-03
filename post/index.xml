@@ -8,7 +8,17 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Sun, 10 Nov 2024 17:10:49 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 10:46:51 +0530</lastBuildDate><atom:link href="https://karecha.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 03 Feb 2025</title>
+      <link>https://karecha.com/blog/2025/02/03/three-good-links-03-feb-2025/</link>
+      <pubDate>Mon, 03 Feb 2025 10:46:51 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2025/02/03/three-good-links-03-feb-2025/</guid>
+      <description>Pressure to Merge: How often does the team discard a set of changes and go on to solve the problem a different way because of the discussion in the code review? The answer should be more often than &amp;ldquo;never&amp;rdquo; and less often than &amp;ldquo;usually&amp;rdquo;.
+Emerging Patterns in Building GenAI Products: As we move software products using generative AI technology from proof-of-concepts into production systems, we are uncovering a range of common patterns.</description>
+    </item>
+    
     <item>
       <title>On Happiness by Pierre Teilhard</title>
       <link>https://karecha.com/blog/2024/11/10/on-happiness-by-pierre-teilhard/</link>
