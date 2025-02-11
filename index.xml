@@ -9,7 +9,36 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Mon, 03 Feb 2025 10:46:51 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 11:49:54 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 11 Feb 2025</title>
+      <link>https://karecha.com/blog/2025/02/11/three-good-links-11-feb-2025/</link>
+      <pubDate>Tue, 11 Feb 2025 11:49:54 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2025/02/11/three-good-links-11-feb-2025/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.davefarley.net/?p=360&#34;&gt;Team Topologies – Book Review&lt;/a&gt;: Dave Farley reviews the book
+&amp;ldquo;Team Topologies&amp;rdquo; by Matthew Skelton and Manuel Pais.  This book adds
+something important to our discipline: it defines an approach to
+using organizational structure as a tool to achieve better results in
+software.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/&#34;&gt;What it Means to be an Engineering Manager&lt;/a&gt;: These reflections
+offer one view into the realities and challenges of engineering
+management, and may serve as a guide to those on a similar path.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.johndcook.com/blog/2025/02/03/deepseek-r1-do-we-need-less-compute-now/&#34;&gt;DeepSeek-R1: Do we need less compute now?&lt;/a&gt;: There is no
+simplistic argument that faster algorithms and implementations
+necessarily lead to lower spend on computing hardware.  History shows
+that sometimes this is not true at all.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 03 Feb 2025</title>
       <link>https://karecha.com/blog/2025/02/03/three-good-links-03-feb-2025/</link>
@@ -1087,26 +1116,6 @@ distractions while reading.&lt;/p&gt;
 &lt;p&gt;Finally, within the first four weeks, you should have a good understanding of your role&amp;rsquo;s expectations. You should be able to explain what it takes to succeed in this role. This is best done by documenting your goals which you and your manager have agreed upon. Working hard without knowing your goals will sap your energy, enthusiasm, and morale.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;By the end of the fourth week at this new job, you should start feeling at home. You are onboarded, and the next phase begins. From here on, you will contribute to business and deliver a measurable impact. These were the first steps to success in your new job. You are going to be amazing!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Good Links: 08 June 2022</title>
-      <link>https://karecha.com/blog/2022/06/08/three-good-links-08-june-2022/</link>
-      <pubDate>Wed, 08 Jun 2022 09:24:12 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/06/08/three-good-links-08-june-2022/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.jamesshore.com/v2/blog/2019/dont-measure-unit-test-code-coverage&#34;&gt;Don&amp;rsquo;t Measure Unit Test Code Coverage&lt;/a&gt;: Are you trying to improve the code quality? Learn testing skills, speed up the test loop, refactor more, use evolutionary design, and try pairing or mobbing.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext&#34;&gt;The Go Programming Language and Environment&lt;/a&gt;: Creators of Go examine the design decisions they believe are most responsible for Go&amp;rsquo;s success, exploring how they apply not just to the language but also to the environment more broadly.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://architecturenotes.co/fallacies-of-distributed-systems/&#34;&gt;Fallacies of Distributed Systems&lt;/a&gt;: A set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
