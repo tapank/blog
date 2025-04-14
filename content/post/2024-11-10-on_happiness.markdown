@@ -88,7 +88,7 @@ primarily theoretical, we shall try together to define the best route
 leading to human happiness.
 
 In the second part, which will serve as a conclusion, we shall consider
-how we must adapt out individual lives to these general axes which run
+how we must adapt our individual lives to these general axes which run
 towards happiness.
 
 # 1. THE THEORETICAL AXES OF HAPPINESS
