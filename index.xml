@@ -9,7 +9,40 @@
     <language>en-us</language>
     <managingEditor>tapan@karecha.com (Tapan Karecha)</managingEditor>
     <webMaster>tapan@karecha.com (Tapan Karecha)</webMaster>
-    <lastBuildDate>Wed, 26 Mar 2025 09:39:41 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Apr 2025 09:58:00 +0530</lastBuildDate><atom:link href="https://karecha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Good Links: 21 April 2025</title>
+      <link>https://karecha.com/blog/2025/04/21/three-good-links-21-april-2025/</link>
+      <pubDate>Mon, 21 Apr 2025 09:58:00 +0530</pubDate>
+      <author>tapan@karecha.com (Tapan Karecha)</author>
+      <guid>https://karecha.com/blog/2025/04/21/three-good-links-21-april-2025/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://endler.dev/2024/move-slow-and-fix-things/&#34;&gt;Move Slow and Fix Things&lt;/a&gt;: The author argues that moving slowly
+doesn&amp;rsquo;t mean you can&amp;rsquo;t make quick decisions. It&amp;rsquo;s just that the
+execution should be deliberate. Don&amp;rsquo;t wreak havoc along the way.
+Because the time to fix what you might break rarely comes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://endler.dev/2025/best-programmers/&#34;&gt;The Best Programmers I Know&lt;/a&gt;: The author lists some important
+traits of effective programmers.  For example, he says, the best keep
+digging until they find the reason. They might not find the reason
+immediately, they might never find it, but they never blame external
+circumstances.  With this attitude, they are able to make incredible
+progress and learn things that others fail to.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/&#34;&gt;Senior Developer Skills in the AI Age&lt;/a&gt;: Senior software engineers
+are in the perfect position to ensure success with Coding Assistants,
+because the very experience and accumulated know-how in software
+engineering and project management best practices, which only seem
+obsolete in the age of AI, are precisely what enable the most
+effective use of these tools.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
     <item>
       <title>Three Good Links: 26 March 2025</title>
       <link>https://karecha.com/blog/2025/03/26/three-good-links-26-march-2025/</link>
@@ -207,7 +240,7 @@ able at least to help you to find it.&lt;/p&gt;
 primarily theoretical, we shall try together to define the best route
 leading to human happiness.&lt;/p&gt;
 &lt;p&gt;In the second part, which will serve as a conclusion, we shall consider
-how we must adapt out individual lives to these general axes which run
+how we must adapt our individual lives to these general axes which run
 towards happiness.&lt;/p&gt;
 &lt;h1 id=&#34;1-the-theoretical-axes-of-happiness&#34;&gt;1. THE THEORETICAL AXES OF HAPPINESS&lt;/h1&gt;
 &lt;h2 id=&#34;a-the-root-of-the-problem-three-different-attitudes-to-life&#34;&gt;A. The Root of the Problem: Three Different Attitudes to Life&lt;/h2&gt;
@@ -1104,26 +1137,6 @@ distractions while reading.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/&#34;&gt;How we&amp;rsquo;re using projects to build projects&lt;/a&gt;: If your team uses GitHub for hosting code but does not use it for project planning and execution, you may want to reconsider. Check out how GitHub uses projects to build a powerful project planning for developers in a &amp;ldquo;Eat your own dog food&amp;rdquo; kind of way.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Good Links: 22 June 2022</title>
-      <link>https://karecha.com/blog/2022/06/22/three-good-links-22-june-2022/</link>
-      <pubDate>Wed, 22 Jun 2022 08:48:44 +0530</pubDate>
-      <author>tapan@karecha.com (Tapan Karecha)</author>
-      <guid>https://karecha.com/blog/2022/06/22/three-good-links-22-june-2022/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://lingnik.com/2022/06/07/i-am-an-engineer-again-or-there-and-back-again.html&#34;&gt;I&amp;rsquo;m an Engineer Again&lt;/a&gt;: A story of an engineer who became a manager and then seven years later, decided to stop being a manager. Now he is an engineer again.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://engineering.grab.com/real-time-data-ingestion&#34;&gt;Real-time data ingestion at Grab&lt;/a&gt;: Grab&amp;rsquo;s scalable event-driven solution, facilitated by a bunch of internal products, and designed for real-time ingestion.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing&#34;&gt;Making Code Faster&lt;/a&gt;: When you have a body of code with a decent unit-test suite and you need to make it go faster.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
