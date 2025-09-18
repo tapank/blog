@@ -6,7 +6,7 @@ theme = "smol"
 googleAnalytics = "G-B15DFJNCEQ"
 
 # Number of blog posts displayed in each page
-paginate = 25
+pagination.pagerSize = 25
 
 [permalinks]
 post = "/blog/:year/:month/:day/:title/"
@@ -57,6 +57,8 @@ post = "/blog/:year/:month/:day/:title/"
 	# Author's name (this will appear in metadata and under posts)
 	author = "Tapan Karecha"
 
+	email = "tapan@karecha.com"
+
 	# This text appears in the site header under website title
 	subtitle = "Not gold alone brought us hither"
 
@@ -91,10 +93,6 @@ post = "/blog/:year/:month/:day/:title/"
 
 	rssLimit = 20
 	languageCode = "en-us"
-
-[author]
-	name = "Tapan Karecha"
-	email = "tapan@karecha.com"
 
 # Blackfriday is Hugo's markdown engine. Options are at: https://gohugo.io/overview/configuration/ (scroll down to "Configure Blackfriday rendering")
 [blackfriday]
