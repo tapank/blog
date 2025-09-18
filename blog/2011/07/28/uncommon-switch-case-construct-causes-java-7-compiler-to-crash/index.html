@@ -7,17 +7,20 @@
 	<style type=text/css>body{font-family:monospace;}</style>
 	<title>Uncommon switch-case construct causes java 7 compiler to crash</title>
 	
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-B15DFJNCEQ"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-B15DFJNCEQ', { 'anonymize_ip': false });
-}
-</script>
-
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-B15DFJNCEQ"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-B15DFJNCEQ');
+        }
+      </script>
 	
 	<meta name="author" content="Tapan Karecha">
 	<link rel="stylesheet" href="/css/style.css">
@@ -53,8 +56,7 @@ if (!doNotTrack) {
 			<div>
 				<p><a href="http://java.sun.com/docs/books/jls/download/langspec-3.0.pdf">Java language specification 3.0</a> defines a switch block as:</p>
 <blockquote>
-<p>The body of a switch statement is known as a switch block. Any statement immediately contained by the switch block may be labeled with one or more case or default labels. These labels are said to be associated with the switch statement, as are the values of the constant expressions in the case labels.</p>
-</blockquote>
+<p>The body of a switch statement is known as a switch block. Any statement immediately contained by the switch block may be labeled with one or more case or default labels. These labels are said to be associated with the switch statement, as are the values of the constant expressions in the case labels.</p></blockquote>
 <p>One of the valid forms of constant expression is: Parenthesized expressions whose contained expression is a constant expression, and examples are:</p>
 <p><code>case (3):</code></p>
 <p>or</p>
@@ -146,6 +148,8 @@ SystemRoot=C:\Windows
 		<div>
 			<ul>
 				
+				<li><a href="/blog/2025/09/18/proactivity/">Proactivity</a></li>
+				
 				<li><a href="/blog/2025/06/28/software-is-changing-again/">Software Is Changing (Again)</a></li>
 				
 				<li><a href="/blog/2025/04/21/three-good-links-21-april-2025/">Three Good Links: 21 April 2025</a></li>
@@ -153,8 +157,6 @@ SystemRoot=C:\Windows
 				<li><a href="/blog/2025/03/26/three-good-links-26-march-2025/">Three Good Links: 26 March 2025</a></li>
 				
 				<li><a href="/blog/2025/02/27/three-good-links-27-feb-2025/">Three Good Links: 27 Feb 2025</a></li>
-				
-				<li><a href="/blog/2025/02/11/three-good-links-11-feb-2025/">Three Good Links: 11 Feb 2025</a></li>
 				
 			</ul>
 		</div>
