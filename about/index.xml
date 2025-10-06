@@ -9,6 +9,38 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Dec 2023 11:21:46 +0530</lastBuildDate><atom:link href="https://karecha.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Who Wrote This</title>
+      <link>https://karecha.com/blog/2025/10/06/who-wrote-this/</link>
+      <pubDate>Mon, 06 Oct 2025 18:05:36 +0530</pubDate>
+      
+      <guid>https://karecha.com/blog/2025/10/06/who-wrote-this/</guid>
+      <description>&lt;p&gt;My previous post about retirement was written by AI.  I told Gemini that
+I needed to write a post, and then gave it a bullet list of things that
+I wanted to talk about.  I also included instructions about what the
+tone of the post should be.  Gemini did a decent job but it did not feel
+like I would have written that post, so I took the text and made a few
+changes.  I removed the section headings, removed a few extraneous
+sentences, merged a few sentences to make them shorter and easier to
+read, etc.  In the end, the post looked like it was my style but anybody
+who read that would know it is too flawless to have been written by hand
+— it had to be written by a machine.  Also, when I will read it in the
+future, it will not feel like it came from me, so the whole point of
+writing something with AI&amp;rsquo;s assistance feels pointless.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t get me wrong — I think it is a great tool for writing at your
+workplace.  It simply makes things so much easier to churn out a wall of
+text that has to be produced anyways.  But even in that context, I think
+a message from a leader to their team will be much more effective if it
+feels like it came right out of the horse&amp;rsquo;s mouth.&lt;/p&gt;
+&lt;p&gt;And one final thought about en and em dashes.  When I write with the aid
+of AI, I remove all em dashes from text because that is one of the
+giveaways of something written by AI.  But I love using them in my
+writing, even when I am writing a journal entry in a dead tree notebook.
+So, the em dashes you see in this post are here because I added them,
+not because this post was written by Gemini.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Retirement</title>
       <link>https://karecha.com/blog/2025/10/04/retirement/</link>
       <pubDate>Sat, 04 Oct 2025 11:21:25 +0530</pubDate>
@@ -1166,19 +1198,6 @@ distractions while reading.&lt;/p&gt;
 &lt;p&gt;This capability is still in its infancy but has reached a point where it will soon change the way people work. It was quite tempting for me to have this post written by ChatGPT, but I resisted that temptation because I don&amp;rsquo;t want to take the fun out of writing a blog post. It would be too easy to churn out post after post using ChatGPT, but then what&amp;rsquo;s the point? We write in order to aid our thinking. However, I have already started using ChatGPT for writing in general, and so have millions of others.&lt;/p&gt;
 &lt;p&gt;With &lt;a href=&#34;https://github.com/features/copilot&#34;&gt;GitHub Copilot&lt;/a&gt;, AI-assisted coding will gain momentum. Though Copilot started off getting some flack for copyright infringement, but once the dust settles, it will be a game changer. A few open-source alternatives are also in the making and will compete with Copilot. It is just a matter of time before enough software developers would have tried Copilot or equivalent, and they will be surprised by the difference it makes to their productivity. It will take care of writing all the boiler plate, and let you tweak and finetune the core or business logic it proposes. Eventually, the business leaders will expect software developers to deliver more and deliver faster. They will be able to cut cost by reducing the development team sizes or do more with the existing teams.&lt;/p&gt;
 &lt;p&gt;Some software developers may initially see this as a threat, but this will instead have the effect of making tech more approachable or viable for businesses with smaller tech budgets. The net result will be more jobs in the tech sector. I think it is time for us to start thinking of AI-assisted coding and writing as tools in our toolkit. The future continues to get more exciting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning a Language</title>
-      <link>https://karecha.com/blog/2022/11/17/learning-a-language/</link>
-      <pubDate>Thu, 17 Nov 2022 13:20:34 +0530</pubDate>
-      
-      <guid>https://karecha.com/blog/2022/11/17/learning-a-language/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.math.chalmers.se/~ulfp/Review/SStyle.pdf&#34;&gt;Steven Pinker on learning a language&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You learn a language by exposure. First during the critical stages of growing up, a process surprisingly fast and effective, but only pertaining to the basic aspect of language, namely its oral one. Similarly to learn to write you need to read a lot, and this is a far less natural process and takes much longer time. To acquire a sense of style you need a lot of exposure, and this is what eventually provides you with an ear going beyond that of the oral aspect.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;This also makes sense if read in the context of programming languages.&lt;/p&gt;
 </description>
     </item>
     
