@@ -1,4 +1,8 @@
---- title: "Bhagavad Gita" date: 2026-11-18T09:30:45+05:30 draft: false ---
+---
+title: "Bhagavad Gita"
+date: 2026-11-18T09:30:45+05:30
+draft: false
+---
 
 When I was a teenager, my grandfather advised me to make a habit of reading the
 Bhagavad Gita regularly. I am finally at a point where I now read a chapter
