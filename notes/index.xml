@@ -9,6 +9,60 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Dec 2023 11:21:46 +0530</lastBuildDate><atom:link href="https://karecha.com/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bhagavad Gita</title>
+      <link>https://karecha.com/blog/2026/11/18/bhagavad-gita/</link>
+      <pubDate>Wed, 18 Nov 2026 09:30:45 +0530</pubDate>
+      
+      <guid>https://karecha.com/blog/2026/11/18/bhagavad-gita/</guid>
+      <description>&lt;p&gt;When I was a teenager, my grandfather advised me to make a habit of reading the
+Bhagavad Gita regularly. I am finally at a point where I now read a chapter
+every week.&lt;/p&gt;
+&lt;p&gt;But I had not imagined it would take me so long to get to this point. I was led
+astray, for decades, by available options in the bookstores. Over time, I
+bought the first two of the list below, and every time I tried to read, I
+failed to get past the first 50 to 100 pages. These books, though well
+intentioned, distract the reader from the fact that the Bhagavad Gita itself is
+very accessible. All you need is a verse-by-verse translation in a language of
+your choice. Each verse is very deep but it does not require a multi-page
+commentary found in these books listed below. These books seem to go to great
+lengths to demonstrate the &amp;ldquo;depth of knowledge&amp;rdquo; of the author, as if they were
+asked to write a thesis, and the most complicated and convoluted and lengthy
+submission wins.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bhagavad-gita As It Is (Swami Prabhupada): ~980 – 1,008 pages&lt;/li&gt;
+&lt;li&gt;Gita Rahasya (Lokmanya Bal Gangadhar Tilak): ~1,000 – 1,050 pages&lt;/li&gt;
+&lt;li&gt;The Holy Geeta (Swami Chinmayananda): ~1,130 – 1,270 pages&lt;/li&gt;
+&lt;li&gt;God Talks with Arjuna (Paramahansa Yogananda): ~1,224 pages&lt;/li&gt;
+&lt;li&gt;Sadhak Sanjivani (Swami Ramsukhdas): ~1,200 – 1,280 pages&lt;/li&gt;
+&lt;li&gt;Essays on the Gita (Sri Aurobindo): ~576 – 610 pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A typical Indian wanting to study the Gita is very likely to be put on the path
+that I tried to navigate, and when they fail at making any progress in
+understanding the Gita, they may incorrectly assume that the text is beyond
+them &amp;ndash; they are not yet ready to grasp it. This is unfortunate because they
+were never guided to the fact that Gita is way more accessible than what they
+have been led to believe. Of course, every time you read Gita, you walk away
+with new insights that make you fall in love with the text even more.&lt;/p&gt;
+&lt;p&gt;If I had known, I would have started with a simple translation at the very
+beginning, instead of struggling with the huge volumes which were very
+difficult to read.&lt;/p&gt;
+&lt;p&gt;I found the following edition from Gita Press the most accessible of all. It is
+just a Hindi translation, and no more. It is possible to read the whole book
+cover to cover in a few hours. A chapter can be read in 15 - 20 minutes. The
+typeface is set to a very large size, perhaps keeping aging readers in mind. If
+this were in a normal-sized typeface, the book would be a third of its current
+size. I actually like the large typeface.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shrimad Bhagavad Gita (Shri Jayadayal Goyandka): 256 pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have ever wanted to read the Bhagavad Gita and are lost because you are
+wrestling with one of the voluminous texts, may I suggest that you read a
+translation (without commentary). You may be pleasantly surprised by how
+accessible it is.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Get Unstuck In 30 Seconds</title>
       <link>https://karecha.com/blog/2026/04/22/get-unstuck-in-30-seconds/</link>
       <pubDate>Wed, 22 Apr 2026 09:59:51 +0530</pubDate>
@@ -1218,23 +1272,6 @@ distractions while reading.&lt;/p&gt;
       <description>&lt;p&gt;Yesterday, I attended a roadshow by Google Cloud at the Novotel Hotel in Bellandur, Bengaluru. There were around two dozen attendees and a panel of six executives from some well-known companies. The panel discussion involved questions from the moderator, a Google employee, and they had said there would be time for audience questions at the end. Unfortunately, the panel discussion ran over time, and there was no opportunity for Q&amp;amp;A with the panel.&lt;/p&gt;
 &lt;p&gt;The next part of the event involved introductions by the attendees and questions for the Google employees. The last hour was spent on dinner, drinks, and socializing. I was surprised by how much I enjoyed this part of the event (no, I did not drink). Since the start of Covid lockdowns, I have worked remotely and continue to do so to this day. Despite the advantages of remote work, one thing I miss is meeting with people to discuss industry trends and hear their perspectives on various topics. Yesterday, I got to do just that, and it was refreshing. I met a young startup founder, a product owner from a large company, a finance manager from another tech company, executives from F&amp;amp;G industry companies, and others. Most of them were just as eager to share their stories as I was to hear them.&lt;/p&gt;
 &lt;p&gt;Reflecting on the experience, I realize I should seek out more networking opportunities like this in the future.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Incident Management 101: Communicate, Solve, and Analyze</title>
-      <link>https://karecha.com/blog/2023/01/13/incident-management-101-communicate-solve-and-analyze/</link>
-      <pubDate>Fri, 13 Jan 2023 12:21:12 +0530</pubDate>
-      
-      <guid>https://karecha.com/blog/2023/01/13/incident-management-101-communicate-solve-and-analyze/</guid>
-      <description>&lt;p&gt;In the world of software development, incidents and issues happen all the time; sometimes major ones but mostly minor. Some companies have well-defined checklists and rulebooks for handling incidents, perhaps because they move fast and break things often. Others do not have a rulebook because incidents are a rarity, and they let people&amp;rsquo;s best judgment prevail in terms of how these incidents are handled.&lt;/p&gt;
-&lt;p&gt;Next time you find yourself in the eye of a storm, remember these three principles of good incident management.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Communicate: The moment you find yourself an owner of an incident, start communicating. Address your communication to everybody who should know. This could be via email, team chat, or whatever else your company uses to communicate broadly. Let people know about the nature of incident, what is your current understanding of the ongoing impact on business, and what are you planning to do next. Update this thread every time you have something important to say. If you get stuck and it is taking longer for you to make progress, make sure you communicate that too. The last thing you want is for the stakeholders to start pinging you directly for updates which will slow you down. The updates on the communication should stop only after the issue is resolved and your last update should include a summary of the fix.&lt;/li&gt;
-&lt;li&gt;Solve: Your goal during an incident is to find the best possible solution in the shortest amount of time, in order to minimize business impact. Seek help as soon as you need it, and make sure you are reaching out to those who you think are in the right position to be able to help you. If the ongoing impact is severe, and you are unable to make progress, escalate up your management chain to let them know that you will need help from someone more knowledgeable in a certain area. Let them find you someone who can step in and help.&lt;/li&gt;
-&lt;li&gt;Analyze: Once the storm is over, the next step is to dive deep to find out what caused the issue, what can be improved to prevent similar incidents in the future, and come up with a list of action items. The action you and your team will take after the incident will show the level of maturity of the team as well as the organization. Good teams always improve things in the aftermath of an incident. They focus more on learning and understanding the past mistakes and spend less or no time finger-pointing or blaming.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;These simple steps can be followed even if your team or organization is not in the habit of expecting any of this from you. Use this as an opportunity to show your maturity and raise the team bar. This approach will help reduce the stress of incident management by putting you in a problem-solving mode. You and your team will emerge from the crisis much better, stronger, and with a deeper understaning of your applications and business.&lt;/p&gt;
 </description>
     </item>
     
