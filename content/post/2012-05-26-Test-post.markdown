@@ -1,6 +1,0 @@
-+++
-title = "Test post from Xubuntu"
-date = "2012-05-26"
-+++
-
-This is my first post from the Linux system since I moved from Windows to Linux on my work computer. If you are seeing this post, the setup is now complete. But I have to say what a pain it is to get the Octopress setup right, if you are not a ruby developer. But there is no point in complaining too much because Octopress in general is very likable.

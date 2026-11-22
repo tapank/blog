@@ -1,9 +1,0 @@
-+++
-title = "Tablet market"
-date = "2011-11-28"
-+++
-
-> PC manufacturers are utterly failing in the tablet market.
-
--- Daring Fireball, [Fun with Numbers](http://daringfireball.net/2011/11/fun_with_numbers)
-

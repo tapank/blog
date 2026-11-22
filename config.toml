@@ -5,112 +5,23 @@ title = "Notes to self"
 theme = "smol"
 googleAnalytics = "G-B15DFJNCEQ"
 
-# Number of blog posts displayed in each page
-pagination.pagerSize = 25
+disableKinds = ["RSS", "taxonomy", "term"]
 
-[permalinks]
-post = "/blog/:year/:month/:day/:title/"
-
-# Menu
-# Links are added to navigation in hugo-octopress/layouts/partials/navigation.html
-# If navigationNewWindow is set in [params] to true then all links except root ("/") will open in a new window
-# If navigationNewWindow does not exist or set to false then links will open in the same window
-[menu]
-	[[menu.main]]
-		Name = "Home"
-		URL = "/"
-		weight = 1
-
-	[[menu.main]]
-		Name = "About"
-		URL = "/about/"
-		weight = 2
-
-	[[menu.main]]
-		Name = "RSS Feed"
-		URL = "/index.xml"
-		weight = 3
-
-# Sidebar menus
-# Header text is "sidebarMenuHeader" in [params]
-[[menu.sidebar]]
 [params]
-	# --- Start sidebar options ---
-	# Number of recent posts that will be shown in the sidebar - set to 0 or remove to hide this section
-	sidebarRecentLimit = 15
-
-	# Sidebar header - passed to markdownify so you can write markdown here
-	# sidebarHeader = "Recent Posts"
-
-	sidebarMenuEnabled = false
-	sidebarMenuHeader = "Contact"
-
-	# --- End sidebar options ---
-
-	# If set to true, navigation menu links will open in a new window with the exception of links to root ("\")
-	# If this item does not exist or set to false, then navigation menu links will open in the same window
-	# navigationNewWindow = true
-
-	# If false, all of the post will appear on front page (and in pagination)
-	truncate = false
-
-	# Author's name (this will appear in metadata and under posts)
 	author = "Tapan Karecha"
-
 	email = "tapan@karecha.com"
-
-	# This text appears in the site header under website title
 	subtitle = "Not gold alone brought us hither"
 
-	# Text of the "Continue Reading" label. &rarr; == right arrow, but it gets messed up in the string so we will add it to index.html manually
-	continueReadingText = "continue reading"
-
-	# rss = true  # switch to true to enable RSS icon link
-
-	# Set to true to use a text label for RSS instead of an icon
-	# This is overwritten by the `rss` setting
-	textrss = true
-
-	# Website's default description
-	defaultDescription = ""
-
-	# 404.html header and text -both support markdown
+	# 404.html header and text
 	notFoundHeader = "There's nothing here"
-
 	notFoundText = """Please either go back or use the navigation/sidebar menus."""
 
-	# Set to true to hide ReadingTime on posts
 	disableReadingTime = true
-
-	# Set to true to disable downloading of remote Google fonts
 	disableGoogleFonts = true
-
-	# Generate taxonomy pages
-	generateTaxonomyList = true
-
-	# This is not needed unless alphabetical sort is needed
-	# sortTaxonomyAlphabetical = true
-
-	rssLimit = 20
 	languageCode = "en-us"
 
-# Blackfriday is Hugo's markdown engine. Options are at: https://gohugo.io/overview/configuration/ (scroll down to "Configure Blackfriday rendering")
-[blackfriday]
-	hrefTargetBlank = true # open the external links in a new window
-	fractions = false
-
 [markup.goldmark.renderer]
-	unsafe= true
+	unsafe = true
 
 [outputs]
-	home = ["HTML", "RSS"]
-
-[outputFormats.RSS]
-	mediatype = "application/rss+xml"
-	baseName = "index"
-	isPlainText = true
-	notAlternative = true
-	isHTML = false  # Exclude HTML content
-	isPage = false  # Exclude regular pages
-	isPost = true   # Include only posts
-
+	home = ["HTML"]

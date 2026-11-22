@@ -1,7 +1,0 @@
-+++
-title = "Network diagram"
-date = "2010-08-17"
-+++
-
-[Network diagram of the world -- sort of](http://www.cablemap.info/)
-

@@ -1,9 +1,0 @@
-+++
-title = "Extraordinary"
-date = "2011-05-07"
-+++
-
-> Extraordinary claims require extraordinary evidence.
-
--- [Processes | asymco](http://www.asymco.com/processes/)
-

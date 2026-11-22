@@ -1,9 +1,0 @@
-+++
-title = "Happiness"
-date = "2011-03-17"
-+++
-
-> Happiness Can Be Engineered
-
--- [Scott Adams Blog: Happiness Engineering 03/17/2011](http://dilbert.com/blog/entry/happiness_engineering/)
-

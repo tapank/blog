@@ -2,7 +2,7 @@
 title = "Resume"
 date = 2026-06-17T10:20:40+05:30
 draft = false
-type = "note"
+aliases = ["/about/", "/about"]
 +++
 
 *Name*: Tapan Karecha  
@@ -37,7 +37,6 @@ Worked at **Amazon** Development Center, where I grew a team of 5 SDEs to: 14 SD
 
 *July 2000–Feb 2013*   
 Worked at **HP Software** as Engineering Manager and, earlier, as a Software Developer. During this tenure I successfully delivered multiple releases of two enterprise grade software products that are used by several large enterprises across the globe including telecom service providers, banks, manufacturers and governments. I transitioned into this role after developing software for these products during my initial years at HP. I also enabled solution delivery teams at some of our largest clients including Vodafone (Germany), Telstra (Australia), and KTF (South Korea) for which I received multiple high profile awards.
-
 
 *Sept 1999–June 2000*  
 Worked at **Intelligroup Asia Pvt Ltd** as a Sun Certified Java Trainer. This was the time when Java was picking up in adoption and popularity, and was quickly replacing C++ as the defacto language for implementing business applications. I taught Java and this was my first job in the IT industry after working for a decate in the construction industry in various roles.

@@ -1,8 +1,0 @@
-+++
-title = "Tumblr issues"
-date = "2010-08-17"
-+++
-
-[Tumblr](http://www.tumblr.com) is acting up. Looks like the site is
-undergoing maintenance which is making it flaky. This should pass…
-

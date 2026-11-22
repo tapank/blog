@@ -1,9 +1,0 @@
-+++
-title = "Solution"
-date = "2011-07-02"
-+++
-
-> Once a problem is described in sufficient detail, its solution is obvious.
-
--- [Kent Beck](http://c2.com/cgi/wiki?KentBeck) (see [Rubber Ducking](http://c2.com/cgi/wiki?RubberDucking) at [c2.com](http://c2.com/))
-

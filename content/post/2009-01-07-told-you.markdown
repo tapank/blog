@@ -1,8 +1,0 @@
-+++
-title = "Told you so"
-date = "2009-01-07"
-+++
-
-Yesterday I talked about the [future of publishing](/blog/2009/01/06/publishing/) and said plagiarism will be detected early and often due to the possibility of searching the internet, including searching in eBooks. Today, New York  Times ran [an article](http://www.nytimes.com/2009/01/09/books/07book.html) which talks about just one such incident where plagiarism has been detected and the guilty has admitted having done that. Though the article does not refer to a 'book search' that made it possible, I am guessing that is the case. And note that the culprit does not contest the original author's accusation. There is no way people will not know plagiarism, just because anybody can verify that claim with a simple book search.
-
-See? I told you so.

@@ -1,9 +1,0 @@
-+++
-title = "Food"
-date = "2011-11-06"
-+++
-
-> Eat food. Not too much. Mostly plants.
-
--- [http://www.amazon.com/Food-Rules-Eaters-Michael-Pollan/dp/014311638X](http://www.amazon.com/Food-Rules-Eaters-Michael-Pollan/dp/014311638X)
-

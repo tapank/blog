@@ -1,9 +1,0 @@
-+++
-title = "Negotiation"
-date = "2011-07-10"
-+++
-
-> Negotiation isn’t just a cost because nobody knows what they need.
-
--- [On negotiation](http://www.threeriversinstitute.org/blog/?p=420) by [Kent Beck](http://twitter.com/#/kentbeck)
-

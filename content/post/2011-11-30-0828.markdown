@@ -1,8 +1,0 @@
-+++
-title = "Great company"
-date = "2011-11-30"
-+++
-
-Everybody wants to work for a great company. Few want to make a company
-great.
-

@@ -1,19 +1,7 @@
 # clean up
 trgt="../public"
-rm $trgt/{favicon.png,index.html,index.xml,sitemap.xml}
-if (( $? )); then
-	echo "Error while cleaning up files" >&2
-else
-	echo "Files cleand up"
-fi
-
-rm -r $trgt/{blog,notes,css,categories,images,page,post,tags}
-if (( $? )); then
-	echo "Error while cleaning up folders" >&2
-	exit 1
-else
-	echo "Folders cleand up"
-fi
+rm -f $trgt/{favicon.png,index.html,index.xml,sitemap.xml}
+rm -rf $trgt/{blog,notes,css,categories,images,page,post,tags,about}
 
 # build
 hugo -d ../public

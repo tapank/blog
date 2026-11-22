@@ -1,9 +1,0 @@
-+++
-title = "Anything"
-date = "2011-07-13"
-+++
-
-> As soon as you say you will take anything, you will really take anything.
-
--- [Merlin Mann](http://www.merlinmann.com/) in [Back to Work Episode 24](http://5by5.tv/b2w/24)
-
